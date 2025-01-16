@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
@@ -18,20 +18,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 33
+            "height": -33
           },
-          "rawMisMatchPercentage": 19.575288035727688,
-          "misMatchPercentage": "19.58",
-          "analysisTime": 177
+          "rawMisMatchPercentage": 19.8520533100653,
+          "misMatchPercentage": "19.85",
+          "analysisTime": 181
         },
-        "diffImage": "../bitmaps_test/20250113-103802/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-070157/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bookstore_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Bookstore_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Bookstore_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bookstore_0_document_0_desktop.png",
         "label": "Bookstore",
@@ -47,9 +47,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.007747701045798774,
+          "rawMisMatchPercentage": 0.005465650919581681,
           "misMatchPercentage": "0.01",
-          "analysisTime": 179
+          "analysisTime": 177
         }
       },
       "status": "pass"
@@ -57,7 +57,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Conferences_and_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Conferences_and_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Conferences_and_Events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Conferences_and_Events_0_document_0_desktop.png",
         "label": "Conferences and Events",
@@ -81,7 +81,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Professional_Learning_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Professional_Learning_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Professional_Learning_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Professional_Learning_0_document_0_desktop.png",
         "label": "Professional Learning",
@@ -105,7 +105,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Science_Standards_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Science_Standards_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Science_Standards_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Science_Standards_0_document_0_desktop.png",
         "label": "Science Standards",
@@ -121,7 +121,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.08329903036955727,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 115
         }
       },
       "status": "pass"
@@ -129,7 +131,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Biology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Biology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Biology_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Biology_0_document_0_desktop.png",
         "label": "Biology",
@@ -145,9 +147,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04156569736133549,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 98
+          "rawMisMatchPercentage": 0.020740778136779752,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 133
         }
       },
       "status": "pass"
@@ -155,7 +157,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
         "label": "Science Scope March 2020",
@@ -171,9 +173,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.07291666666666667,
-          "misMatchPercentage": "0.07",
-          "analysisTime": 125
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 108
         }
       },
       "status": "pass"
@@ -181,7 +183,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
         "label": "After School STEAM Club",
@@ -205,7 +207,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Daily_Do_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Daily_Do_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Daily_Do_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Daily_Do_0_document_0_desktop.png",
         "label": "Daily Do",
@@ -229,7 +231,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Overview_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Overview_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Overview_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Overview_0_document_0_desktop.png",
         "label": "Overview",
@@ -253,7 +255,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lesson_Plan_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250113-103802/backstop_default_Lesson_Plan_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-070157/backstop_default_Lesson_Plan_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lesson_Plan_0_document_0_desktop.png",
         "label": "Lesson Plan",
@@ -264,16 +266,16 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -23
           },
-          "rawMisMatchPercentage": 0.16818318827474474,
-          "misMatchPercentage": "0.17",
-          "analysisTime": 199
+          "rawMisMatchPercentage": 0.42155886176104895,
+          "misMatchPercentage": "0.42",
+          "analysisTime": 215
         },
-        "diffImage": "../bitmaps_test/20250113-103802/failed_diff_backstop_default_Lesson_Plan_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-070157/failed_diff_backstop_default_Lesson_Plan_0_document_0_desktop.png"
       },
       "status": "fail"
     }
