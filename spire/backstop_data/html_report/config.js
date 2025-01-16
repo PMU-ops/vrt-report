@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
         "label": "BackstopJS Homepage",
@@ -18,20 +18,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 62
+            "height": 252
           },
-          "rawMisMatchPercentage": 29.550594598146024,
-          "misMatchPercentage": "29.55",
-          "analysisTime": 394
+          "rawMisMatchPercentage": 28.791551830402828,
+          "misMatchPercentage": "28.79",
+          "analysisTime": 355
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_BackstopJS_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_BackstopJS_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
         "label": "Spire Ortho Homepage",
@@ -47,18 +47,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 58.631813291895774,
-          "misMatchPercentage": "58.63",
-          "analysisTime": 297
+          "rawMisMatchPercentage": 8.46619999601562,
+          "misMatchPercentage": "8.47",
+          "analysisTime": 278
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
         "label": "Spire Ortho Physician Directory",
@@ -74,18 +74,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.12921146424070573,
+          "rawMisMatchPercentage": 0.12919915721487082,
           "misMatchPercentage": "0.13",
-          "analysisTime": 2197
+          "analysisTime": 1894
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
         "label": "Spire Ortho About Us",
@@ -101,18 +101,18 @@ report({
             "width": 0,
             "height": -357
           },
-          "rawMisMatchPercentage": 25.709140826873384,
-          "misMatchPercentage": "25.71",
-          "analysisTime": 4027
+          "rawMisMatchPercentage": 60.908204134366926,
+          "misMatchPercentage": "60.91",
+          "analysisTime": 4180
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
         "label": "Spire Ortho Physician Leadership",
@@ -128,18 +128,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 66.21409082500925,
-          "misMatchPercentage": "66.21",
-          "analysisTime": 2285
-        },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.002578153903070662,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1987
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
         "label": "Spire Ortho News",
@@ -153,20 +152,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -600
+            "height": 600
           },
-          "rawMisMatchPercentage": 78.96426974574634,
-          "misMatchPercentage": "78.96",
-          "analysisTime": 2202
+          "rawMisMatchPercentage": 78.19542125870069,
+          "misMatchPercentage": "78.20",
+          "analysisTime": 2005
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Spire_Ortho_News_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Spire_Ortho_News_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
         "label": "ONSMD Homepage",
@@ -177,23 +176,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 2
+            "height": 0
           },
-          "rawMisMatchPercentage": 4.895978539985327,
-          "misMatchPercentage": "4.90",
-          "analysisTime": 3305
+          "rawMisMatchPercentage": 0.4632840403150839,
+          "misMatchPercentage": "0.46",
+          "analysisTime": 2379
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
         "label": "ONSMD Kevin J Choo",
@@ -204,23 +203,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 2
+            "height": 0
           },
-          "rawMisMatchPercentage": 2.6281770940522744,
-          "misMatchPercentage": "2.63",
-          "analysisTime": 925
+          "rawMisMatchPercentage": 60.887110259312614,
+          "misMatchPercentage": "60.89",
+          "analysisTime": 1883
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
         "label": "ONSMD Physicians",
@@ -236,18 +235,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.233610892453016,
-          "misMatchPercentage": "1.23",
-          "analysisTime": 1188
+          "rawMisMatchPercentage": 1.2064187083866311,
+          "misMatchPercentage": "1.21",
+          "analysisTime": 3093
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Physicians_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Physicians_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "label": "ONSMD Hip and Knee Replacement",
@@ -263,18 +262,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.30713848039215685,
-          "misMatchPercentage": "0.31",
-          "analysisTime": 1530
+          "rawMisMatchPercentage": 0.6597941733511586,
+          "misMatchPercentage": "0.66",
+          "analysisTime": 1098
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "label": "ONSMD Physical and Occupational Therapy",
@@ -290,18 +289,18 @@ report({
             "width": 0,
             "height": -762
           },
-          "rawMisMatchPercentage": 2.2564428984129306,
-          "misMatchPercentage": "2.26",
-          "analysisTime": 2444
+          "rawMisMatchPercentage": 0.9129305931397645,
+          "misMatchPercentage": "0.91",
+          "analysisTime": 3022
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
         "label": "ONSMD Wilton Location",
@@ -317,18 +316,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 2.472811660733246,
-          "misMatchPercentage": "2.47",
-          "analysisTime": 975
+          "rawMisMatchPercentage": 1.9195592092936107,
+          "misMatchPercentage": "1.92",
+          "analysisTime": 1909
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Locations_0_document_0_desktop.png",
         "label": "ONSMD Locations",
@@ -344,18 +343,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.5145724082291246,
-          "misMatchPercentage": "0.51",
-          "analysisTime": 639
+          "rawMisMatchPercentage": 94.26534977141321,
+          "misMatchPercentage": "94.27",
+          "analysisTime": 1502
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Blog_0_document_0_desktop.png",
         "label": "ONSMD Blog",
@@ -369,20 +368,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -50
+            "height": 50
           },
-          "rawMisMatchPercentage": 19.037692929665113,
+          "rawMisMatchPercentage": 19.039074654057153,
           "misMatchPercentage": "19.04",
-          "analysisTime": 1255
+          "analysisTime": 1818
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
         "label": "ONSMD Patient Portal",
@@ -398,18 +397,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 99.66497570609619,
+          "rawMisMatchPercentage": 99.66427660095079,
           "misMatchPercentage": "99.66",
-          "analysisTime": 1390
+          "analysisTime": 1342
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
         "label": "ONSMD Pickleball Injury Prevention Tips",
@@ -425,18 +424,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 89.99517253485806,
-          "misMatchPercentage": "90.00",
-          "analysisTime": 1420
+          "rawMisMatchPercentage": 89.79147858360919,
+          "misMatchPercentage": "89.79",
+          "analysisTime": 1767
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Homepage",
@@ -447,23 +446,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -192
           },
-          "rawMisMatchPercentage": 0.875511563392661,
-          "misMatchPercentage": "0.88",
-          "analysisTime": 3513
+          "rawMisMatchPercentage": 21.997271033013842,
+          "misMatchPercentage": "22.00",
+          "analysisTime": 2551
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset David Tuckman",
@@ -474,23 +473,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -192
           },
-          "rawMisMatchPercentage": 0.5057206475464934,
-          "misMatchPercentage": "0.51",
-          "analysisTime": 2623
+          "rawMisMatchPercentage": 10.804444146079483,
+          "misMatchPercentage": "10.80",
+          "analysisTime": 2588
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Physicians",
@@ -506,18 +505,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 51.26101571972978,
-          "misMatchPercentage": "51.26",
-          "analysisTime": 2618
+          "rawMisMatchPercentage": 0.3884191494890005,
+          "misMatchPercentage": "0.39",
+          "analysisTime": 2004
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Hip and Knee Replacement",
@@ -533,18 +532,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 53.15808691353586,
-          "misMatchPercentage": "53.16",
-          "analysisTime": 2694
+          "rawMisMatchPercentage": 53.031955929055066,
+          "misMatchPercentage": "53.03",
+          "analysisTime": 1619
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Physical and Occupational Therapy",
@@ -560,18 +559,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.400588574602632,
+          "rawMisMatchPercentage": 1.400597476214892,
           "misMatchPercentage": "1.40",
-          "analysisTime": 3155
+          "analysisTime": 2174
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Huntington Location",
@@ -587,18 +586,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.38445153854856046,
-          "misMatchPercentage": "0.38",
-          "analysisTime": 680
+          "rawMisMatchPercentage": 0.8479870184965214,
+          "misMatchPercentage": "0.85",
+          "analysisTime": 2190
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Locations",
@@ -614,18 +613,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 98.90046296296296,
-          "misMatchPercentage": "98.90",
-          "analysisTime": 1215
+          "rawMisMatchPercentage": 1.3427208083832334,
+          "misMatchPercentage": "1.34",
+          "analysisTime": 1565
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Blog",
@@ -639,20 +638,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 56
+            "height": -56
           },
-          "rawMisMatchPercentage": 81.06735048828969,
-          "misMatchPercentage": "81.07",
-          "analysisTime": 1782
+          "rawMisMatchPercentage": 19.821293535563044,
+          "misMatchPercentage": "19.82",
+          "analysisTime": 812
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Patient Portal",
@@ -668,18 +667,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 96.6576779885761,
-          "misMatchPercentage": "96.66",
-          "analysisTime": 1040
+          "rawMisMatchPercentage": 96.15969884740923,
+          "misMatchPercentage": "96.16",
+          "analysisTime": 1146
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Scoliosis Awareness Month",
@@ -695,18 +694,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 62.79459022254778,
-          "misMatchPercentage": "62.79",
-          "analysisTime": 2063
+          "rawMisMatchPercentage": 1.4273427689409794,
+          "misMatchPercentage": "1.43",
+          "analysisTime": 1882
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Lee_R_Bloom_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Lee_R_Bloom_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Lee_R_Bloom_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Lee_R_Bloom_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Lee R Bloom",
@@ -722,18 +721,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 93.60874827109267,
-          "misMatchPercentage": "93.61",
-          "analysisTime": 697
+          "rawMisMatchPercentage": 93.61942427385893,
+          "misMatchPercentage": "93.62",
+          "analysisTime": 1217
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Lee_R_Bloom_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Lee_R_Bloom_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Physicians",
@@ -749,18 +748,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 51.26101571972978,
-          "misMatchPercentage": "51.26",
-          "analysisTime": 2688
+          "rawMisMatchPercentage": 0.3884191494890005,
+          "misMatchPercentage": "0.39",
+          "analysisTime": 676
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Hip and Knee Replacement",
@@ -776,18 +775,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 53.15808691353586,
-          "misMatchPercentage": "53.16",
-          "analysisTime": 2594
+          "rawMisMatchPercentage": 53.031955929055066,
+          "misMatchPercentage": "53.03",
+          "analysisTime": 1903
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physical_Therapy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Physical_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Physical_Therapy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physical_Therapy_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Physical Therapy",
@@ -803,18 +802,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 82.57654737206086,
-          "misMatchPercentage": "82.58",
-          "analysisTime": 890
+          "rawMisMatchPercentage": 45.85537690179806,
+          "misMatchPercentage": "45.86",
+          "analysisTime": 1991
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physical_Therapy_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physical_Therapy_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Middletown_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Middletown_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Middletown_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Middletown_Location_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Middletown Location",
@@ -830,18 +829,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 93.23279737206086,
-          "misMatchPercentage": "93.23",
-          "analysisTime": 948
+          "rawMisMatchPercentage": 83.08432745504841,
+          "misMatchPercentage": "83.08",
+          "analysisTime": 1220
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Middletown_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Middletown_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Locations",
@@ -857,18 +856,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 98.90046296296296,
-          "misMatchPercentage": "98.90",
-          "analysisTime": 1155
+          "rawMisMatchPercentage": 1.3427208083832334,
+          "misMatchPercentage": "1.34",
+          "analysisTime": 437
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Blog",
@@ -882,20 +881,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 56
+            "height": -56
           },
-          "rawMisMatchPercentage": 81.06735048828969,
-          "misMatchPercentage": "81.07",
-          "analysisTime": 1985
+          "rawMisMatchPercentage": 19.821293535563044,
+          "misMatchPercentage": "19.82",
+          "analysisTime": 2152
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Orthopaedic_Associates_Manhasset_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Orthopaedic_Associates_Manhasset_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
         "label": "Orthopaedic Associates Manhasset Pickleball Injury Prevention Tips",
@@ -911,18 +910,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 93.2661652835408,
-          "misMatchPercentage": "93.27",
-          "analysisTime": 724
+          "rawMisMatchPercentage": 93.58501901798063,
+          "misMatchPercentage": "93.59",
+          "analysisTime": 809
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
         "label": "SportsMed North Homepage",
@@ -936,20 +935,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -18
+            "height": -20
           },
-          "rawMisMatchPercentage": 53.38788690035078,
-          "misMatchPercentage": "53.39",
-          "analysisTime": 3209
+          "rawMisMatchPercentage": 12.4579828689294,
+          "misMatchPercentage": "12.46",
+          "analysisTime": 2557
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
         "label": "SportsMed North Robert C Spang III",
@@ -963,20 +962,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 18
+            "height": -210
           },
-          "rawMisMatchPercentage": 61.36232737744617,
-          "misMatchPercentage": "61.36",
-          "analysisTime": 2262
+          "rawMisMatchPercentage": 14.561305550101448,
+          "misMatchPercentage": "14.56",
+          "analysisTime": 1012
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
         "label": "SportsMed North Physicians",
@@ -992,18 +991,18 @@ report({
             "width": 0,
             "height": -20
           },
-          "rawMisMatchPercentage": 10.476797880985123,
-          "misMatchPercentage": "10.48",
-          "analysisTime": 3228
+          "rawMisMatchPercentage": 45.150871723548775,
+          "misMatchPercentage": "45.15",
+          "analysisTime": 2137
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "label": "SportsMed North Hip and Knee Replacement",
@@ -1017,20 +1016,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -20
+            "height": 20
           },
-          "rawMisMatchPercentage": 55.589811032038895,
-          "misMatchPercentage": "55.59",
-          "analysisTime": 2394
+          "rawMisMatchPercentage": 55.047187079013646,
+          "misMatchPercentage": "55.05",
+          "analysisTime": 2376
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "label": "SportsMed North Physical and Occupational Therapy",
@@ -1044,20 +1043,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -782
+            "height": -590
           },
-          "rawMisMatchPercentage": 54.01556887261675,
-          "misMatchPercentage": "54.02",
-          "analysisTime": 3770
+          "rawMisMatchPercentage": 15.38459134239725,
+          "misMatchPercentage": "15.38",
+          "analysisTime": 1368
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
         "label": "SportsMed North Peabody Location",
@@ -1073,18 +1072,18 @@ report({
             "width": 0,
             "height": -20
           },
-          "rawMisMatchPercentage": 9.237465737191378,
-          "misMatchPercentage": "9.24",
-          "analysisTime": 4072
+          "rawMisMatchPercentage": 8.725861464902518,
+          "misMatchPercentage": "8.73",
+          "analysisTime": 1131
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
         "label": "SportsMed North Locations",
@@ -1098,20 +1097,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -316
+            "height": -142
           },
-          "rawMisMatchPercentage": 87.1451914098973,
-          "misMatchPercentage": "87.15",
-          "analysisTime": 1393
+          "rawMisMatchPercentage": 15.442047491039427,
+          "misMatchPercentage": "15.44",
+          "analysisTime": 864
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
         "label": "SportsMed North Blog",
@@ -1127,18 +1126,18 @@ report({
             "width": 0,
             "height": 70
           },
-          "rawMisMatchPercentage": 78.39779075931817,
-          "misMatchPercentage": "78.40",
-          "analysisTime": 2041
+          "rawMisMatchPercentage": 78.15684640322975,
+          "misMatchPercentage": "78.16",
+          "analysisTime": 1561
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
         "label": "SportsMed North Patient Portal",
@@ -1154,18 +1153,18 @@ report({
             "width": 0,
             "height": -20
           },
-          "rawMisMatchPercentage": 93.64961827122154,
-          "misMatchPercentage": "93.65",
-          "analysisTime": 957
+          "rawMisMatchPercentage": 7.338412267080745,
+          "misMatchPercentage": "7.34",
+          "analysisTime": 813
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
         "label": "SportsMed North Football Injury Prevention Tips",
@@ -1181,18 +1180,18 @@ report({
             "width": 0,
             "height": -20
           },
-          "rawMisMatchPercentage": 86.77151209093542,
-          "misMatchPercentage": "86.77",
-          "analysisTime": 1506
+          "rawMisMatchPercentage": 87.40091647359783,
+          "misMatchPercentage": "87.40",
+          "analysisTime": 1529
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
         "label": "OrthSurg Homepage",
@@ -1206,20 +1205,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -60
+            "height": -226
           },
-          "rawMisMatchPercentage": 20.279922403021526,
-          "misMatchPercentage": "20.28",
-          "analysisTime": 3984
+          "rawMisMatchPercentage": 14.914904228431874,
+          "misMatchPercentage": "14.91",
+          "analysisTime": 2604
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
         "label": "OrthSurg Scott A Sigman",
@@ -1233,20 +1232,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 130
+            "height": 60
           },
-          "rawMisMatchPercentage": 69.21342816269188,
-          "misMatchPercentage": "69.21",
-          "analysisTime": 1714
+          "rawMisMatchPercentage": 8.351854437449228,
+          "misMatchPercentage": "8.35",
+          "analysisTime": 2803
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
         "label": "OrthSurg Physicians",
@@ -1262,18 +1261,18 @@ report({
             "width": 0,
             "height": -60
           },
-          "rawMisMatchPercentage": 66.9080025866614,
-          "misMatchPercentage": "66.91",
-          "analysisTime": 2822
+          "rawMisMatchPercentage": 67.09909837551075,
+          "misMatchPercentage": "67.10",
+          "analysisTime": 1863
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Physicians_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Physicians_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "label": "OrthSurg Hip and Knee Replacement",
@@ -1289,18 +1288,18 @@ report({
             "width": 0,
             "height": -60
           },
-          "rawMisMatchPercentage": 67.95998666737303,
-          "misMatchPercentage": "67.96",
-          "analysisTime": 2091
+          "rawMisMatchPercentage": 15.496287172423537,
+          "misMatchPercentage": "15.50",
+          "analysisTime": 1165
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
         "label": "OrthSurg Therafit by OSA Physical and Occupational Therapy",
@@ -1314,20 +1313,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -60
+            "height": 60
           },
-          "rawMisMatchPercentage": 48.42410779917671,
-          "misMatchPercentage": "48.42",
-          "analysisTime": 1925
+          "rawMisMatchPercentage": 50.61983914044889,
+          "misMatchPercentage": "50.62",
+          "analysisTime": 2964
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
         "label": "OrthSurg North Chelmsford Location",
@@ -1343,18 +1342,18 @@ report({
             "width": 0,
             "height": 108
           },
-          "rawMisMatchPercentage": 66.16185976008367,
-          "misMatchPercentage": "66.16",
-          "analysisTime": 2255
+          "rawMisMatchPercentage": 65.80163798457214,
+          "misMatchPercentage": "65.80",
+          "analysisTime": 2123
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
         "label": "OrthSurg Locations",
@@ -1370,18 +1369,18 @@ report({
             "width": 0,
             "height": -60
           },
-          "rawMisMatchPercentage": 22.303215456034952,
-          "misMatchPercentage": "22.30",
-          "analysisTime": 1666
+          "rawMisMatchPercentage": 21.93314218095758,
+          "misMatchPercentage": "21.93",
+          "analysisTime": 176
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
         "label": "OrthSurg Blog",
@@ -1395,20 +1394,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 146
+            "height": -146
           },
-          "rawMisMatchPercentage": 85.74958023186174,
-          "misMatchPercentage": "85.75",
-          "analysisTime": 1674
+          "rawMisMatchPercentage": 85.366495016256,
+          "misMatchPercentage": "85.37",
+          "analysisTime": 2043
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
         "label": "OrthSurg Patient Portal",
@@ -1424,18 +1423,18 @@ report({
             "width": 0,
             "height": -60
           },
-          "rawMisMatchPercentage": 23.136068943706515,
-          "misMatchPercentage": "23.14",
-          "analysisTime": 2185
+          "rawMisMatchPercentage": 91.06683533628505,
+          "misMatchPercentage": "91.07",
+          "analysisTime": 1066
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
         "label": "OrthSurg Physician Spotlight on Dr. Thomas Herron",
@@ -1451,18 +1450,18 @@ report({
             "width": 0,
             "height": -60
           },
-          "rawMisMatchPercentage": 97.04520210229735,
-          "misMatchPercentage": "97.05",
-          "analysisTime": 2516
+          "rawMisMatchPercentage": 97.06699379605548,
+          "misMatchPercentage": "97.07",
+          "analysisTime": 1254
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
         "label": "OrthoADC Homepage",
@@ -1476,20 +1475,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -34
+            "height": -10
           },
-          "rawMisMatchPercentage": 12.336549617799617,
-          "misMatchPercentage": "12.34",
-          "analysisTime": 2223
+          "rawMisMatchPercentage": 23.041320643534508,
+          "misMatchPercentage": "23.04",
+          "analysisTime": 1099
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
         "label": "OrthoADC William W Colman",
@@ -1503,20 +1502,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -32
+            "height": 34
           },
-          "rawMisMatchPercentage": 65.8433302962813,
-          "misMatchPercentage": "65.84",
-          "analysisTime": 2506
+          "rawMisMatchPercentage": 62.91581284153005,
+          "misMatchPercentage": "62.92",
+          "analysisTime": 856
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
         "label": "OrthoADC Physicians",
@@ -1532,18 +1531,18 @@ report({
             "width": 0,
             "height": -122
           },
-          "rawMisMatchPercentage": 53.60985422986181,
-          "misMatchPercentage": "53.61",
-          "analysisTime": 1375
+          "rawMisMatchPercentage": 53.890983105830806,
+          "misMatchPercentage": "53.89",
+          "analysisTime": 1246
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Physicians_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Physicians_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
         "label": "OrthoADC Hip and Knee Replacement",
@@ -1559,18 +1558,18 @@ report({
             "width": 0,
             "height": -22
           },
-          "rawMisMatchPercentage": 51.936940983868396,
-          "misMatchPercentage": "51.94",
-          "analysisTime": 1809
+          "rawMisMatchPercentage": 51.98578002715222,
+          "misMatchPercentage": "51.99",
+          "analysisTime": 821
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
         "label": "OrthoADC OrthoExpress",
@@ -1584,20 +1583,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -214
+            "height": -170
           },
-          "rawMisMatchPercentage": 76.63749556333029,
-          "misMatchPercentage": "76.64",
-          "analysisTime": 2470
+          "rawMisMatchPercentage": 93.94887378764676,
+          "misMatchPercentage": "93.95",
+          "analysisTime": 954
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
         "label": "OrthoADC Poughkeepsie Location",
@@ -1611,20 +1610,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -22
+            "height": 22
           },
-          "rawMisMatchPercentage": 8.512450210347296,
-          "misMatchPercentage": "8.51",
-          "analysisTime": 1941
+          "rawMisMatchPercentage": 45.31940202067669,
+          "misMatchPercentage": "45.32",
+          "analysisTime": 1073
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
         "label": "OrthoADC Locations",
@@ -1638,20 +1637,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -318
+            "height": 22
           },
-          "rawMisMatchPercentage": 86.89644000924459,
-          "misMatchPercentage": "86.90",
-          "analysisTime": 1570
+          "rawMisMatchPercentage": 98.26251320655045,
+          "misMatchPercentage": "98.26",
+          "analysisTime": 970
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
         "label": "OrthoADC Blog",
@@ -1667,18 +1666,18 @@ report({
             "width": 0,
             "height": -1315
           },
-          "rawMisMatchPercentage": 65.65685562015504,
-          "misMatchPercentage": "65.66",
-          "analysisTime": 1673
+          "rawMisMatchPercentage": 65.58805717054264,
+          "misMatchPercentage": "65.59",
+          "analysisTime": 683
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
         "label": "OrthoADC Patient Portal",
@@ -1694,18 +1693,18 @@ report({
             "width": 0,
             "height": -22
           },
-          "rawMisMatchPercentage": 98.0270463908293,
+          "rawMisMatchPercentage": 98.02673853662905,
           "misMatchPercentage": "98.03",
-          "analysisTime": 1636
+          "analysisTime": 1092
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
         "label": "OrthoADC Pickleball Injury Prevention Tips",
@@ -1719,20 +1718,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -22
+            "height": 22
           },
-          "rawMisMatchPercentage": 96.16883095161636,
-          "misMatchPercentage": "96.17",
-          "analysisTime": 1595
+          "rawMisMatchPercentage": 96.17941821879683,
+          "misMatchPercentage": "96.18",
+          "analysisTime": 845
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
         "label": "Stamford ASC Homepage",
@@ -1746,20 +1745,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -62
+            "height": 62
           },
-          "rawMisMatchPercentage": 55.10018025513034,
-          "misMatchPercentage": "55.10",
-          "analysisTime": 1207
+          "rawMisMatchPercentage": 51.634212077093736,
+          "misMatchPercentage": "51.63",
+          "analysisTime": 756
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
         "label": "Stamford ASC Physicians Staff",
@@ -1773,20 +1772,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -62
+            "height": 62
           },
-          "rawMisMatchPercentage": 6.971980603879224,
+          "rawMisMatchPercentage": 6.971999350129974,
           "misMatchPercentage": "6.97",
-          "analysisTime": 795
+          "analysisTime": 336
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
         "label": "Stamford ASC Our Location",
@@ -1800,20 +1799,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -62
+            "height": 62
           },
-          "rawMisMatchPercentage": 9.722560792103046,
-          "misMatchPercentage": "9.72",
-          "analysisTime": 381
+          "rawMisMatchPercentage": 93.77227037438306,
+          "misMatchPercentage": "93.77",
+          "analysisTime": 698
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
         "label": "Stamford ASC News",
@@ -1829,18 +1828,18 @@ report({
             "width": 0,
             "height": -62
           },
-          "rawMisMatchPercentage": 96.34309828507412,
-          "misMatchPercentage": "96.34",
-          "analysisTime": 1215
+          "rawMisMatchPercentage": 14.526079369183039,
+          "misMatchPercentage": "14.53",
+          "analysisTime": 534
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Stamford_ASC_News_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Stamford_ASC_News_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
         "label": "Stamford ASC Why Choose Us",
@@ -1856,18 +1855,18 @@ report({
             "width": 0,
             "height": -62
           },
-          "rawMisMatchPercentage": 89.70647193585339,
-          "misMatchPercentage": "89.71",
-          "analysisTime": 1303
+          "rawMisMatchPercentage": 18.228553019145803,
+          "misMatchPercentage": "18.23",
+          "analysisTime": 371
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
         "label": "Stamford ASC Blog",
@@ -1883,18 +1882,18 @@ report({
             "width": 0,
             "height": -62
           },
-          "rawMisMatchPercentage": 14.267596745536487,
-          "misMatchPercentage": "14.27",
-          "analysisTime": 519
+          "rawMisMatchPercentage": 81.19562803345467,
+          "misMatchPercentage": "81.20",
+          "analysisTime": 698
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
         "label": "OSCNS Homepage",
@@ -1910,17 +1909,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 819
-        }
+          "rawMisMatchPercentage": 74.96338240249347,
+          "misMatchPercentage": "74.96",
+          "analysisTime": 560
+        },
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OSCNS_Homepage_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
         "label": "OSCNS Physicians Staff",
@@ -1936,18 +1936,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 55.319037577846295,
-          "misMatchPercentage": "55.32",
-          "analysisTime": 1142
+          "rawMisMatchPercentage": 55.353992835117,
+          "misMatchPercentage": "55.35",
+          "analysisTime": 709
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
         "label": "OSCNS Our Location",
@@ -1961,20 +1961,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -107
+            "height": 107
           },
-          "rawMisMatchPercentage": 86.47513677561754,
-          "misMatchPercentage": "86.48",
-          "analysisTime": 1013
+          "rawMisMatchPercentage": 87.04993190570114,
+          "misMatchPercentage": "87.05",
+          "analysisTime": 575
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OSCNS_Our_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OSCNS_Our_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
         "label": "OSCNS Why Choose Us",
@@ -1990,18 +1990,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 93.97043937404246,
-          "misMatchPercentage": "93.97",
-          "analysisTime": 676
+          "rawMisMatchPercentage": 55.62961671043992,
+          "misMatchPercentage": "55.63",
+          "analysisTime": 434
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
         "label": "SCOA DC Homepage",
@@ -2017,18 +2017,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 81.23935470964791,
-          "misMatchPercentage": "81.24",
-          "analysisTime": 901
+          "rawMisMatchPercentage": 81.37504286694102,
+          "misMatchPercentage": "81.38",
+          "analysisTime": 557
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
         "label": "SCOA DC Physicians Staff",
@@ -2044,18 +2044,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 2.166885845577121,
-          "misMatchPercentage": "2.17",
-          "analysisTime": 980
+          "rawMisMatchPercentage": 0.4465203458492049,
+          "misMatchPercentage": "0.45",
+          "analysisTime": 668
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
         "label": "SCOA DC Our Location",
@@ -2071,18 +2071,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 99.49216718668747,
-          "misMatchPercentage": "99.49",
-          "analysisTime": 710
+          "rawMisMatchPercentage": 89.39192776044375,
+          "misMatchPercentage": "89.39",
+          "analysisTime": 312
         },
-        "diffImage": "../bitmaps_test/20250117-071444/failed_diff_backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250117-072708/failed_diff_backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-071444/backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-072708/backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
         "label": "SCOA DC Why Choose Us",
@@ -2100,7 +2100,7 @@ report({
           },
           "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 354
+          "analysisTime": 77
         }
       },
       "status": "pass"
