@@ -1,0 +1,110 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+        {
+            "label": "BackstopJS Homepage",
+            "cookiePath": "backstop_data/engine_scripts/cookies.json",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/",
+            "referenceUrl": "https://www.gc.cuny.edu/",
+            "readyEvent": "",
+            "readySelector": "",
+            "delay": 0,
+            "hideSelectors": [],
+            "removeSelectors": [],
+            "hoverSelector": "",
+            "clickSelector": "",
+            "postInteractionWait": 0,
+            "selectors": [],
+            "selectorExpansion": true,
+            "expect": 0,
+            "misMatchThreshold": 0.1,
+            "requireSameDimensions": true
+        },
+        {
+            "label": "Admissions",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/admissions",
+            "referenceUrl": "https://www.gc.cuny.edu/admissions"
+        },
+        {
+            "label": "Academics Programs",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/academics/programs",
+            "referenceUrl": "https://www.gc.cuny.edu/academics/programs"
+        },
+        {
+            "label": "Earth and Environmental Sciences",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/earth-and-environmental-sciences",
+            "referenceUrl": "https://www.gc.cuny.edu/earth-and-environmental-sciences"
+        },
+        {
+            "label": "Linguistics",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/linguistics",
+            "referenceUrl": "https://www.gc.cuny.edu/linguistics"
+        },
+        {
+            "label": "News",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/news",
+            "referenceUrl": "https://www.gc.cuny.edu/news"
+        },
+        {
+            "label": "Professor Mande Holford Named World Economic Forum Sustainability Pioneer",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/news/professor-mande-holford-named-world-economic-forum-sustainability-pioneer",
+            "referenceUrl": "https://www.gc.cuny.edu/news/professor-mande-holford-named-world-economic-forum-sustainability-pioneer"
+        },
+        {
+            "label": "Events",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/events",
+            "referenceUrl": "https://www.gc.cuny.edu/events"
+        },
+        {
+            "label": "People",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/people",
+            "referenceUrl": "https://www.gc.cuny.edu/people"
+        },
+        {
+            "label": "Jill Bargonetti",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/people/jill-bargonetti",
+            "referenceUrl": "https://www.gc.cuny.edu/people/jill-bargonetti"
+        },
+        {
+            "label": "Fellowships and Financial Aid",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/fellowships-and-financial-aid",
+            "referenceUrl": "https://www.gc.cuny.edu/fellowships-and-financial-aid"
+        },
+        {
+            "label": "About",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/about",
+            "referenceUrl": "https://www.gc.cuny.edu/about"
+        },
+        {
+            "label": "MS Data Science",
+            "url": "https://mu-011325-cunygc.pantheonsite.io/ms-data-science",
+            "referenceUrl": "https://www.gc.cuny.edu/ms-data-science"
+        }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 120000        
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
