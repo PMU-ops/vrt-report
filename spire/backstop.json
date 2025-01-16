@@ -1,0 +1,511 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "BackstopJS Homepage",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Spire Ortho Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/spireortho-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/",
+      "selectors": []
+    },
+    {
+      "label": "Spire Ortho Physician Directory",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/spireortho-com/physician-directory/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/physician-directory/",
+      "selectors": []
+    },
+    {
+      "label": "Spire Ortho About Us",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/spireortho-com/about-us/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/about-us/",
+      "selectors": []
+    },
+    {
+      "label": "Spire Ortho Physician Leadership",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/spireortho-com/physician-leadership/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/physician-leadership/",
+      "selectors": []
+    },
+    {
+      "label": "Spire Ortho News",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/spireortho-com/news/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/news/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Kevin J Choo",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/physicians/kevin-j-choo/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/physicians/kevin-j-choo/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Physicians",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/physicians/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/physicians/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Hip and Knee Replacement",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/specialties/hip-and-knee-replacement/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/specialties/hip-and-knee-replacement/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Physical and Occupational Therapy",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/services/physical-and-occupational-therapy/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/services/physical-and-occupational-therapy/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Wilton Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/locations/wilton/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/locations/wilton/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Locations",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/locations/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/locations/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/blog/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/blog/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Patient Portal",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/patient-portal/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/patient-portal/",
+      "selectors": []
+    },
+    {
+      "label": "ONSMD Pickleball Injury Prevention Tips",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/onsmd-com/blog/all-about-pickleball-injury-prevention-tips/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/blog/all-about-pickleball-injury-prevention-tips/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset David Tuckman",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/david-tuckman/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/david-tuckman/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Physicians",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Hip and Knee Replacement",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Physical and Occupational Therapy",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-and-occupational-therapy/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-and-occupational-therapy/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Huntington Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/huntington/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/huntington/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Locations",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Patient Portal",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/patient-portal/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/patient-portal/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Scoliosis Awareness Month",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/understanding-scoliosis-key-insights-for-scoliosis-awareness-month/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/understanding-scoliosis-key-insights-for-scoliosis-awareness-month/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Lee R Bloom",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/lee-r-bloom/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/lee-r-bloom/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Physicians",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Hip and Knee Replacement",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Physical Therapy",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-therapy/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-therapy/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Middletown Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/middletown/211-south-main-street/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/middletown/211-south-main-street/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Locations",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/",
+      "selectors": []
+    },
+    {
+      "label": "Orthopaedic Associates Manhasset Pickleball Injury Prevention Tips",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Robert C Spang III",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/physicians/robert-c-spang-iii/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/physicians/robert-c-spang-iii/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Physicians",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/physicians/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/physicians/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Hip and Knee Replacement",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/specialties/hip-and-knee-replacement/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/specialties/hip-and-knee-replacement/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Physical and Occupational Therapy",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/services/physical-and-occupational-therapy/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/services/physical-and-occupational-therapy/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Peabody Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/locations/peabody/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/locations/peabody/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Locations",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/locations/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/locations/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/blog/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/blog/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Patient Portal",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/patient-portal/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/patient-portal/",
+      "selectors": []
+    },
+    {
+      "label": "SportsMed North Football Injury Prevention Tips",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/sportsmednorth-com/blog/football-injury-prevention-tips-for-high-school-athletes/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/blog/football-injury-prevention-tips-for-high-school-athletes/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Scott A Sigman",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/physicians/scott-a-sigman/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/physicians/scott-a-sigman/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Physicians",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/physicians/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/physicians/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Hip and Knee Replacement",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/specialties/hip-and-knee-replacement/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/specialties/hip-and-knee-replacement/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Therafit by OSA Physical and Occupational Therapy",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/services/therafit-by-osa-physical-and-occupational-therapy/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/services/therafit-by-osa-physical-and-occupational-therapy/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg North Chelmsford Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/locations/north-chelmsford/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/locations/north-chelmsford/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Locations",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/locations/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/locations/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/blog/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/blog/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Patient Portal",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/https://orthsurg.com/patient-portal/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/https://orthsurg.com/patient-portal/",
+      "selectors": []
+    },
+    {
+      "label": "OrthSurg Physician Spotlight on Dr. Thomas Herron",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthsurg-com/blog/physician-spotlight-on-dr-thomas-herron/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/blog/physician-spotlight-on-dr-thomas-herron/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC William W Colman",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/physicians/william-w-colman/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/physicians/william-w-colman/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Physicians",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/physicians/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/physicians/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Hip and Knee Replacement",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/specialties/hip-and-knee-replacement/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/specialties/hip-and-knee-replacement/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC OrthoExpress",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/services/orthoexpress/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/services/orthoexpress/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Poughkeepsie Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/locations/poughkeepsie/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/locations/poughkeepsie/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Locations",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/locations/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/locations/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/blog/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/blog/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Patient Portal",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/patient-portal/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/patient-portal/",
+      "selectors": []
+    },
+    {
+      "label": "OrthoADC Pickleball Injury Prevention Tips",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/orthoadc-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+      "selectors": []
+    },
+    {
+      "label": "Stamford ASC Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/stamfordasc-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/",
+      "selectors": []
+    },
+    {
+      "label": "Stamford ASC Physicians Staff",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/stamfordasc-com/physicians-staff/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/physicians-staff/",
+      "selectors": []
+    },
+    {
+      "label": "Stamford ASC Our Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/stamfordasc-com/our-location/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/our-location/",
+      "selectors": []
+    },
+    {
+      "label": "Stamford ASC News",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/stamfordasc-com/news/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/news/",
+      "selectors": []
+    },
+    {
+      "label": "Stamford ASC Why Choose Us",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/stamfordasc-com/why-choose-us/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/why-choose-us/",
+      "selectors": []
+    },
+    {
+      "label": "Stamford ASC Blog",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/stamfordasc-com/blog/us-news-world-report-names-the-stamford-ambulatory-surgical-center-a-best-ambulatory-surgery-center-in-connecticut/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/blog/us-news-world-report-names-the-stamford-ambulatory-surgical-center-a-best-ambulatory-surgery-center-in-connecticut/",
+      "selectors": []
+    },
+    {
+      "label": "OSCNS Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/oscns-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/",
+      "selectors": []
+    },
+    {
+      "label": "OSCNS Physicians Staff",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/oscns-com/physicians-staff/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/physicians-staff/",
+      "selectors": []
+    },
+    {
+      "label": "OSCNS Our Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/oscns-com/our-location/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/our-location/",
+      "selectors": []
+    },
+    {
+      "label": "OSCNS Why Choose Us",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/oscns-com/why-choose-us/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/why-choose-us/",
+      "selectors": []
+    },
+    {
+      "label": "SCOA DC Homepage",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/scoa-dc-com/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/",
+      "selectors": []
+    },
+    {
+      "label": "SCOA DC Physicians Staff",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/scoa-dc-com/physicians-staff/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/physicians-staff/",
+      "selectors": []
+    },
+    {
+      "label": "SCOA DC Our Location",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/scoa-dc-com/our-location/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/our-location/",
+      "selectors": []
+    },
+    {
+      "label": "SCOA DC Why Choose Us",
+      "url": "https://mu-011325-spire-network.pantheonsite.io/scoa-dc-com/why-choose-us/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/why-choose-us/",
+      "selectors": []
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
