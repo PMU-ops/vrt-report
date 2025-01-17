@@ -1,0 +1,276 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 105
+          },
+          "rawMisMatchPercentage": 1.580797334668383,
+          "misMatchPercentage": "1.58",
+          "analysisTime": 338
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_BackstopJS_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Request_Demo_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Request_Demo_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Request_Demo_0_document_0_desktop.png",
+        "label": "Request Demo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/request-demo",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/request-demo",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -2907
+          },
+          "rawMisMatchPercentage": 3.2578730893757997,
+          "misMatchPercentage": "3.26",
+          "analysisTime": 145
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Request_Demo_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Try_Canvas_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Try_Canvas_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Try_Canvas_0_document_0_desktop.png",
+        "label": "Try Canvas",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/canvas/try-canvas",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/canvas/try-canvas",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.9164081416464891,
+          "misMatchPercentage": "0.92",
+          "analysisTime": 127
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Try_Canvas_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_K-12_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_K-12_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_K-12_0_document_0_desktop.png",
+        "label": "K-12",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/k-12",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/k-12",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.20552562592387286,
+          "misMatchPercentage": "0.21",
+          "analysisTime": 693
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_K-12_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Higher_Education_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Higher_Education_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Higher_Education_0_document_0_desktop.png",
+        "label": "Higher Education",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/higher-education",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/higher-education",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.19330444735120994,
+          "misMatchPercentage": "0.19",
+          "analysisTime": 512
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Higher_Education_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
+        "label": "Free for Teacher Login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/canvas/login/free-for-teacher",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/canvas/login/free-for-teacher",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.8740606341362981,
+          "misMatchPercentage": "0.87",
+          "analysisTime": 67
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Corporate_Education_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Corporate_Education_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Corporate_Education_0_document_0_desktop.png",
+        "label": "Corporate Education",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/corporate-education",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/corporate-education",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.18838352796558083,
+          "misMatchPercentage": "0.19",
+          "analysisTime": 471
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Corporate_Education_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Leadership_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
+        "label": "Leadership",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/about/leadership",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/about/leadership",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.858625341908775,
+          "misMatchPercentage": "3.86",
+          "analysisTime": 394
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Leadership_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Careers_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Careers_0_document_0_desktop.png",
+        "label": "Careers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/about/careers",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/about/careers",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.17483211233211232,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 654
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Canvas_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250117-134812/backstop_default_Canvas_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Canvas_0_document_0_desktop.png",
+        "label": "Canvas",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.instructure.com/canvas",
+        "referenceUrl": "https://mu-011725-inst.pantheonsite.io/canvas",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.6391327321777551,
+          "misMatchPercentage": "0.64",
+          "analysisTime": 647
+        },
+        "diffImage": "../bitmaps_test/20250117-134812/failed_diff_backstop_default_Canvas_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

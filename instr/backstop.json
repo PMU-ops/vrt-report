@@ -1,0 +1,104 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+        {
+            "label": "BackstopJS Homepage",
+            "cookiePath": "backstop_data/engine_scripts/cookies.json",
+            "url": "https://www.instructure.com/",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/",
+            "readyEvent": "",
+            "readySelector": "",
+            "delay": 0,
+            "hideSelectors": [],
+            "removeSelectors": [],
+            "hoverSelector": "",
+            "clickSelector": "",
+            "postInteractionWait": 0,
+            "selectors": [],
+            "selectorExpansion": true,
+            "expect": 0,
+            "misMatchThreshold": 0.1,
+            "requireSameDimensions": true
+        },
+        {
+            "label": "Request Demo",
+            "url": "https://www.instructure.com/request-demo",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/request-demo",
+            "selectors": []
+        },
+        {
+            "label": "Try Canvas",
+            "url": "https://www.instructure.com/canvas/try-canvas",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/canvas/try-canvas",
+            "selectors": []
+        },
+        {
+            "label": "K-12",
+            "url": "https://www.instructure.com/k-12",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/k-12",
+            "selectors": []
+        },
+        {
+            "label": "Higher Education",
+            "url": "https://www.instructure.com/higher-education",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/higher-education",
+            "selectors": []
+        },
+        {
+            "label": "Free for Teacher Login",
+            "url": "https://www.instructure.com/canvas/login/free-for-teacher",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/canvas/login/free-for-teacher",
+            "selectors": []
+        },
+        {
+            "label": "Corporate Education",
+            "url": "https://www.instructure.com/corporate-education",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/corporate-education",
+            "selectors": []
+        },
+        {
+            "label": "Leadership",
+            "url": "https://www.instructure.com/about/leadership",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/about/leadership",
+            "selectors": []
+        },
+        {
+            "label": "Careers",
+            "url": "https://www.instructure.com/about/careers",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/about/careers",
+            "selectors": []
+        },
+        {
+            "label": "Canvas",
+            "url": "https://www.instructure.com/canvas",
+            "referenceUrl": "https://mu-011725-inst.pantheonsite.io/canvas",
+            "selectors": []
+        }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 0        
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
