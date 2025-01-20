@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_BackstopJS_Homepage_0_document_0_desktop.png",
         "label": "BackstopJS Homepage",
@@ -20,18 +20,18 @@ report({
             "width": 0,
             "height": 105
           },
-          "rawMisMatchPercentage": 2.2491715539026367,
-          "misMatchPercentage": "2.25",
-          "analysisTime": 299
+          "rawMisMatchPercentage": 1.6469687216897917,
+          "misMatchPercentage": "1.65",
+          "analysisTime": 433
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_BackstopJS_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_BackstopJS_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Request_Demo_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Request_Demo_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Request_Demo_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Request_Demo_0_document_0_desktop.png",
         "label": "Request Demo",
@@ -42,23 +42,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -551
           },
-          "rawMisMatchPercentage": 0.3206295647918079,
-          "misMatchPercentage": "0.32",
-          "analysisTime": 173
+          "rawMisMatchPercentage": 21.472824176376054,
+          "misMatchPercentage": "21.47",
+          "analysisTime": 462
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Request_Demo_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Request_Demo_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Try_Canvas_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Try_Canvas_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Try_Canvas_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Try_Canvas_0_document_0_desktop.png",
         "label": "Try Canvas",
@@ -74,18 +74,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.9240062550443906,
+          "rawMisMatchPercentage": 0.9171648002421308,
           "misMatchPercentage": "0.92",
-          "analysisTime": 137
+          "analysisTime": 207
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Try_Canvas_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Try_Canvas_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_K-12_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_K-12_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_K-12_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_K-12_0_document_0_desktop.png",
         "label": "K-12",
@@ -101,18 +101,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.20490489883592017,
-          "misMatchPercentage": "0.20",
-          "analysisTime": 574
+          "rawMisMatchPercentage": 3.355434104767184,
+          "misMatchPercentage": "3.36",
+          "analysisTime": 571
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_K-12_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_K-12_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Higher_Education_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Higher_Education_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Higher_Education_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Higher_Education_0_document_0_desktop.png",
         "label": "Higher Education",
@@ -128,18 +128,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.19327719642467844,
+          "rawMisMatchPercentage": 0.19330444735120994,
           "misMatchPercentage": "0.19",
-          "analysisTime": 380
+          "analysisTime": 725
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Higher_Education_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Higher_Education_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png",
         "label": "Free for Teacher Login",
@@ -155,18 +155,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.8761516882849495,
-          "misMatchPercentage": "0.88",
-          "analysisTime": 114
+          "rawMisMatchPercentage": 0.8740606341362981,
+          "misMatchPercentage": "0.87",
+          "analysisTime": 146
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Free_for_Teacher_Login_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Corporate_Education_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Corporate_Education_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Corporate_Education_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Corporate_Education_0_document_0_desktop.png",
         "label": "Corporate Education",
@@ -177,23 +177,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -63
           },
-          "rawMisMatchPercentage": 0.18838352796558083,
-          "misMatchPercentage": "0.19",
-          "analysisTime": 331
+          "rawMisMatchPercentage": 12.815112169637368,
+          "misMatchPercentage": "12.82",
+          "analysisTime": 810
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Corporate_Education_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Corporate_Education_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Leadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
         "label": "Leadership",
@@ -209,18 +209,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.859595623567679,
+          "rawMisMatchPercentage": 3.859422358985732,
           "misMatchPercentage": "3.86",
-          "analysisTime": 231
+          "analysisTime": 454
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Leadership_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Leadership_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
@@ -236,18 +236,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.17483211233211232,
-          "misMatchPercentage": "0.17",
-          "analysisTime": 327
+          "rawMisMatchPercentage": 1.6247594960278051,
+          "misMatchPercentage": "1.62",
+          "analysisTime": 845
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Canvas_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250117-135244/backstop_default_Canvas_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250120-160942/backstop_default_Canvas_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Canvas_0_document_0_desktop.png",
         "label": "Canvas",
@@ -263,11 +263,11 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.7172643703798114,
-          "misMatchPercentage": "0.72",
-          "analysisTime": 316
+          "rawMisMatchPercentage": 1.0261731030673804,
+          "misMatchPercentage": "1.03",
+          "analysisTime": 752
         },
-        "diffImage": "../bitmaps_test/20250117-135244/failed_diff_backstop_default_Canvas_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250120-160942/failed_diff_backstop_default_Canvas_0_document_0_desktop.png"
       },
       "status": "fail"
     }
