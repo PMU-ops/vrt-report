@@ -1,0 +1,140 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Homepage",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.bluecrossvt.org/",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Find and Compare Plans",
+      "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Plan Comparison",
+      "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans/plan-comparison",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans/plan-comparison",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Vermont Preferred Gold Plan Couple",
+      "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans/vermont-preferred-gold-plan-couple",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans/vermont-preferred-gold-plan-couple",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Plans Small Business Groups",
+      "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-1-100-employees/plans-small-business-groups/",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-1-100-employees/plans-small-business-groups/",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Community Events Calendar",
+      "url": "https://www.bluecrossvt.org/health-community/community-programs-and-events/community-events-calendar",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/health-community/community-programs-and-events/community-events-calendar",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Members",
+      "url": "https://www.bluecrossvt.org/members",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/members",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Member Forms",
+      "url": "https://www.bluecrossvt.org/members/member-forms",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/members/member-forms",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Providers",
+      "url": "https://www.bluecrossvt.org/providers",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/providers",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Provider Forms Resources",
+      "url": "https://www.bluecrossvt.org/providers/provider-forms-resources",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/providers/provider-forms-resources",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Parts of Medicare",
+      "url": "https://www.bluecrossvt.org/our-plans/medicare/parts-of-medicare",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/medicare/parts-of-medicare",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Enrollment Process",
+      "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-1-100-employees/enrollment-process",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-1-100-employees/enrollment-process",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Employers 101 Plus Employees",
+      "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-101-plus-employees",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-101-plus-employees",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Blog Listing",
+      "url": "https://www.bluecrossvt.org/health-community/blog/listing",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/health-community/blog/listing",
+      "selectors": ["document"]
+    },
+    {
+      "label": "News",
+      "url": "https://www.bluecrossvt.org/health-community/news",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/health-community/news",
+      "selectors": ["document"]
+    },
+    {
+      "label": "Prior Approval Database",
+      "url": "https://www.bluecrossvt.org/prior-approval-database",
+      "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/prior-approval-database",
+      "selectors": ["document"]
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "timeout": 120000  
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
