@@ -121,7 +121,7 @@
     "engine": "puppeteer",
     "engineOptions": {
         "args": ["--no-sandbox"],
-        "timeout": 120000        
+        "timeout": 120000      
     },
     "asyncCaptureLimit": 5,
     "asyncCompareLimit": 50,
