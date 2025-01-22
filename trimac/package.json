@@ -1,1 +1,0 @@
-{"scripts":{"run-vrt":"rm -rf ./backstop_data/bitmaps_* ./backstop_data/html && backstop reference && backstop test"},"dependencies":{"backstopjs":"^6.3.25","puppeteer":"^24.1.0"}}
