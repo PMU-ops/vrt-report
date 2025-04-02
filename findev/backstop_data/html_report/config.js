@@ -4,81 +4,120 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_0_document_0_desktop.png",
         "label": "Page /en",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en",
+        "url": "https://www.findevcanada.ca/en",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en",
         "expect": 0,
         "viewportLabel": "desktop",
-        "error": "Reference file not found /Users/emeliostevemalisa/backstop/findev/backstop_data/bitmaps_reference/backstop_default_Page__en_0_document_0_desktop.png"
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 7
+          },
+          "rawMisMatchPercentage": 22.91220351344495,
+          "misMatchPercentage": "22.91",
+          "analysisTime": 377
+        },
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__fr_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__fr_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__fr_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__fr_0_document_0_desktop.png",
         "label": "Page /fr",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/fr",
+        "url": "https://www.findevcanada.ca/fr",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/fr",
         "expect": 0,
         "viewportLabel": "desktop",
-        "error": "Reference file not found /Users/emeliostevemalisa/backstop/findev/backstop_data/bitmaps_reference/backstop_default_Page__fr_0_document_0_desktop.png"
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.6887371700879767,
+          "misMatchPercentage": "3.69",
+          "analysisTime": 1025
+        },
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__fr_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_what-we-do_our-portfolio_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_what-we-do_our-portfolio_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_what-we-do_our-portfolio_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_what-we-do_our-portfolio_0_document_0_desktop.png",
         "label": "Page /en/what-we-do/our-portfolio",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/what-we-do/our-portfolio",
+        "url": "https://www.findevcanada.ca/en/what-we-do/our-portfolio",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/what-we-do/our-portfolio",
         "expect": 0,
         "viewportLabel": "desktop",
-        "error": "Reference file not found /Users/emeliostevemalisa/backstop/findev/backstop_data/bitmaps_reference/backstop_default_Page__en_what-we-do_our-portfolio_0_document_0_desktop.png"
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.22972891503103507,
+          "misMatchPercentage": "0.23",
+          "analysisTime": 980
+        },
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_what-we-do_our-portfolio_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__fr_notre-role_notre-portefeuille_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__fr_notre-role_notre-portefeuille_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__fr_notre-role_notre-portefeuille_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__fr_notre-role_notre-portefeuille_0_document_0_desktop.png",
         "label": "Page /fr/notre-role/notre-portefeuille",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/fr/notre-role/notre-portefeuille",
+        "url": "https://www.findevcanada.ca/fr/notre-role/notre-portefeuille",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/fr/notre-role/notre-portefeuille",
         "expect": 0,
         "viewportLabel": "desktop",
-        "error": "Reference file not found /Users/emeliostevemalisa/backstop/findev/backstop_data/bitmaps_reference/backstop_default_Page__fr_notre-role_notre-portefeuille_0_document_0_desktop.png"
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.013333385698127434,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 648
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_who-we-are_our-people_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_who-we-are_our-people_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_who-we-are_our-people_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_who-we-are_our-people_0_document_0_desktop.png",
         "label": "Page /en/who-we-are/our-people",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/who-we-are/our-people",
+        "url": "https://www.findevcanada.ca/en/who-we-are/our-people",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/who-we-are/our-people",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -88,24 +127,24 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 5.211784957627119,
+          "rawMisMatchPercentage": 5.2117055084745765,
           "misMatchPercentage": "5.21",
-          "analysisTime": 382
+          "analysisTime": 732
         },
-        "diffImage": "../bitmaps_test/20250402-165402/failed_diff_backstop_default_Page__en_who-we-are_our-people_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_who-we-are_our-people_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_what-we-do_technical-assistance_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_what-we-do_technical-assistance_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_what-we-do_technical-assistance_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_what-we-do_technical-assistance_0_document_0_desktop.png",
         "label": "Page /en/what-we-do/technical-assistance",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/what-we-do/technical-assistance",
+        "url": "https://www.findevcanada.ca/en/what-we-do/technical-assistance",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/what-we-do/technical-assistance",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -115,9 +154,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0188132145998241,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 581
+          "rawMisMatchPercentage": 0.014202671503957782,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 450
         }
       },
       "status": "pass"
@@ -125,13 +164,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_what-we-do_2x-canada_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_what-we-do_2x-canada_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_what-we-do_2x-canada_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_what-we-do_2x-canada_0_document_0_desktop.png",
         "label": "Page /en/what-we-do/2x-canada",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/what-we-do/2x-canada",
+        "url": "https://www.findevcanada.ca/en/what-we-do/2x-canada",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/what-we-do/2x-canada",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -141,41 +180,51 @@ report({
             "width": 0,
             "height": -2
           },
-          "rawMisMatchPercentage": 1.260413148711021,
-          "misMatchPercentage": "1.26",
-          "analysisTime": 595
+          "rawMisMatchPercentage": 0.2504432624113475,
+          "misMatchPercentage": "0.25",
+          "analysisTime": 609
         },
-        "diffImage": "../bitmaps_test/20250402-165402/failed_diff_backstop_default_Page__en_what-we-do_2x-canada_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_what-we-do_2x-canada_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_events_0_document_0_desktop.png",
         "label": "Page /en/events",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/events",
+        "url": "https://www.findevcanada.ca/en/events",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/events",
         "expect": 0,
         "viewportLabel": "desktop",
-        "error": "Reference file not found /Users/emeliostevemalisa/backstop/findev/backstop_data/bitmaps_reference/backstop_default_Page__en_events_0_document_0_desktop.png"
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 19
+          },
+          "rawMisMatchPercentage": 7.650533536585366,
+          "misMatchPercentage": "7.65",
+          "analysisTime": 427
+        },
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_events_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_resources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_resources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_resources_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_resources_0_document_0_desktop.png",
         "label": "Page /en/resources",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/resources",
+        "url": "https://www.findevcanada.ca/en/resources",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/resources",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -185,23 +234,24 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.02603228904093146,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 377
-        }
+          "rawMisMatchPercentage": 1.0062661295162645,
+          "misMatchPercentage": "1.01",
+          "analysisTime": 431
+        },
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_resources_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_media_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_media_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_media_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_media_0_document_0_desktop.png",
         "label": "Page /en/media",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/media",
+        "url": "https://www.findevcanada.ca/en/media",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/media",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -211,9 +261,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.00017987336914811972,
+          "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 252
+          "analysisTime": 146
         }
       },
       "status": "pass"
@@ -221,13 +271,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_blog_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_blog_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_blog_0_document_0_desktop.png",
         "label": "Page /en/blog",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/blog",
+        "url": "https://www.findevcanada.ca/en/blog",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/blog",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -245,13 +295,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_contact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_contact_0_document_0_desktop.png",
         "label": "Page /en/contact",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/contact",
+        "url": "https://www.findevcanada.ca/en/contact",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/contact",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -263,7 +313,7 @@ report({
           },
           "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 142
+          "analysisTime": 75
         }
       },
       "status": "pass"
@@ -271,13 +321,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_newsletter_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_newsletter_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_newsletter_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_newsletter_0_document_0_desktop.png",
         "label": "Page /en/newsletter",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/newsletter",
+        "url": "https://www.findevcanada.ca/en/newsletter",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/newsletter",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -287,7 +337,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.005545910493827161,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 284
         }
       },
       "status": "pass"
@@ -295,13 +347,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_accessibility_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_accessibility_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_accessibility_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_accessibility_0_document_0_desktop.png",
         "label": "Page /en/accessibility",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/accessibility",
+        "url": "https://www.findevcanada.ca/en/accessibility",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/accessibility",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -313,7 +365,7 @@ report({
           },
           "rawMisMatchPercentage": 0.026517748324192566,
           "misMatchPercentage": "0.03",
-          "analysisTime": 464
+          "analysisTime": 648
         }
       },
       "status": "pass"
@@ -321,13 +373,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_independent-accountability-mechanism-complaint-form_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_independent-accountability-mechanism-complaint-form_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_independent-accountability-mechanism-complaint-form_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_independent-accountability-mechanism-complaint-form_0_document_0_desktop.png",
         "label": "Page /en/independent-accountability-mechanism-complaint-form",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/independent-accountability-mechanism-complaint-form",
+        "url": "https://www.findevcanada.ca/en/independent-accountability-mechanism-complaint-form",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/independent-accountability-mechanism-complaint-form",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -339,7 +391,7 @@ report({
           },
           "rawMisMatchPercentage": 0.05017486167658419,
           "misMatchPercentage": "0.05",
-          "analysisTime": 385
+          "analysisTime": 475
         }
       },
       "status": "pass"
@@ -347,13 +399,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Page__en_our-clients_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250402-165402/backstop_default_Page__en_our-clients_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250402-193944/backstop_default_Page__en_our-clients_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Page__en_our-clients_0_document_0_desktop.png",
         "label": "Page /en/our-clients",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://www.findevcanada.ca/en/our-clients",
+        "url": "https://www.findevcanada.ca/en/our-clients",
         "referenceUrl": "https://mu-032825-findev.pantheonsite.io/en/our-clients",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -363,12 +415,13 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 275
-        }
+          "rawMisMatchPercentage": 11.601912746375953,
+          "misMatchPercentage": "11.60",
+          "analysisTime": 430
+        },
+        "diffImage": "../bitmaps_test/20250402-193944/failed_diff_backstop_default_Page__en_our-clients_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     }
   ],
   "id": "backstop_default"
