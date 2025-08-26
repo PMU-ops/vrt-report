@@ -4,295 +4,268 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://hc.edu/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 47
+            "height": 0
           },
-          "rawMisMatchPercentage": 23.360665324220975,
-          "misMatchPercentage": "23.36",
-          "analysisTime": 223
+          "rawMisMatchPercentage": 14.072653629708462,
+          "misMatchPercentage": "14.07",
+          "analysisTime": 369
         },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250826-212056/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_About_Page_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_About_Page_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Kitchen_Sink_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Kitchen_Sink_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_About_Page_0_document_0_desktop.png",
-        "label": "About Page",
+        "fileName": "backstop_default_Kitchen_Sink_0_document_0_desktop.png",
+        "label": "Kitchen Sink",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/about",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/about",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 93
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Contact_Page_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Contact_Page_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Contact_Page_0_document_0_desktop.png",
-        "label": "Contact Page",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/contact",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/contact",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Admissions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Admissions_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Admissions_0_document_0_desktop.png",
-        "label": "Admissions",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/admissions/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/admissions/",
+        "url": "http://hc.edu/kitchen-sink/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/kitchen-sink/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 46
+            "height": -1596
           },
-          "rawMisMatchPercentage": 7.118361445351669,
-          "misMatchPercentage": "7.12",
-          "analysisTime": 269
+          "rawMisMatchPercentage": 2.9379577774607024,
+          "misMatchPercentage": "2.94",
+          "analysisTime": 1052
         },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_Admissions_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250826-212056/failed_diff_backstop_default_Kitchen_Sink_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Student_Life_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Student_Life_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Student_Life_0_document_0_desktop.png",
+        "label": "Student Life",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://hc.edu/student-life/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/student-life/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.01626427905350274,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 566
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Business_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Business_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Business_0_document_0_desktop.png",
+        "label": "Business",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://hc.edu/business/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/business/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -27
+          },
+          "rawMisMatchPercentage": 10.170325878541439,
+          "misMatchPercentage": "10.17",
+          "analysisTime": 620
+        },
+        "diffImage": "../bitmaps_test/20250826-212056/failed_diff_backstop_default_Business_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Psychology_Degree_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Psychology_Degree_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Psychology_Degree_0_document_0_desktop.png",
+        "label": "Psychology Degree",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://hc.edu/college-of-education-and-behavioral-sciences/degrees/psychology/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/college-of-education-and-behavioral-sciences/degrees/psychology/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.1238244436524907,
+          "misMatchPercentage": "3.12",
+          "analysisTime": 229
+        },
+        "diffImage": "../bitmaps_test/20250826-212056/failed_diff_backstop_default_Psychology_Degree_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Majors_and_Programs_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Majors_and_Programs_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Majors_and_Programs_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Majors_and_Programs_0_document_0_desktop.png",
         "label": "Majors and Programs",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://hc.edu/academics/majors-and-programs/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/academics/majors-and-programs/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/academics/majors-and-programs/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 46
+            "height": 0
           },
-          "rawMisMatchPercentage": 0.02717650487494701,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 934
+          "rawMisMatchPercentage": 4.9120649997750485,
+          "misMatchPercentage": "4.91",
+          "analysisTime": 1151
         },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_Majors_and_Programs_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250826-212056/failed_diff_backstop_default_Majors_and_Programs_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Arts_and_Humanities_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Arts_and_Humanities_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Online_Learning_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_Online_Learning_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Arts_and_Humanities_0_document_0_desktop.png",
-        "label": "Arts and Humanities",
+        "fileName": "backstop_default_Online_Learning_0_document_0_desktop.png",
+        "label": "Online Learning",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/arts-humanities/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/arts-humanities/",
+        "url": "http://hc.edu/online-learning/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/online-learning/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 111
+            "height": 0
           },
-          "rawMisMatchPercentage": 9.749076015004412,
-          "misMatchPercentage": "9.75",
-          "analysisTime": 365
-        },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_Arts_and_Humanities_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.018826812960441325,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 651
+        }
       },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Arts_and_Humanities_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Arts_and_Humanities_Events_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Arts_and_Humanities_Events_0_document_0_desktop.png",
-        "label": "Arts and Humanities Events",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/arts-humanities/events/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/arts-humanities/events/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 71
-          },
-          "rawMisMatchPercentage": 14.080793308702791,
-          "misMatchPercentage": "14.08",
-          "analysisTime": 290
-        },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_Arts_and_Humanities_Events_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Contacts_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_Contacts_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Contacts_0_document_0_desktop.png",
-        "label": "Contacts",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/contacts/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/contacts/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 48
-          },
-          "rawMisMatchPercentage": 13.604019376800208,
-          "misMatchPercentage": "13.60",
-          "analysisTime": 181
-        },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_Contacts_0_document_0_desktop.png"
-      },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_and_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_News_and_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_News_and_Events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_and_Events_0_document_0_desktop.png",
         "label": "News and Events",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://hc.edu/news-and-events/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/news-and-events/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/news-and-events/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 48
+            "height": 0
           },
-          "rawMisMatchPercentage": 13.636770859226116,
-          "misMatchPercentage": "13.64",
-          "analysisTime": 327
+          "rawMisMatchPercentage": 1.3439540631235263,
+          "misMatchPercentage": "1.34",
+          "analysisTime": 334
         },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_News_and_Events_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250826-212056/failed_diff_backstop_default_News_and_Events_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_The_Pillars_Magazine_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_The_Pillars_Magazine_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_The_Pillars_Magazine_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_The_Pillars_Magazine_0_document_0_desktop.png",
         "label": "The Pillars Magazine",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/news-and-events/hbu-publication/the-pillars-magazine/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/news-and-events/hbu-publication/the-pillars-magazine/",
+        "url": "http://hc.edu/news-and-events/hcu-publication/the-pillars-magazine/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/news-and-events/hcu-publication/the-pillars-magazine/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 47
+            "height": 0
           },
-          "rawMisMatchPercentage": 7.9700073671086935,
-          "misMatchPercentage": "7.97",
-          "analysisTime": 219
-        },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_The_Pillars_Magazine_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.056895467611128216,
+          "misMatchPercentage": "0.06",
+          "analysisTime": 137
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_University_Catalog_Courses_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250224-190329/backstop_default_University_Catalog_Courses_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_University_Catalog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250826-212056/backstop_default_University_Catalog_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_University_Catalog_Courses_0_document_0_desktop.png",
-        "label": "University Catalog Courses",
+        "fileName": "backstop_default_University_Catalog_0_document_0_desktop.png",
+        "label": "University Catalog",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "http://hc.edu/university-catalog/courses/",
-        "referenceUrl": "https://mu-022425-hbu.pantheonsite.io/university-catalog/courses/",
+        "url": "http://hc.edu/university-catalog/",
+        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/university-catalog/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -93
+            "height": 0
           },
-          "rawMisMatchPercentage": 5.717557173412307,
-          "misMatchPercentage": "5.72",
-          "analysisTime": 374
-        },
-        "diffImage": "../bitmaps_test/20250224-190329/failed_diff_backstop_default_University_Catalog_Courses_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.08346546863988724,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 142
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ],
   "id": "backstop_default"
