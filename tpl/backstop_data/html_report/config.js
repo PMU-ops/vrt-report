@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
@@ -20,18 +20,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.49284910936835064,
-          "misMatchPercentage": "0.49",
-          "analysisTime": 517
+          "rawMisMatchPercentage": 0.5916488084382029,
+          "misMatchPercentage": "0.59",
+          "analysisTime": 1465
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admin_Dashboard_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Admin_Dashboard_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Admin_Dashboard_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admin_Dashboard_0_document_0_desktop.png",
         "label": "Admin Dashboard",
@@ -47,18 +47,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.18778846153846154,
-          "misMatchPercentage": "0.19",
-          "analysisTime": 237
+          "rawMisMatchPercentage": 0.15689102564102564,
+          "misMatchPercentage": "0.16",
+          "analysisTime": 85
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Admin_Dashboard_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Admin_Dashboard_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Our_Mission_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Our_Mission_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Our_Mission_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Our_Mission_0_document_0_desktop.png",
         "label": "Our Mission",
@@ -74,18 +74,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.12587261798873345,
-          "misMatchPercentage": "0.13",
-          "analysisTime": 567
+          "rawMisMatchPercentage": 0.10810860893237378,
+          "misMatchPercentage": "0.11",
+          "analysisTime": 998
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Our_Mission_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Our_Mission_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Our_Work_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Our_Work_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Our_Work_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Our_Work_0_document_0_desktop.png",
         "label": "Our Work",
@@ -96,23 +96,22 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -1879
+            "height": 0
           },
-          "rawMisMatchPercentage": 19.754711379595207,
-          "misMatchPercentage": "19.75",
-          "analysisTime": 558
-        },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Our_Work_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.0849258950273967,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 1319
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ParkScore_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_ParkScore_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_ParkScore_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ParkScore_0_document_0_desktop.png",
         "label": "ParkScore",
@@ -128,17 +127,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.000895501577044388,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 477
-        }
+          "rawMisMatchPercentage": 3.1463297657512115,
+          "misMatchPercentage": "3.15",
+          "analysisTime": 869
+        },
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_ParkScore_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Washington_DC_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Washington_DC_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Washington_DC_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Washington_DC_0_document_0_desktop.png",
         "label": "Washington DC",
@@ -154,9 +154,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.07068694321836154,
-          "misMatchPercentage": "0.07",
-          "analysisTime": 672
+          "rawMisMatchPercentage": 0.039536764850947974,
+          "misMatchPercentage": "0.04",
+          "analysisTime": 1221
         }
       },
       "status": "pass"
@@ -164,7 +164,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stories_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Stories_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Stories_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stories_0_document_0_desktop.png",
         "label": "Stories",
@@ -175,23 +175,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -2515
+            "height": 0
           },
-          "rawMisMatchPercentage": 17.18578125914224,
-          "misMatchPercentage": "17.19",
-          "analysisTime": 546
+          "rawMisMatchPercentage": 2.421815824739265,
+          "misMatchPercentage": "2.42",
+          "analysisTime": 789
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resource_Hub_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Resource_Hub_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Resource_Hub_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Resource_Hub_0_document_0_desktop.png",
         "label": "Resource Hub",
@@ -202,23 +202,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -2079
+            "height": 0
           },
-          "rawMisMatchPercentage": 20.84170314526589,
-          "misMatchPercentage": "20.84",
-          "analysisTime": 646
+          "rawMisMatchPercentage": 0.49262309920347574,
+          "misMatchPercentage": "0.49",
+          "analysisTime": 659
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Resource_Hub_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Resource_Hub_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Media_Room_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Media_Room_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Media_Room_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Media_Room_0_document_0_desktop.png",
         "label": "Media Room",
@@ -229,23 +229,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -1596
+            "height": 0
           },
-          "rawMisMatchPercentage": 23.205061098050738,
-          "misMatchPercentage": "23.21",
-          "analysisTime": 391
+          "rawMisMatchPercentage": 0.3664695288161994,
+          "misMatchPercentage": "0.37",
+          "analysisTime": 646
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Media_Room_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Media_Room_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_New_York_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_New_York_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_New_York_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_New_York_0_document_0_desktop.png",
         "label": "New York",
@@ -261,9 +261,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0025088601186170983,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 504
+          "rawMisMatchPercentage": 0.01860926274169439,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 816
         }
       },
       "status": "pass"
@@ -271,7 +271,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
         "label": "Long Island Greenway",
@@ -287,9 +287,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.08612902083038118,
-          "misMatchPercentage": "0.09",
-          "analysisTime": 652
+          "rawMisMatchPercentage": 0.0005461480326862217,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 756
         }
       },
       "status": "pass"
@@ -297,7 +297,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
         "label": "William H Pouch Scout Camp",
@@ -313,9 +313,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.003703201574676629,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 391
+          "rawMisMatchPercentage": 0.07519790099577334,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 690
         }
       },
       "status": "pass"
@@ -323,7 +323,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
         "label": "Lands Conservation Health Equity Community",
@@ -339,17 +339,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.00716403162055336,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 532
-        }
+          "rawMisMatchPercentage": 3.660719513980384,
+          "misMatchPercentage": "3.66",
+          "analysisTime": 881
+        },
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
@@ -365,18 +366,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.6852540469531316,
-          "misMatchPercentage": "0.69",
-          "analysisTime": 382
+          "rawMisMatchPercentage": 0.6373307743107148,
+          "misMatchPercentage": "0.64",
+          "analysisTime": 674
         },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Research_Overview_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Research_Overview_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Research_Overview_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Research_Overview_0_document_0_desktop.png",
         "label": "Research Overview",
@@ -387,23 +388,22 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -2079
+            "height": 0
           },
-          "rawMisMatchPercentage": 0.016336455331412106,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 688
-        },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Research_Overview_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.04129502029083531,
+          "misMatchPercentage": "0.04",
+          "analysisTime": 907
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Public_Policy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Public_Policy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Public_Policy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Public_Policy_0_document_0_desktop.png",
         "label": "Public Policy",
@@ -419,17 +419,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.017798037929389315,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 540
-        }
+          "rawMisMatchPercentage": 3.9511768447837152,
+          "misMatchPercentage": "3.95",
+          "analysisTime": 858
+        },
+        "diffImage": "../bitmaps_test/20250901-151310/failed_diff_backstop_default_Public_Policy_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
         "label": "Petitions Schoolyards",
@@ -453,7 +454,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250701-122513/backstop_default_Contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20250901-151310/backstop_default_Contact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_0_document_0_desktop.png",
         "label": "Contact",
@@ -469,13 +470,12 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.12035309563294637,
-          "misMatchPercentage": "0.12",
-          "analysisTime": 317
-        },
-        "diffImage": "../bitmaps_test/20250701-122513/failed_diff_backstop_default_Contact_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.09970978441127694,
+          "misMatchPercentage": "0.10",
+          "analysisTime": 573
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ],
   "id": "backstop_default"
