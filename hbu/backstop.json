@@ -14,61 +14,61 @@
         "label": "Homepage",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/"
       },
       {
         "label": "Kitchen Sink",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/kitchen-sink/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/kitchen-sink/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/kitchen-sink/"
       },
       {
         "label": "Student Life",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/student-life/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/student-life/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/student-life/"
       },
       {
         "label": "Business",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/business/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/business/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/business/"
       },
       {
         "label": "Psychology Degree",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/college-of-education-and-behavioral-sciences/degrees/psychology/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/college-of-education-and-behavioral-sciences/degrees/psychology/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/college-of-education-and-behavioral-sciences/degrees/psychology/"
       },
       {
         "label": "Majors and Programs",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/academics/majors-and-programs/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/academics/majors-and-programs/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/academics/majors-and-programs/"
       },
       {
         "label": "Online Learning",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/online-learning/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/online-learning/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/online-learning/"
       },
       {
         "label": "News and Events",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/news-and-events/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/news-and-events/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/news-and-events/"
       },
       {
         "label": "The Pillars Magazine",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/news-and-events/hcu-publication/the-pillars-magazine/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/news-and-events/hcu-publication/the-pillars-magazine/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/news-and-events/hcu-publication/the-pillars-magazine/"
       },
       {
         "label": "University Catalog",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "url": "http://hc.edu/university-catalog/",
-        "referenceUrl": "https://mu-082625-hbu.pantheonsite.io/university-catalog/"
+        "referenceUrl": "https://mu-091525-hbu.pantheonsite.io/university-catalog/"
       }
     ],
     "paths": {
