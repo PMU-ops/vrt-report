@@ -1,12 +1,24 @@
 /* eslint-disable */
 module.exports = async (page, _scenario) => {
 
+async function disableAnimations(page) {
+    await page.addStyleTag({
+      content: `
+        .animated-element {
+          transition: unset !important;
+          animation: unset !important;
+          opacity: 1 !important;
+        }
+      `
+    });
+  }
+
   async function autoScroll(page) {
     await page.evaluate(async () => {
       await new Promise((resolve) => {
         var totalHeight = 0;
-        var distance = 50;
-        var timer = setInterval(async () => {
+        var distance = 100;
+        var timer = setInterval(() => {
           var scrollHeight = document.body.scrollHeight;
           window.scrollBy(0, distance);
           totalHeight += distance;
@@ -14,13 +26,13 @@ module.exports = async (page, _scenario) => {
           if (totalHeight >= scrollHeight) {
             clearInterval(timer);
             resolve();
-          } else {
-            await new Promise(r => setTimeout(r, 2000)); // Wait for 2 seconds
           }
         }, 100);
       });
     });
   }
 
+  await disableAnimations(page);
   await autoScroll(page);
+  
 };
