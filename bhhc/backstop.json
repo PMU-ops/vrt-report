@@ -1,0 +1,96 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desktop",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+        {
+          "label": "Homepage",
+          "url": "https://www.bhhc.com/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/"
+        },
+        {
+          "label": "Find an Agent",
+          "url": "https://www.bhhc.com/find-an-agent/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/find-an-agent/"
+        },
+        {
+          "label": "Careers at BHHC",
+          "url": "https://www.bhhc.com/careers-at-bhhc/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/careers-at-bhhc/"
+        },
+        {
+          "label": "AM Best Superior Rating 2023",
+          "url": "https://www.bhhc.com/2023/02/06/am-best-superior-rating-2023/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/2023/02/06/am-best-superior-rating-2023/"
+        },
+        {
+          "label": "Workers Compensation",
+          "url": "https://www.bhhc.com/workers-compensation/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/workers-compensation/"
+        },
+        {
+          "label": "Commercial Auto Resources",
+          "url": "https://www.bhhc.com/commercial-auto/resources/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/commercial-auto/resources/"
+        },
+        {
+          "label": "Commercial Auto Coverages",
+          "url": "https://www.bhhc.com/commercial-auto/coverages/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/commercial-auto/coverages/"
+        },
+        {
+          "label": "Commercial Auto",
+          "url": "https://www.bhhc.com/commercial-auto/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/commercial-auto/"
+        },
+        {
+          "label": "Commercial Property - Report a Claim",
+          "url": "https://www.bhhc.com/commercial-property/report-a-claim/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/commercial-property/report-a-claim/"
+        },
+        {
+          "label": "Commercial Auto - Report a Claim",
+          "url": "https://www.bhhc.com/commercial-auto/report-a-claim/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/commercial-auto/report-a-claim/"
+        },
+        {
+          "label": "Workers Compensation - Injured Workers",
+          "url": "https://www.bhhc.com/workers-compensation/injured-workers/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/workers-compensation/injured-workers/"
+        },
+        {
+          "label": "Business Policyholders",
+          "url": "https://www.bhhc.com/business-policyholders/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/business-policyholders/"
+        },
+        {
+          "label": "Agents & Brokers",
+          "url": "https://www.bhhc.com/agents-brokers/",
+          "referenceUrl": "https://autopilot-bhhcdotcom.pantheonsite.io/agents-brokers/"
+        }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"]
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+  }
