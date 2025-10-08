@@ -1,0 +1,82 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desktop",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+        "label": "Homepage",
+        "url": "https://www.berkshireunited.com/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/"
+      },
+      {
+        "label": "Agents & Brokers",
+        "url": "https://www.berkshireunited.com/agents-brokers/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/agents-brokers/"
+      },
+      {
+        "label": "Business Policyholders",
+        "url": "https://www.berkshireunited.com/business-policyholders/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/business-policyholders/"
+      },
+      {
+        "label": "Workers Compensation - Injured Workers",
+        "url": "https://www.berkshireunited.com/workers-compensation/injured-workers/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/workers-compensation/injured-workers/"
+      },
+      {
+        "label": "Careers at BHHC",
+        "url": "https://www.berkshireunited.com/careers-at-bhhc/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/careers-at-bhhc/"
+      },
+      {
+        "label": "Commercial Auto - Report a Claim",
+        "url": "https://www.berkshireunited.com/commercial-auto/report-a-claim/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/report-a-claim/"
+      },
+      {
+        "label": "Commercial Property - Report a Claim",
+        "url": "https://www.berkshireunited.com/commercial-property/report-a-claim/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-property/report-a-claim/"
+      },
+      {
+        "label": "Commercial Auto",
+        "url": "https://www.berkshireunited.com/commercial-auto/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/"
+      },
+      {
+        "label": "Commercial Auto Coverages",
+        "url": "https://www.berkshireunited.com/commercial-auto/coverages/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/coverages/"
+      },
+      {
+        "label": "Commercial Auto Resources",
+        "url": "https://www.berkshireunited.com/commercial-auto/resources/",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/resources/"
+      }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"]
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "requireSameDimensions": false,
+    "debug": false,
+    "debugWindow": false
+  }
