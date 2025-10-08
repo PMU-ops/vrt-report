@@ -4,41 +4,41 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/",
+        "url": "https://www.berkshireunited.com/?cb=1759883319608295",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/?cb=1759883319608295",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -52
+            "height": 0
           },
-          "rawMisMatchPercentage": 18.719382183908046,
-          "misMatchPercentage": "18.72",
-          "analysisTime": 201
+          "rawMisMatchPercentage": 0.32038793103448276,
+          "misMatchPercentage": "0.32",
+          "analysisTime": 194
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Agents__Brokers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Agents__Brokers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Agents__Brokers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Agents__Brokers_0_document_0_desktop.png",
         "label": "Agents & Brokers",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/agents-brokers/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/agents-brokers/",
+        "url": "https://www.berkshireunited.com/agents-brokers/?cb=1759883319607136",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/agents-brokers/?cb=1759883319607136",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -47,25 +47,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 20.071421682098766,
-          "misMatchPercentage": "20.07",
-          "analysisTime": 118
+          "rawMisMatchPercentage": 0.31008873456790126,
+          "misMatchPercentage": "0.31",
+          "analysisTime": 106
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Agents__Brokers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Agents__Brokers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Business_Policyholders_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Business_Policyholders_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Business_Policyholders_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Business_Policyholders_0_document_0_desktop.png",
         "label": "Business Policyholders",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/business-policyholders/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/business-policyholders/",
+        "url": "https://www.berkshireunited.com/business-policyholders/?cb=1759883319600735",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/business-policyholders/?cb=1759883319600735",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -74,52 +74,52 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 20.071421682098766,
-          "misMatchPercentage": "20.07",
-          "analysisTime": 106
+          "rawMisMatchPercentage": 0.31008873456790126,
+          "misMatchPercentage": "0.31",
+          "analysisTime": 99
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Business_Policyholders_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Business_Policyholders_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Workers_Compensation_-_Injured_Workers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Workers_Compensation_-_Injured_Workers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Workers_Compensation_-_Injured_Workers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Workers_Compensation_-_Injured_Workers_0_document_0_desktop.png",
         "label": "Workers Compensation - Injured Workers",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/workers-compensation/injured-workers/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/workers-compensation/injured-workers/",
+        "url": "https://www.berkshireunited.com/workers-compensation/injured-workers/?cb=1759883319604222",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/workers-compensation/injured-workers/?cb=1759883319604222",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 52
+            "height": 0
           },
-          "rawMisMatchPercentage": 23.25574270405837,
-          "misMatchPercentage": "23.26",
-          "analysisTime": 177
+          "rawMisMatchPercentage": 0.13703046625626994,
+          "misMatchPercentage": "0.14",
+          "analysisTime": 186
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Workers_Compensation_-_Injured_Workers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Workers_Compensation_-_Injured_Workers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_at_BHHC_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Careers_at_BHHC_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Careers_at_BHHC_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_at_BHHC_0_document_0_desktop.png",
         "label": "Careers at BHHC",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/careers-at-bhhc/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/careers-at-bhhc/",
+        "url": "https://www.berkshireunited.com/careers-at-bhhc/?cb=1759883319602511",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/careers-at-bhhc/?cb=1759883319602511",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -128,106 +128,79 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 20.071421682098766,
-          "misMatchPercentage": "20.07",
-          "analysisTime": 130
+          "rawMisMatchPercentage": 0.31008873456790126,
+          "misMatchPercentage": "0.31",
+          "analysisTime": 104
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Careers_at_BHHC_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Careers_at_BHHC_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Commercial_Auto_-_Report_a_Claim_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Commercial_Auto_-_Report_a_Claim_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Commercial_Auto_-_Report_a_Claim_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Commercial_Auto_-_Report_a_Claim_0_document_0_desktop.png",
         "label": "Commercial Auto - Report a Claim",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/commercial-auto/report-a-claim/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/report-a-claim/",
+        "url": "https://www.berkshireunited.com/commercial-auto/report-a-claim/?cb=1759883323936538",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/report-a-claim/?cb=1759883323936538",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -52
+            "height": 0
           },
-          "rawMisMatchPercentage": 23.84461426491994,
-          "misMatchPercentage": "23.84",
-          "analysisTime": 189
+          "rawMisMatchPercentage": 0.18280340247452692,
+          "misMatchPercentage": "0.18",
+          "analysisTime": 193
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Commercial_Auto_-_Report_a_Claim_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Commercial_Auto_-_Report_a_Claim_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Commercial_Property_-_Report_a_Claim_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Commercial_Property_-_Report_a_Claim_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Commercial_Property_-_Report_a_Claim_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Commercial_Property_-_Report_a_Claim_0_document_0_desktop.png",
         "label": "Commercial Property - Report a Claim",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/commercial-property/report-a-claim/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-property/report-a-claim/",
+        "url": "https://www.berkshireunited.com/commercial-property/report-a-claim/?cb=1759883324023897",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-property/report-a-claim/?cb=1759883324023897",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -52
+            "height": 0
           },
-          "rawMisMatchPercentage": 23.84552401746725,
-          "misMatchPercentage": "23.85",
-          "analysisTime": 206
+          "rawMisMatchPercentage": 0.18280340247452692,
+          "misMatchPercentage": "0.18",
+          "analysisTime": 229
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Commercial_Property_-_Report_a_Claim_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Commercial_Property_-_Report_a_Claim_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Commercial_Auto_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Commercial_Auto_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Commercial_Auto_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Commercial_Auto_0_document_0_desktop.png",
         "label": "Commercial Auto",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/commercial-auto/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -52
-          },
-          "rawMisMatchPercentage": 19.62055562990721,
-          "misMatchPercentage": "19.62",
-          "analysisTime": 216
-        },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Commercial_Auto_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png",
-        "label": "Commercial Auto Coverages",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/commercial-auto/coverages/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/coverages/",
+        "url": "https://www.berkshireunited.com/commercial-auto/?cb=1759883324779496",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/?cb=1759883324779496",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -236,25 +209,51 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 20.071421682098766,
-          "misMatchPercentage": "20.07",
-          "analysisTime": 99
+          "rawMisMatchPercentage": 0.08964021234832263,
+          "misMatchPercentage": "0.09",
+          "analysisTime": 196
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png",
+        "label": "Commercial Auto Coverages",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.berkshireunited.com/commercial-auto/coverages/?cb=1759883324809181",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/coverages/?cb=1759883324809181",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.31008873456790126,
+          "misMatchPercentage": "0.31",
+          "analysisTime": 96
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Commercial_Auto_Coverages_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Commercial_Auto_Resources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251008-080458/backstop_default_Commercial_Auto_Resources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251008-082838/backstop_default_Commercial_Auto_Resources_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Commercial_Auto_Resources_0_document_0_desktop.png",
         "label": "Commercial Auto Resources",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.berkshireunited.com/commercial-auto/resources/",
-        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/resources/",
+        "url": "https://www.berkshireunited.com/commercial-auto/resources/?cb=1759883324808467",
+        "referenceUrl": "https://autopilot-berkusite.pantheonsite.io/commercial-auto/resources/?cb=1759883324808467",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -263,11 +262,11 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 20.071421682098766,
-          "misMatchPercentage": "20.07",
-          "analysisTime": 122
+          "rawMisMatchPercentage": 0.31008873456790126,
+          "misMatchPercentage": "0.31",
+          "analysisTime": 103
         },
-        "diffImage": "../bitmaps_test/20251008-080458/failed_diff_backstop_default_Commercial_Auto_Resources_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251008-082838/failed_diff_backstop_default_Commercial_Auto_Resources_0_document_0_desktop.png"
       },
       "status": "fail"
     }
