@@ -12,75 +12,38 @@
     "scenarios": [
         {
             "label": "Home",
-            "url": "https://www.trimac.com/",
-            "referenceUrl": "https://mu-010825-trimac.pantheonsite.io/clone/",
-            "readyEvent": "",
-            "readySelector": "",
-            "delay": 3000,
-            "hideSelectors": [],
-            "removeSelectors": [],
-            "hoverSelector": "",
-            "clickSelector": "",
-            "postInteractionWait": 0,
-            "selectors": [],
-            "selectorExpansion": true,
-            "expect": 0,
-            "misMatchThreshold": 0.1,
-            "requireSameDimensions": true
+            "url": "https://dev-trimac.pantheonsite.io/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/"
         },
         {
-            "label": "Company",
-            "url": "https://www.trimac.com/company/",
-            "referenceUrl": "https://mu-010825-trimac.pantheonsite.io/clone/company/",
-            "readyEvent": "",
-            "readySelector": "",
-            "delay": 3000,
-            "hideSelectors": [],
-            "removeSelectors": [],
-            "hoverSelector": "",
-            "clickSelector": "",
-            "postInteractionWait": 0,
-            "selectors": [],
-            "selectorExpansion": true,
-            "expect": 0,
-            "misMatchThreshold": 0.1,
-            "requireSameDimensions": true
+            "label": "Clone",
+            "url": "https://dev-trimac.pantheonsite.io/clone/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/clone/"
         },
         {
-            "label": "Work With Us",
-            "url": "https://www.trimac.com/work-with-us/",
-            "referenceUrl": "https://mu-010825-trimac.pantheonsite.io/clone/work-with-us/",
-            "readyEvent": "",
-            "readySelector": "",
-            "delay": 3000,
-            "hideSelectors": [],
-            "removeSelectors": [],
-            "hoverSelector": "",
-            "clickSelector": "",
-            "postInteractionWait": 0,
-            "selectors": [],
-            "selectorExpansion": true,
-            "expect": 0,
-            "misMatchThreshold": 0.1,
-            "requireSameDimensions": true
+            "label": "National Tank Services - Request a Rate",
+            "url": "https://dev-trimac.pantheonsite.io/nationaltankservices/request-a-rate/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/nationaltankservices/request-a-rate/"
         },
         {
-            "label": "Request a Rate",
-            "url": "https://www.trimac.com/request-a-rate/",
-            "referenceUrl": "https://mu-010825-trimac.pantheonsite.io/clone/request-a-rate/",
-            "readyEvent": "",
-            "readySelector": "",
-            "delay": 3000,
-            "hideSelectors": [],
-            "removeSelectors": [],
-            "hoverSelector": "",
-            "clickSelector": "",
-            "postInteractionWait": 0,
-            "selectors": [],
-            "selectorExpansion": true,
-            "expect": 0,
-            "misMatchThreshold": 0.1,
-            "requireSameDimensions": true
+            "label": "Clone - Company",
+            "url": "https://dev-trimac.pantheonsite.io/clone/company/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/clone/company/"
+        },
+        {
+            "label": "Clone - Work With Us",
+            "url": "https://dev-trimac.pantheonsite.io/clone/work-with-us/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/clone/work-with-us/"
+        },
+        {
+            "label": "Bulkplus",
+            "url": "https://dev-trimac.pantheonsite.io/bulkplus/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/bulkplus/"
+        },
+        {
+            "label": "MTL Tank Wash",
+            "url": "https://dev-trimac.pantheonsite.io/mtltankwash/",
+            "referenceUrl": "https://mu-100825-trimac.pantheonsite.io/mtltankwash/"
         }
     ],
     "paths": {
