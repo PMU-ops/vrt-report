@@ -1,0 +1,126 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+            {
+                "label": "Home",
+                "url": "https://www.dominican.edu/",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/"
+            },
+            {
+                "label": "Academics",
+                "url": "https://www.dominican.edu/academics",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/academics"
+            },
+            {
+                "label": "Admissions",
+                "url": "https://www.dominican.edu/admissions",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/admissions"
+            },
+            {
+                "label": "Campus Life",
+                "url": "https://www.dominican.edu/campus-life",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/campus-life"
+            },
+            {
+                "label": "About",
+                "url": "https://www.dominican.edu/about",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/about"
+            },
+            {
+                "label": "Directory People",
+                "url": "https://www.dominican.edu/directory-people",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/directory-people"
+            },
+            {
+                "label": "News",
+                "url": "https://www.dominican.edu/news",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/news"
+            },
+            {
+                "label": "Alumni",
+                "url": "https://www.dominican.edu/alumni",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/alumni"
+            },
+            {
+                "label": "Admitted Students",
+                "url": "https://www.dominican.edu/admitted-students",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/admitted-students"
+            },
+            {
+                "label": "Current Students",
+                "url": "https://www.dominican.edu/current-students",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/current-students"
+            },
+            {
+                "label": "Parents and Family",
+                "url": "https://www.dominican.edu/parents-and-family",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/parents-and-family"
+            },
+            {
+                "label": "Events (with slash)",
+                "url": "https://www.dominican.edu/events/",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/events/"
+            },
+            {
+                "label": "News Listing (with slash)",
+                "url": "https://www.dominican.edu/news/news-listing/",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/news/news-listing/"
+            },
+            {
+                "label": "News Listing (no slash)",
+                "url": "https://www.dominican.edu/news/news-listing",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/news/news-listing"
+            },
+            {
+                "label": "News Article",
+                "url": "https://www.dominican.edu/news/news-listing/dominican-psychologist-attends-white-house-convening-public-health-communication",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/news/news-listing/dominican-psychologist-attends-white-house-convening-public-health-communication"
+            },
+            {
+                "label": "Directory Person Mark Jaime",
+                "url": "https://www.dominican.edu/directory-people/mark-jaime",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/directory-people/mark-jaime"
+            },
+            {
+                "label": "Graduate Program MS Counseling Psychology",
+                "url": "https://www.dominican.edu/academics/graduate-programs/master-science-counseling-psychology-ms-mftpcc",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/academics/graduate-programs/master-science-counseling-psychology-ms-mftpcc"
+            },
+            {
+                "label": "You Got This",
+                "url": "https://www.dominican.edu/you-got-this",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/you-got-this"
+            },
+            {
+                "label": "Events (no slash)",
+                "url": "https://www.dominican.edu/events",
+                "referenceUrl": "https://autopilot-dominican.pantheonsite.io/events"
+            }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 0
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
