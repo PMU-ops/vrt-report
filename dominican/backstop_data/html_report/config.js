@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
@@ -20,17 +20,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.05000854846982391,
-          "misMatchPercentage": "0.05",
-          "analysisTime": 246
-        }
+          "rawMisMatchPercentage": 4.889920641705134,
+          "misMatchPercentage": "4.89",
+          "analysisTime": 267
+        },
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Academics_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Academics_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Academics_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Academics_0_document_0_desktop.png",
         "label": "Academics",
@@ -46,15 +47,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 2.7109450096123036,
+          "misMatchPercentage": "2.71",
+          "analysisTime": 294
+        },
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_Academics_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admissions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Admissions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Admissions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admissions_0_document_0_desktop.png",
         "label": "Admissions",
@@ -70,17 +74,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0007749817651349379,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 274
-        }
+          "rawMisMatchPercentage": 0.3400520719340483,
+          "misMatchPercentage": "0.34",
+          "analysisTime": 212
+        },
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_Admissions_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Campus_Life_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Campus_Life_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Campus_Life_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Campus_Life_0_document_0_desktop.png",
         "label": "Campus Life",
@@ -96,17 +101,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03037979259626508,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 277
-        }
+          "rawMisMatchPercentage": 3.086899376136176,
+          "misMatchPercentage": "3.09",
+          "analysisTime": 210
+        },
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_Campus_Life_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_About_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_About_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_About_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_About_0_document_0_desktop.png",
         "label": "About",
@@ -122,18 +128,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 8.352766238670695,
+          "rawMisMatchPercentage": 8.351163220669688,
           "misMatchPercentage": "8.35",
-          "analysisTime": 192
+          "analysisTime": 141
         },
-        "diffImage": "../bitmaps_test/20251009-112645/failed_diff_backstop_default_About_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_About_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Directory_People_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Directory_People_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Directory_People_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Directory_People_0_document_0_desktop.png",
         "label": "Directory People",
@@ -149,9 +155,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.07205447635135136,
+          "rawMisMatchPercentage": 0.07221010413734871,
           "misMatchPercentage": "0.07",
-          "analysisTime": 263
+          "analysisTime": 231
         }
       },
       "status": "pass"
@@ -159,7 +165,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_0_desktop.png",
         "label": "News",
@@ -170,23 +176,23 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 25
           },
-          "rawMisMatchPercentage": 0.6642655300895485,
-          "misMatchPercentage": "0.66",
-          "analysisTime": 213
+          "rawMisMatchPercentage": 10.332928099354758,
+          "misMatchPercentage": "10.33",
+          "analysisTime": 308
         },
-        "diffImage": "../bitmaps_test/20251009-112645/failed_diff_backstop_default_News_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_News_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Alumni_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Alumni_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Alumni_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Alumni_0_document_0_desktop.png",
         "label": "Alumni",
@@ -210,7 +216,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admitted_Students_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Admitted_Students_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Admitted_Students_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admitted_Students_0_document_0_desktop.png",
         "label": "Admitted Students",
@@ -234,7 +240,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Current_Students_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Current_Students_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Current_Students_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Current_Students_0_document_0_desktop.png",
         "label": "Current Students",
@@ -258,7 +264,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Parents_and_Family_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Parents_and_Family_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Parents_and_Family_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Parents_and_Family_0_document_0_desktop.png",
         "label": "Parents and Family",
@@ -274,20 +280,20 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0037978794736400973,
+          "rawMisMatchPercentage": 0.00015719315895372233,
           "misMatchPercentage": "0.00",
-          "analysisTime": 394
+          "analysisTime": 307
         }
       },
       "status": "pass"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Events_with_slash_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Events_with_slash_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Events_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Events_with_slash_0_document_0_desktop.png",
-        "label": "Events (with slash)",
+        "fileName": "backstop_default_Events_0_document_0_desktop.png",
+        "label": "Events",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.dominican.edu/events/",
@@ -300,18 +306,20 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.000011164701679171134,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 255
         }
       },
       "status": "pass"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_News_Listing_with_slash_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_News_Listing_with_slash_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_News_Listing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_News_Listing_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_News_Listing_with_slash_0_document_0_desktop.png",
-        "label": "News Listing (with slash)",
+        "fileName": "backstop_default_News_Listing_0_document_0_desktop.png",
+        "label": "News Listing",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.dominican.edu/news/news-listing/",
@@ -324,33 +332,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.000012000768049155146,
+          "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 306
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_News_Listing_no_slash_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_News_Listing_no_slash_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_News_Listing_no_slash_0_document_0_desktop.png",
-        "label": "News Listing (no slash)",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.dominican.edu/news/news-listing",
-        "referenceUrl": "https://autopilot-dominican.pantheonsite.io/news/news-listing",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
+          "analysisTime": 260
         }
       },
       "status": "pass"
@@ -358,7 +342,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_Article_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_News_Article_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_News_Article_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_Article_0_document_0_desktop.png",
         "label": "News Article",
@@ -382,7 +366,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
         "label": "Directory Person Mark Jaime",
@@ -398,9 +382,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
+          "rawMisMatchPercentage": 0.00007238823256891359,
           "misMatchPercentage": "0.00",
-          "analysisTime": 65
+          "analysisTime": 174
         }
       },
       "status": "pass"
@@ -408,7 +392,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
         "label": "Graduate Program MS Counseling Psychology",
@@ -424,9 +408,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0004170141784820684,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 318
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -434,7 +416,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_You_Got_This_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_You_Got_This_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_You_Got_This_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_You_Got_This_0_document_0_desktop.png",
         "label": "You Got This",
@@ -450,24 +432,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 129
-        }
+          "rawMisMatchPercentage": 0.3450399596523898,
+          "misMatchPercentage": "0.35",
+          "analysisTime": 255
+        },
+        "diffImage": "../bitmaps_test/20251010-113213/failed_diff_backstop_default_You_Got_This_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Events_no_slash_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251009-112645/backstop_default_Events_no_slash_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251010-113213/backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Events_no_slash_0_document_0_desktop.png",
-        "label": "Events (no slash)",
+        "fileName": "backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
+        "label": "Archbishop Alemany Library",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.dominican.edu/events",
-        "referenceUrl": "https://autopilot-dominican.pantheonsite.io/events",
+        "url": "https://www.dominican.edu/academics/archbishop-alemany-library",
+        "referenceUrl": "https://autopilot-dominican.pantheonsite.io/academics/archbishop-alemany-library",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -476,9 +459,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.00011164701679171132,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 324
+          "rawMisMatchPercentage": 0.07008801072448563,
+          "misMatchPercentage": "0.07",
+          "analysisTime": 255
         }
       },
       "status": "pass"
