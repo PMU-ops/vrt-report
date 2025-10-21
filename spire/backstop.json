@@ -11,10 +11,29 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "BackstopJS Homepage",
-      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "label": "Homepage",
       "url": "https://mu-101625-spire-network.pantheonsite.io/",
       "referenceUrl": "https://dev-spire-network.pantheonsite.io/"
+    },
+    {
+      "label": "/physicians/lee-r-bloom/",
+      "url": "https://mu-101625-spire-network.pantheonsite.io/physicians/lee-r-bloom/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/physicians/lee-r-bloom/"
+    },
+    {
+      "label": "/services/physical-therapy/",
+      "url": "https://mu-101625-spire-network.pantheonsite.io/services/physical-therapy/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/services/physical-therapy/"
+    },
+    {
+      "label": "/locations/middletown/211-south-main-street/",
+      "url": "https://mu-101625-spire-network.pantheonsite.io/locations/middletown/211-south-main-street/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/locations/middletown/211-south-main-street/"
+    },
+    {
+      "label": "/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+      "url": "https://mu-101625-spire-network.pantheonsite.io/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+      "referenceUrl": "https://dev-spire-network.pantheonsite.io/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/"
     },
     {
       "label": "Spire Ortho Homepage",
@@ -142,11 +161,6 @@
       "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/understanding-scoliosis-key-insights-for-scoliosis-awareness-month/"
     },
     {
-      "label": "Orthopaedic Associates Manhasset Lee R Bloom",
-      "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/lee-r-bloom/",
-      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/lee-r-bloom/"
-    },
-    {
       "label": "Orthopaedic Associates Manhasset Physicians",
       "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/",
       "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/"
@@ -157,16 +171,6 @@
       "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/"
     },
     {
-      "label": "Orthopaedic Associates Manhasset Physical Therapy",
-      "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-therapy/",
-      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-therapy/"
-    },
-    {
-      "label": "Orthopaedic Associates Manhasset Middletown Location",
-      "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/middletown/211-south-main-street/",
-      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/middletown/211-south-main-street/"
-    },
-    {
       "label": "Orthopaedic Associates Manhasset Locations",
       "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/",
       "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/"
@@ -175,11 +179,6 @@
       "label": "Orthopaedic Associates Manhasset Blog",
       "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/",
       "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/"
-    },
-    {
-      "label": "Orthopaedic Associates Manhasset Pickleball Injury Prevention Tips",
-      "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
-      "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/"
     },
     {
       "label": "SportsMed North Homepage",

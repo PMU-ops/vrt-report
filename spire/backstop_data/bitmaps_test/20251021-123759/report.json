@@ -1,0 +1,2016 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
+        "label": "Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/?cb=1761021481250582",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/?cb=1761021481250582",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.3103242341304139,
+          "misMatchPercentage": "0.31",
+          "analysisTime": 2421
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default__physicians_lee-r-bloom__0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default__physicians_lee-r-bloom__0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default__physicians_lee-r-bloom__0_document_0_desktop.png",
+        "label": "/physicians/lee-r-bloom/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/physicians/lee-r-bloom/?cb=1761021481256887",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/physicians/lee-r-bloom/?cb=1761021481256887",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.29071755934058413,
+          "misMatchPercentage": "0.29",
+          "analysisTime": 3166
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default__physicians_lee-r-bloom__0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default__services_physical-therapy__0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default__services_physical-therapy__0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default__services_physical-therapy__0_document_0_desktop.png",
+        "label": "/services/physical-therapy/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/services/physical-therapy/?cb=1761021481257441",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/services/physical-therapy/?cb=1761021481257441",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1757
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default__locations_middletown_211-south-main-street__0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default__locations_middletown_211-south-main-street__0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default__locations_middletown_211-south-main-street__0_document_0_desktop.png",
+        "label": "/locations/middletown/211-south-main-street/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/locations/middletown/211-south-main-street/?cb=1761021481250903",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/locations/middletown/211-south-main-street/?cb=1761021481250903",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default__blog_stay-safe-on-the-court-essential-pickleball-injury-prevention-tips__0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default__blog_stay-safe-on-the-court-essential-pickleball-injury-prevention-tips__0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default__blog_stay-safe-on-the-court-essential-pickleball-injury-prevention-tips__0_document_0_desktop.png",
+        "label": "/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/?cb=1761021481249417",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/?cb=1761021481249417",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png",
+        "label": "Spire Ortho Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/spireortho-com/?cb=1761021510896621",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/?cb=1761021510896621",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 6.872621822455972,
+          "misMatchPercentage": "6.87",
+          "analysisTime": 2448
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Spire_Ortho_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Spire_Ortho_Physician_Directory_0_document_0_desktop.png",
+        "label": "Spire Ortho Physician Directory",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/spireortho-com/physician-directory/?cb=1761021511474593",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/physician-directory/?cb=1761021511474593",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1620
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png",
+        "label": "Spire Ortho About Us",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/spireortho-com/about-us/?cb=1761021512709534",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/about-us/?cb=1761021512709534",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.17235187293326829,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 4469
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Spire_Ortho_About_Us_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png",
+        "label": "Spire Ortho Physician Leadership",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/spireortho-com/physician-leadership/?cb=1761021512944487",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/physician-leadership/?cb=1761021512944487",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.5526613947465779,
+          "misMatchPercentage": "0.55",
+          "analysisTime": 4274
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Spire_Ortho_Physician_Leadership_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Spire_Ortho_News_0_document_0_desktop.png",
+        "label": "Spire Ortho News",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/spireortho-com/news/?cb=1761021513704596",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/spireortho-com/news/?cb=1761021513704596",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Homepage_0_document_0_desktop.png",
+        "label": "ONSMD Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/?cb=1761021518116819",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/?cb=1761021518116819",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.2669317691089679,
+          "misMatchPercentage": "0.27",
+          "analysisTime": 2674
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_ONSMD_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png",
+        "label": "ONSMD Kevin J Choo",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/physicians/kevin-j-choo/?cb=1761021518903888",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/physicians/kevin-j-choo/?cb=1761021518903888",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.408496322300234,
+          "misMatchPercentage": "0.41",
+          "analysisTime": 3968
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_ONSMD_Kevin_J_Choo_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Physicians_0_document_0_desktop.png",
+        "label": "ONSMD Physicians",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/physicians/?cb=1761021523245934",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/physicians/?cb=1761021523245934",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.042409225720402934,
+          "misMatchPercentage": "0.04",
+          "analysisTime": 1640
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "label": "ONSMD Hip and Knee Replacement",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/specialties/hip-and-knee-replacement/?cb=1761021526007354",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/specialties/hip-and-knee-replacement/?cb=1761021526007354",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.07799784342447917,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 2349
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "label": "ONSMD Physical and Occupational Therapy",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/services/physical-and-occupational-therapy/?cb=176102152695999",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/services/physical-and-occupational-therapy/?cb=176102152695999",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.24286406014050294,
+          "misMatchPercentage": "0.24",
+          "analysisTime": 1725
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_ONSMD_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png",
+        "label": "ONSMD Wilton Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/locations/wilton/?cb=1761021527471518",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/locations/wilton/?cb=1761021527471518",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.3969038974740892,
+          "misMatchPercentage": "0.40",
+          "analysisTime": 3170
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_ONSMD_Wilton_Location_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Locations_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Locations_0_document_0_desktop.png",
+        "label": "ONSMD Locations",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/locations/?cb=1761021537367652",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/locations/?cb=1761021537367652",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Blog_0_document_0_desktop.png",
+        "label": "ONSMD Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/blog/?cb=1761021543296291",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/blog/?cb=1761021543296291",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png",
+        "label": "ONSMD Patient Portal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/patient-portal/?cb=1761021552837932",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/patient-portal/?cb=1761021552837932",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.2580957004633415,
+          "misMatchPercentage": "0.26",
+          "analysisTime": 2206
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_ONSMD_Patient_Portal_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "label": "ONSMD Pickleball Injury Prevention Tips",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/onsmd-com/blog/all-about-pickleball-injury-prevention-tips/?cb=1761021553679866",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/onsmd-com/blog/all-about-pickleball-injury-prevention-tips/?cb=1761021553679866",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.5890617237953304,
+          "misMatchPercentage": "2.59",
+          "analysisTime": 3723
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_ONSMD_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/?cb=1761021556801776",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/?cb=1761021556801776",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.4580365529117094,
+          "misMatchPercentage": "0.46",
+          "analysisTime": 3363
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset David Tuckman",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/david-tuckman/?cb=1761021557684475",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/david-tuckman/?cb=1761021557684475",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.5290072535262735,
+          "misMatchPercentage": "1.53",
+          "analysisTime": 4117
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_David_Tuckman_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Physicians",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/?cb=1761021559736394",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/?cb=1761021559736394",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 2138
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Hip and Knee Replacement",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/?cb=1761021566718917",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/?cb=1761021566718917",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 2186
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Physical and Occupational Therapy",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-and-occupational-therapy/?cb=1761021567592518",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/services/physical-and-occupational-therapy/?cb=1761021567592518",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.5964951417806861,
+          "misMatchPercentage": "0.60",
+          "analysisTime": 3302
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Huntington Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/huntington/?cb=1761021575435208",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/huntington/?cb=1761021575435208",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 1
+          },
+          "rawMisMatchPercentage": 1.5653779200359388,
+          "misMatchPercentage": "1.57",
+          "analysisTime": 2682
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Huntington_Location_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Locations",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/?cb=1761021576703986",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/?cb=1761021576703986",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/?cb=1761021582495539",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/?cb=1761021582495539",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Patient Portal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/patient-portal/?cb=1761021591604811",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/patient-portal/?cb=1761021591604811",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.5029646479713603,
+          "misMatchPercentage": "0.50",
+          "analysisTime": 1432
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Patient_Portal_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Scoliosis Awareness Month",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/understanding-scoliosis-key-insights-for-scoliosis-awareness-month/?cb=1761021592304980",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/understanding-scoliosis-key-insights-for-scoliosis-awareness-month/?cb=1761021592304980",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.7590551521438447,
+          "misMatchPercentage": "3.76",
+          "analysisTime": 3973
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Orthopaedic_Associates_Manhasset_Scoliosis_Awareness_Month_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Physicians_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Physicians",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/?cb=1761021598488352",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/physicians/?cb=1761021598488352",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 2510
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Hip and Knee Replacement",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/?cb=1761021598851869",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/specialties/hip-and-knee-replacement/?cb=1761021598851869",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 2413
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Locations_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Locations",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/?cb=176102160181529",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/locations/?cb=176102160181529",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Orthopaedic_Associates_Manhasset_Blog_0_document_0_desktop.png",
+        "label": "Orthopaedic Associates Manhasset Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/?cb=1761021606473890",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthopaedicassociatesmanhasset-com/blog/?cb=1761021606473890",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png",
+        "label": "SportsMed North Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/?cb=1761021607646481",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/?cb=1761021607646481",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.4655403104169706,
+          "misMatchPercentage": "1.47",
+          "analysisTime": 3888
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SportsMed_North_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png",
+        "label": "SportsMed North Robert C Spang III",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/physicians/robert-c-spang-iii/?cb=1761021612696333",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/physicians/robert-c-spang-iii/?cb=1761021612696333",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.080583152993639,
+          "misMatchPercentage": "1.08",
+          "analysisTime": 3140
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SportsMed_North_Robert_C_Spang_III_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Physicians_0_document_0_desktop.png",
+        "label": "SportsMed North Physicians",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/physicians/?cb=1761021613419258",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/physicians/?cb=1761021613419258",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1055
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "label": "SportsMed North Hip and Knee Replacement",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/specialties/hip-and-knee-replacement/?cb=176102161602930",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/specialties/hip-and-knee-replacement/?cb=176102161602930",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 2213
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "label": "SportsMed North Physical and Occupational Therapy",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/services/physical-and-occupational-therapy/?cb=1761021618085670",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/services/physical-and-occupational-therapy/?cb=1761021618085670",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.5279407164085719,
+          "misMatchPercentage": "0.53",
+          "analysisTime": 2445
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SportsMed_North_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png",
+        "label": "SportsMed North Peabody Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/locations/peabody/?cb=1761021618876808",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/locations/peabody/?cb=1761021618876808",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.249953294308133,
+          "misMatchPercentage": "0.25",
+          "analysisTime": 4305
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SportsMed_North_Peabody_Location_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Locations_0_document_0_desktop.png",
+        "label": "SportsMed North Locations",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/locations/?cb=1761021624242866",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/locations/?cb=1761021624242866",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0005224958200334398,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1506
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Blog_0_document_0_desktop.png",
+        "label": "SportsMed North Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/blog/?cb=1761021629958977",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/blog/?cb=1761021629958977",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.12220484833619491,
+          "misMatchPercentage": "0.12",
+          "analysisTime": 2739
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SportsMed_North_Blog_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Patient_Portal_0_document_0_desktop.png",
+        "label": "SportsMed North Patient Portal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/patient-portal/?cb=1761021630403901",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/patient-portal/?cb=1761021630403901",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SportsMed_North_Football_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "label": "SportsMed North Football Injury Prevention Tips",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/sportsmednorth-com/blog/football-injury-prevention-tips-for-high-school-athletes/?cb=1761021630664875",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/sportsmednorth-com/blog/football-injury-prevention-tips-for-high-school-athletes/?cb=1761021630664875",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Homepage_0_document_0_desktop.png",
+        "label": "OrthSurg Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/?cb=1761021637614138",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/?cb=1761021637614138",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.3933668260893886,
+          "misMatchPercentage": "1.39",
+          "analysisTime": 3761
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthSurg_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png",
+        "label": "OrthSurg Scott A Sigman",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/physicians/scott-a-sigman/?cb=176102163825923",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/physicians/scott-a-sigman/?cb=176102163825923",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.3645301327885598,
+          "misMatchPercentage": "0.36",
+          "analysisTime": 3626
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthSurg_Scott_A_Sigman_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Physicians_0_document_0_desktop.png",
+        "label": "OrthSurg Physicians",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/physicians/?cb=1761021641143768",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/physicians/?cb=1761021641143768",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.00001035659839597004,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1813
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "label": "OrthSurg Hip and Knee Replacement",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/specialties/hip-and-knee-replacement/?cb=1761021645342546",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/specialties/hip-and-knee-replacement/?cb=1761021645342546",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.00002150870672448207,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 4257
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png",
+        "label": "OrthSurg Therafit by OSA Physical and Occupational Therapy",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/services/therafit-by-osa-physical-and-occupational-therapy/?cb=1761021645628146",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/services/therafit-by-osa-physical-and-occupational-therapy/?cb=1761021645628146",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.8036307590076788,
+          "misMatchPercentage": "0.80",
+          "analysisTime": 2201
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthSurg_Therafit_by_OSA_Physical_and_Occupational_Therapy_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_North_Chelmsford_Location_0_document_0_desktop.png",
+        "label": "OrthSurg North Chelmsford Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/locations/north-chelmsford/?cb=1761021646607155",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/locations/north-chelmsford/?cb=1761021646607155",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Locations_0_document_0_desktop.png",
+        "label": "OrthSurg Locations",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/locations/?cb=1761021647075447",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/locations/?cb=1761021647075447",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Blog_0_document_0_desktop.png",
+        "label": "OrthSurg Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/blog/?cb=176102165335782",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/blog/?cb=176102165335782",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.016452244811520543,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 4806
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Patient_Portal_0_document_0_desktop.png",
+        "label": "OrthSurg Patient Portal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/https://orthsurg.com/patient-portal/?cb=1761021654021549",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/https://orthsurg.com/patient-portal/?cb=1761021654021549",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthSurg_Physician_Spotlight_on_Dr_Thomas_Herron_0_document_0_desktop.png",
+        "label": "OrthSurg Physician Spotlight on Dr. Thomas Herron",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthsurg-com/blog/physician-spotlight-on-dr-thomas-herron/?cb=1761021654756458",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthsurg-com/blog/physician-spotlight-on-dr-thomas-herron/?cb=1761021654756458",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Homepage_0_document_0_desktop.png",
+        "label": "OrthoADC Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/?cb=1761021657235924",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/?cb=1761021657235924",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.600770247631014,
+          "misMatchPercentage": "0.60",
+          "analysisTime": 3195
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthoADC_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png",
+        "label": "OrthoADC William W Colman",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/physicians/william-w-colman/?cb=1761021660540585",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/physicians/william-w-colman/?cb=1761021660540585",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.178137413317175,
+          "misMatchPercentage": "2.18",
+          "analysisTime": 3222
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthoADC_William_W_Colman_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Physicians_0_document_0_desktop.png",
+        "label": "OrthoADC Physicians",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/physicians/?cb=176102166294079",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/physicians/?cb=176102166294079",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.000005321141533850974,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1868
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png",
+        "label": "OrthoADC Hip and Knee Replacement",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/specialties/hip-and-knee-replacement/?cb=1761021665764497",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/specialties/hip-and-knee-replacement/?cb=1761021665764497",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.0955492547690435,
+          "misMatchPercentage": "1.10",
+          "analysisTime": 4284
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthoADC_Hip_and_Knee_Replacement_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_OrthoExpress_0_document_0_desktop.png",
+        "label": "OrthoADC OrthoExpress",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/services/orthoexpress/?cb=1761021668017389",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/services/orthoexpress/?cb=1761021668017389",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.001068906543087278,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 2645
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png",
+        "label": "OrthoADC Poughkeepsie Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/locations/poughkeepsie/?cb=1761021673626731",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/locations/poughkeepsie/?cb=1761021673626731",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.0394488707373684,
+          "misMatchPercentage": "1.04",
+          "analysisTime": 3019
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_OrthoADC_Poughkeepsie_Location_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Locations_0_document_0_desktop.png",
+        "label": "OrthoADC Locations",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/locations/?cb=1761021675428190",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/locations/?cb=1761021675428190",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Blog_0_document_0_desktop.png",
+        "label": "OrthoADC Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/blog/?cb=1761021679122475",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/blog/?cb=1761021679122475",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1247
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Patient_Portal_0_document_0_desktop.png",
+        "label": "OrthoADC Patient Portal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/patient-portal/?cb=1761021680034570",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/patient-portal/?cb=1761021680034570",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OrthoADC_Pickleball_Injury_Prevention_Tips_0_document_0_desktop.png",
+        "label": "OrthoADC Pickleball Injury Prevention Tips",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/orthoadc-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/?cb=1761021682416662",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/orthoadc-com/blog/stay-safe-on-the-court-essential-pickleball-injury-prevention-tips/?cb=1761021682416662",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1204
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Stamford_ASC_Homepage_0_document_0_desktop.png",
+        "label": "Stamford ASC Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/stamfordasc-com/?cb=1761021683882314",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/?cb=1761021683882314",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.014080363147276394,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 2431
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Stamford_ASC_Physicians_Staff_0_document_0_desktop.png",
+        "label": "Stamford ASC Physicians Staff",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/stamfordasc-com/physicians-staff/?cb=1761021687486978",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/physicians-staff/?cb=1761021687486978",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Stamford_ASC_Our_Location_0_document_0_desktop.png",
+        "label": "Stamford ASC Our Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/stamfordasc-com/our-location/?cb=1761021687813104",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/our-location/?cb=1761021687813104",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Stamford_ASC_News_0_document_0_desktop.png",
+        "label": "Stamford ASC News",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/stamfordasc-com/news/?cb=1761021693679175",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/news/?cb=1761021693679175",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png",
+        "label": "Stamford ASC Why Choose Us",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/stamfordasc-com/why-choose-us/?cb=1761021693950151",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/why-choose-us/?cb=1761021693950151",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.16666139507422403,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 2106
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_Stamford_ASC_Why_Choose_Us_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Stamford_ASC_Blog_0_document_0_desktop.png",
+        "label": "Stamford ASC Blog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/stamfordasc-com/blog/us-news-world-report-names-the-stamford-ambulatory-surgical-center-a-best-ambulatory-surgery-center-in-connecticut/?cb=1761021694720397",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/stamfordasc-com/blog/us-news-world-report-names-the-stamford-ambulatory-surgical-center-a-best-ambulatory-surgery-center-in-connecticut/?cb=1761021694720397",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.04588949083861874,
+          "misMatchPercentage": "0.05",
+          "analysisTime": 2842
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OSCNS_Homepage_0_document_0_desktop.png",
+        "label": "OSCNS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/oscns-com/?cb=1761021695605495",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/?cb=1761021695605495",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OSCNS_Physicians_Staff_0_document_0_desktop.png",
+        "label": "OSCNS Physicians Staff",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/oscns-com/physicians-staff/?cb=1761021698528916",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/physicians-staff/?cb=1761021698528916",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OSCNS_Our_Location_0_document_0_desktop.png",
+        "label": "OSCNS Our Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/oscns-com/our-location/?cb=1761021700441761",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/our-location/?cb=1761021700441761",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_OSCNS_Why_Choose_Us_0_document_0_desktop.png",
+        "label": "OSCNS Why Choose Us",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/oscns-com/why-choose-us/?cb=1761021701575657",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/oscns-com/why-choose-us/?cb=1761021701575657",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SCOA_DC_Homepage_0_document_0_desktop.png",
+        "label": "SCOA DC Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/scoa-dc-com/?cb=1761021704681681",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/?cb=1761021704681681",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.06702460031524432,
+          "misMatchPercentage": "0.07",
+          "analysisTime": 675
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png",
+        "label": "SCOA DC Physicians Staff",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/scoa-dc-com/physicians-staff/?cb=1761021705521804",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/physicians-staff/?cb=1761021705521804",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.3283999183747506,
+          "misMatchPercentage": "0.33",
+          "analysisTime": 1622
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SCOA_DC_Physicians_Staff_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SCOA_DC_Our_Location_0_document_0_desktop.png",
+        "label": "SCOA DC Our Location",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/scoa-dc-com/our-location/?cb=176102170556216",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/our-location/?cb=176102170556216",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20251021-123759/backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png",
+        "label": "SCOA DC Why Choose Us",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-101625-spire-network.pantheonsite.io/scoa-dc-com/why-choose-us/?cb=1761021708847992",
+        "referenceUrl": "https://dev-spire-network.pantheonsite.io/scoa-dc-com/why-choose-us/?cb=1761021708847992",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.28012170602327174,
+          "misMatchPercentage": "0.28",
+          "analysisTime": 1018
+        },
+        "diffImage": "../bitmaps_test/20251021-123759/failed_diff_backstop_default_SCOA_DC_Why_Choose_Us_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}
