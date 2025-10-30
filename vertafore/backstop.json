@@ -1,0 +1,71 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+        {
+            "label": "Home",
+            "url": "https://www.vertafore.com/",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/"
+        },
+        {
+            "label": "Products - Commercial Submissions",
+            "url": "https://www.vertafore.com/products/commercial-submissions",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/products/commercial-submissions"
+        },
+        {
+            "label": "Products - PL Rating",
+            "url": "https://www.vertafore.com/products/pl-rating",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/products/pl-rating"
+        },
+        {
+            "label": "About - Our Story",
+            "url": "https://www.vertafore.com/about/our-story",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/about/our-story"
+        },
+        {
+            "label": "Resources",
+            "url": "https://www.vertafore.com/resources",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/resources"
+        },
+        {
+            "label": "About - Blog",
+            "url": "https://www.vertafore.com/about/blog",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/about/blog"
+        },
+        {
+            "label": "Resources Blog - Future Commercial Insurance Depends on Connectivity",
+            "url": "https://www.vertafore.com/resources/blog/future-commercial-insurance-depends-connectivity",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/resources/blog/future-commercial-insurance-depends-connectivity"
+        },
+        {
+            "label": "About - Events",
+            "url": "https://www.vertafore.com/about/events",
+            "referenceUrl": "https://autopilot-vertafore.pantheonsite.io/about/events"
+        }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 0
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
