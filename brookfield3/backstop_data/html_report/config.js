@@ -1,0 +1,436 @@
+report({
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Homepage_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
+        "label": "Homepage",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/",
+        "referenceUrl": "https://www.brookfield.com/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 19.457932918786508,
+          "misMatchPercentage": "19.46",
+          "analysisTime": 413
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Who_We_Are_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Who_We_Are_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Who_We_Are_0_document_0_desktop.png",
+        "label": "Who We Are",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/about-us/who-we-are",
+        "referenceUrl": "https://www.brookfield.com/about-us/who-we-are",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0065934657408902525,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 268
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Global_Presence_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Global_Presence_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Global_Presence_0_document_0_desktop.png",
+        "label": "Global Presence",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/about-us/global-presence",
+        "referenceUrl": "https://www.brookfield.com/about-us/global-presence",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 33.621571939586644,
+          "misMatchPercentage": "33.62",
+          "analysisTime": 260
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Global_Presence_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Ecosystem_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Ecosystem_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Ecosystem_0_document_0_desktop.png",
+        "label": "Ecosystem",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/about-us/ecosystem",
+        "referenceUrl": "https://www.brookfield.com/about-us/ecosystem",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 13.638048237764574,
+          "misMatchPercentage": "13.64",
+          "analysisTime": 1485
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Ecosystem_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Leadership_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
+        "label": "Leadership",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/about-us/leadership",
+        "referenceUrl": "https://www.brookfield.com/about-us/leadership",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.4973339606367129,
+          "misMatchPercentage": "0.50",
+          "analysisTime": 600
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Leadership_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Asset_Management_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Asset_Management_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Asset_Management_0_document_0_desktop.png",
+        "label": "Asset Management",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/about-us/businesses/asset-management",
+        "referenceUrl": "https://www.brookfield.com/about-us/businesses/asset-management",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.001226424416963126,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 767
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Infrastructure_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Infrastructure_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Infrastructure_0_document_0_desktop.png",
+        "label": "Infrastructure",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/about-us/capabilities/infrastructure",
+        "referenceUrl": "https://www.brookfield.com/about-us/capabilities/infrastructure",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.2572596388482187,
+          "misMatchPercentage": "3.26",
+          "analysisTime": 849
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Infrastructure_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Institutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Institutions_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Institutions_0_document_0_desktop.png",
+        "label": "Institutions",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/invest-with-us/institutions",
+        "referenceUrl": "https://www.brookfield.com/invest-with-us/institutions",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 16.32028320097066,
+          "misMatchPercentage": "16.32",
+          "analysisTime": 495
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Institutions_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Newsroom_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Newsroom_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Newsroom_0_document_0_desktop.png",
+        "label": "Newsroom",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/views-news/newsroom",
+        "referenceUrl": "https://www.brookfield.com/views-news/newsroom",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 29.34863112835674,
+          "misMatchPercentage": "29.35",
+          "analysisTime": 478
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Newsroom_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
+        "label": "Perspectives Podcast",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/views-news/perspectives-podcast",
+        "referenceUrl": "https://www.brookfield.com/views-news/perspectives-podcast",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 7.085445258889582,
+          "misMatchPercentage": "7.09",
+          "analysisTime": 728
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Perspectives_Podcast_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Life_at_Brookfield_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Life_at_Brookfield_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Life_at_Brookfield_0_document_0_desktop.png",
+        "label": "Life at Brookfield",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/careers/life-at-brookfield",
+        "referenceUrl": "https://www.brookfield.com/careers/life-at-brookfield",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 5.147570612913357,
+          "misMatchPercentage": "5.15",
+          "analysisTime": 980
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Life_at_Brookfield_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Career_Opportunities_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Career_Opportunities_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Career_Opportunities_0_document_0_desktop.png",
+        "label": "Career Opportunities",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/careers/career-opportunities",
+        "referenceUrl": "https://www.brookfield.com/careers/career-opportunities",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.985461667484863,
+          "misMatchPercentage": "3.99",
+          "analysisTime": 775
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Career_Opportunities_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Insights_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Insights_0_document_0_desktop.png",
+        "label": "Insights",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/views-news/insights",
+        "referenceUrl": "https://www.brookfield.com/views-news/insights",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1
+          },
+          "rawMisMatchPercentage": 4.172167962862482,
+          "misMatchPercentage": "4.17",
+          "analysisTime": 839
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Insights_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
+        "label": "Insights - Industrials",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/views-news/insights/game-why-industrials-are-play",
+        "referenceUrl": "https://www.brookfield.com/views-news/insights/game-why-industrials-are-play",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 22.062183523032804,
+          "misMatchPercentage": "22.06",
+          "analysisTime": 956
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Insights_-_Industrials_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
+        "label": "Insights - PE Returns (PT)",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/pt-br/views-news/insights/driving-private-equity-returns-operational-know-how",
+        "referenceUrl": "https://www.brookfield.com/pt-br/views-news/insights/driving-private-equity-returns-operational-know-how",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 14.693990894006637,
+          "misMatchPercentage": "14.69",
+          "analysisTime": 977
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260109-180749/backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
+        "label": "Infraestrutura (PT)",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://autopilot-brookfield3.pantheonsite.io/pt-br/sobre-nós/recursos/infraestrutura",
+        "referenceUrl": "https://www.brookfield.com/pt-br/sobre-nós/recursos/infraestrutura",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 13.07165486962444,
+          "misMatchPercentage": "13.07",
+          "analysisTime": 812
+        },
+        "diffImage": "../bitmaps_test/20260109-180749/failed_diff_backstop_default_Infraestrutura_PT_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+});
