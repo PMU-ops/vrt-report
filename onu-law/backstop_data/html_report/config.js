@@ -1,0 +1,85 @@
+report({
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260112-173530/backstop_default_Home_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Home_0_document_0_desktop.png",
+        "label": "Home",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.oberlin.edu/",
+        "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 28.724582916944257,
+          "misMatchPercentage": "28.72",
+          "analysisTime": 212
+        },
+        "diffImage": "../bitmaps_test/20260112-173530/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Visit_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260112-173530/backstop_default_Visit_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Visit_0_document_0_desktop.png",
+        "label": "Visit",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.oberlin.edu/visit",
+        "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/visit",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0024857954545454545,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 110
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Apply_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260112-173530/backstop_default_Apply_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Apply_0_document_0_desktop.png",
+        "label": "Apply",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.oberlin.edu/admissions-aid/apply",
+        "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/admissions-aid/apply",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.009025904697684873,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 121
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "backstop_default"
+});
