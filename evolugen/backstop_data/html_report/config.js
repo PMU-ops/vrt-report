@@ -1,0 +1,215 @@
+report({
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Home_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Home_0_document_0_desktop.png",
+        "label": "Home",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.16829717726934523,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 152
+        },
+        "diffImage": "../bitmaps_test/20260113-144052/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Sustainability_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Sustainability_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Sustainability_0_document_0_desktop.png",
+        "label": "Sustainability",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/sustainability",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/sustainability",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.8938868925393564,
+          "misMatchPercentage": "1.89",
+          "analysisTime": 230
+        },
+        "diffImage": "../bitmaps_test/20260113-144052/failed_diff_backstop_default_Sustainability_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Presence_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Presence_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Presence_0_document_0_desktop.png",
+        "label": "Presence",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/presence",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/presence",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Solutions_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Solutions_0_document_0_desktop.png",
+        "label": "Solutions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/solutions",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/solutions",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -16
+          },
+          "rawMisMatchPercentage": 37.11743534282259,
+          "misMatchPercentage": "37.12",
+          "analysisTime": 209
+        },
+        "diffImage": "../bitmaps_test/20260113-144052/failed_diff_backstop_default_Solutions_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Expertise_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Expertise_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Expertise_0_document_0_desktop.png",
+        "label": "Expertise",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/expertise",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/expertise",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.5987056459284626,
+          "misMatchPercentage": "0.60",
+          "analysisTime": 307
+        },
+        "diffImage": "../bitmaps_test/20260113-144052/failed_diff_backstop_default_Expertise_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Contact_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Contact_Us_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Contact_Us_0_document_0_desktop.png",
+        "label": "Contact Us",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/contact-us",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/contact-us",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0021172086720867207,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 131
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Home_FR_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Home_FR_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Home_FR_0_document_0_desktop.png",
+        "label": "Home (FR)",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/fr",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/fr",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.16505402078774617,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 159
+        },
+        "diffImage": "../bitmaps_test/20260113-144052/failed_diff_backstop_default_Home_FR_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Presence_FR_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-144052/backstop_default_Presence_FR_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Presence_FR_0_document_0_desktop.png",
+        "label": "Presence (FR)",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://evolugen.com/fr/presence",
+        "referenceUrl": "https://autopilot-evolugen.pantheonsite.io/fr/presence",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "backstop_default"
+});
