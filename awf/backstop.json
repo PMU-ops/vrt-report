@@ -1,0 +1,61 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+    "label": "Home",
+    "url": "https://www.awf.org/",
+    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/"
+  },
+  {
+    "label": "Wildlife Conservation – All",
+    "url": "https://www.awf.org/wildlife-conservation/all",
+    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/wildlife-conservation/all"
+  },
+  {
+    "label": "Wildlife Conservation – Pangolin",
+    "url": "https://www.awf.org/wildlife-conservation/pangolin",
+    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/wildlife-conservation/pangolin"
+  },
+  {
+    "label": "News",
+    "url": "https://www.awf.org/news",
+    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/news"
+  },
+  {
+    "label": "Safaris",
+    "url": "https://www.awf.org/safaris",
+    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/safaris"
+  },
+  {
+    "label": "News – Mystery Giraffes",
+    "url": "https://www.awf.org/news/mystery-giraffes-africa",
+    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/news/mystery-giraffes-africa"
+  }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 0
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
