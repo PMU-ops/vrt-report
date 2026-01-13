@@ -4,14 +4,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,173 +20,173 @@ report({
             "width": 0,
             "height": -205
           },
-          "rawMisMatchPercentage": 32.59067401297999,
-          "misMatchPercentage": "32.59",
-          "analysisTime": 130
+          "rawMisMatchPercentage": 32.666334279790874,
+          "misMatchPercentage": "32.67",
+          "analysisTime": 123
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Clone_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_Clone_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_Clone_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Clone_0_document_0_desktop.png",
         "label": "Clone",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/clone/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/clone/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/clone/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -101
+            "height": -103
           },
-          "rawMisMatchPercentage": 6.965902692465193,
-          "misMatchPercentage": "6.97",
-          "analysisTime": 387
+          "rawMisMatchPercentage": 1.8699900184275184,
+          "misMatchPercentage": "1.87",
+          "analysisTime": 355
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_Clone_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_Clone_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_National_Tank_Services_-_Request_a_Rate_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_National_Tank_Services_-_Request_a_Rate_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_National_Tank_Services_-_Request_a_Rate_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_National_Tank_Services_-_Request_a_Rate_0_document_0_desktop.png",
         "label": "National Tank Services - Request a Rate",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/nationaltankservices/request-a-rate/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/nationaltankservices/request-a-rate/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/nationaltankservices/request-a-rate/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -101
+            "height": -103
           },
-          "rawMisMatchPercentage": 3.2085494093921056,
-          "misMatchPercentage": "3.21",
-          "analysisTime": 116
+          "rawMisMatchPercentage": 1.3467390521463556,
+          "misMatchPercentage": "1.35",
+          "analysisTime": 191
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_National_Tank_Services_-_Request_a_Rate_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_National_Tank_Services_-_Request_a_Rate_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Clone_-_Company_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_Clone_-_Company_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_Clone_-_Company_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Clone_-_Company_0_document_0_desktop.png",
         "label": "Clone - Company",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/clone/company/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/clone/company/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/clone/company/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -100
+            "height": 103
           },
-          "rawMisMatchPercentage": 10.461803389478062,
-          "misMatchPercentage": "10.46",
-          "analysisTime": 292
+          "rawMisMatchPercentage": 6.015556768558953,
+          "misMatchPercentage": "6.02",
+          "analysisTime": 342
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_Clone_-_Company_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_Clone_-_Company_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Clone_-_Work_With_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_Clone_-_Work_With_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_Clone_-_Work_With_Us_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Clone_-_Work_With_Us_0_document_0_desktop.png",
         "label": "Clone - Work With Us",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/clone/work-with-us/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/clone/work-with-us/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/clone/work-with-us/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 101
+            "height": 103
           },
-          "rawMisMatchPercentage": 2.205901483868802,
-          "misMatchPercentage": "2.21",
-          "analysisTime": 420
+          "rawMisMatchPercentage": 1.3790831570819486,
+          "misMatchPercentage": "1.38",
+          "analysisTime": 398
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_Clone_-_Work_With_Us_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_Clone_-_Work_With_Us_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bulkplus_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_Bulkplus_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_Bulkplus_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bulkplus_0_document_0_desktop.png",
         "label": "Bulkplus",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/bulkplus/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/bulkplus/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/bulkplus/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 1
+            "height": 0
           },
-          "rawMisMatchPercentage": 5.747435548293391,
-          "misMatchPercentage": "5.75",
-          "analysisTime": 252
+          "rawMisMatchPercentage": 10.53019617380026,
+          "misMatchPercentage": "10.53",
+          "analysisTime": 200
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_Bulkplus_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_Bulkplus_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_MTL_Tank_Wash_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20251211-112256/backstop_default_MTL_Tank_Wash_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260113-114744/backstop_default_MTL_Tank_Wash_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_MTL_Tank_Wash_0_document_0_desktop.png",
         "label": "MTL Tank Wash",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://dev-trimac.pantheonsite.io/mtltankwash/",
-        "referenceUrl": "https://mu-121125-trimac.pantheonsite.io/mtltankwash/",
+        "referenceUrl": "https://mu-011326-trimac.pantheonsite.io/mtltankwash/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 213
+            "height": 212
           },
-          "rawMisMatchPercentage": 24.1245971132287,
-          "misMatchPercentage": "24.12",
-          "analysisTime": 196
+          "rawMisMatchPercentage": 23.553833395626985,
+          "misMatchPercentage": "23.55",
+          "analysisTime": 211
         },
-        "diffImage": "../bitmaps_test/20251211-112256/failed_diff_backstop_default_MTL_Tank_Wash_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260113-114744/failed_diff_backstop_default_MTL_Tank_Wash_0_document_0_desktop.png"
       },
       "status": "fail"
     }
