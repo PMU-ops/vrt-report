@@ -13,32 +13,32 @@
       {
     "label": "Home",
     "url": "https://www.awf.org/",
-    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/"
+    "referenceUrl": "https://mu-012926-awfd8-sandbox.pantheonsite.io/"
   },
   {
     "label": "Wildlife Conservation – All",
     "url": "https://www.awf.org/wildlife-conservation/all",
-    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/wildlife-conservation/all"
+    "referenceUrl": "https://mu-012926-awfd8-sandbox.pantheonsite.io/wildlife-conservation/all"
   },
   {
     "label": "Wildlife Conservation – Pangolin",
     "url": "https://www.awf.org/wildlife-conservation/pangolin",
-    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/wildlife-conservation/pangolin"
+    "referenceUrl": "https://mu-012926-awfd8-sandbox.pantheonsite.io/wildlife-conservation/pangolin"
   },
   {
     "label": "News",
     "url": "https://www.awf.org/news",
-    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/news"
+    "referenceUrl": "https://mu-012926-awfd8-sandbox.pantheonsite.io/news"
   },
   {
     "label": "Safaris",
     "url": "https://www.awf.org/safaris",
-    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/safaris"
+    "referenceUrl": "https://mu-012926-awfd8-sandbox.pantheonsite.io/safaris"
   },
   {
     "label": "News – Mystery Giraffes",
     "url": "https://www.awf.org/news/mystery-giraffes-africa",
-    "referenceUrl": "https://mu-011326-awfd8-sandbox.pantheonsite.io/news/mystery-giraffes-africa"
+    "referenceUrl": "https://mu-012926-awfd8-sandbox.pantheonsite.io/news/mystery-giraffes-africa"
   }
     ],
     "paths": {
