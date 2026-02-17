@@ -4,14 +4,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/?cb=1768539045770621",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/?cb=1768539045770621",
+        "url": "https://dev-tpl-2022.pantheonsite.io/?cb=1771334431263441",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/?cb=1771334431263441",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,51 +20,52 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0010745084990156117,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 2780
-        }
+          "rawMisMatchPercentage": 1.0131153525239882,
+          "misMatchPercentage": "1.01",
+          "analysisTime": 1048
+        },
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admin_Dashboard_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Admin_Dashboard_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Admin_Dashboard_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admin_Dashboard_0_document_0_desktop.png",
         "label": "Admin Dashboard",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/wp-admin/index.php?cb=1768539045762601",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/wp-admin/index.php?cb=1768539045762601",
+        "url": "https://dev-tpl-2022.pantheonsite.io/wp-admin/index.php?cb=1771334432753495",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/wp-admin/index.php?cb=1771334432753495",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -108
           },
-          "rawMisMatchPercentage": 0.28477044753086417,
-          "misMatchPercentage": "0.28",
-          "analysisTime": 403
+          "rawMisMatchPercentage": 3.849095504123437,
+          "misMatchPercentage": "3.85",
+          "analysisTime": 274
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Admin_Dashboard_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Admin_Dashboard_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Our_Mission_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Our_Mission_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Our_Mission_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Our_Mission_0_document_0_desktop.png",
         "label": "Our Mission",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/our-mission?cb=1768539045780620",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-mission?cb=1768539045780620",
+        "url": "https://dev-tpl-2022.pantheonsite.io/our-mission?cb=1771334432752254",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-mission?cb=1771334432752254",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -73,25 +74,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.27954777938794645,
-          "misMatchPercentage": "0.28",
-          "analysisTime": 2706
+          "rawMisMatchPercentage": 0.2515770181570199,
+          "misMatchPercentage": "0.25",
+          "analysisTime": 1088
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Our_Mission_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Our_Mission_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Our_Work_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Our_Work_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Our_Work_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Our_Work_0_document_0_desktop.png",
         "label": "Our Work",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/our-work?cb=1768539045751712",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work?cb=1768539045751712",
+        "url": "https://dev-tpl-2022.pantheonsite.io/our-work?cb=1771334432766121",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work?cb=1771334432766121",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -100,25 +101,24 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.5521287621816615,
-          "misMatchPercentage": "0.55",
-          "analysisTime": 2078
-        },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Our_Work_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.05334524578689496,
+          "misMatchPercentage": "0.05",
+          "analysisTime": 1412
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ParkScore_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_ParkScore_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_ParkScore_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ParkScore_0_document_0_desktop.png",
         "label": "ParkScore",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/parkscore?cb=1768539045762734",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/parkscore?cb=1768539045762734",
+        "url": "https://dev-tpl-2022.pantheonsite.io/parkscore?cb=1771334432717585",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/parkscore?cb=1771334432717585",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -127,25 +127,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 2.803184379567659,
-          "misMatchPercentage": "2.80",
-          "analysisTime": 2046
+          "rawMisMatchPercentage": 1.3774797580583122,
+          "misMatchPercentage": "1.38",
+          "analysisTime": 1261
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_ParkScore_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_ParkScore_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Washington_DC_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Washington_DC_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Washington_DC_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Washington_DC_0_document_0_desktop.png",
         "label": "Washington DC",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/city/washington-district-columbia?cb=1768539076320459",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/city/washington-district-columbia?cb=1768539076320459",
+        "url": "https://dev-tpl-2022.pantheonsite.io/city/washington-district-columbia?cb=1771334478374792",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/city/washington-district-columbia?cb=1771334478374792",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -154,9 +154,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.011170158387393577,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 3259
+          "rawMisMatchPercentage": 0.0004232751090919852,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 1125
         }
       },
       "status": "pass"
@@ -164,14 +164,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stories_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Stories_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Stories_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stories_0_document_0_desktop.png",
         "label": "Stories",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/stories?cb=1768539078297102",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/stories?cb=1768539078297102",
+        "url": "https://dev-tpl-2022.pantheonsite.io/stories?cb=1771334478509364",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/stories?cb=1771334478509364",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -180,25 +180,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.6890888178415471,
-          "misMatchPercentage": "0.69",
-          "analysisTime": 2090
+          "rawMisMatchPercentage": 0.14410940157312926,
+          "misMatchPercentage": "0.14",
+          "analysisTime": 536
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resource_Hub_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Resource_Hub_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Resource_Hub_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Resource_Hub_0_document_0_desktop.png",
         "label": "Resource Hub",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/resource-hub?cb=1768539087613439",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/resource-hub?cb=1768539087613439",
+        "url": "https://dev-tpl-2022.pantheonsite.io/resource-hub?cb=1771334478762217",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/resource-hub?cb=1771334478762217",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -207,9 +207,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.07200805836872481,
-          "misMatchPercentage": "0.07",
-          "analysisTime": 1797
+          "rawMisMatchPercentage": 0.0793415822715888,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 451
         }
       },
       "status": "pass"
@@ -217,14 +217,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Media_Room_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Media_Room_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Media_Room_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Media_Room_0_document_0_desktop.png",
         "label": "Media Room",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/media-room?cb=1768539087845839",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/media-room?cb=1768539087845839",
+        "url": "https://dev-tpl-2022.pantheonsite.io/media-room?cb=177133447911173",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/media-room?cb=177133447911173",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -233,25 +233,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.9467233905183545,
-          "misMatchPercentage": "0.95",
-          "analysisTime": 1083
+          "rawMisMatchPercentage": 0.14500899280575538,
+          "misMatchPercentage": "0.15",
+          "analysisTime": 461
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Media_Room_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Media_Room_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_New_York_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_New_York_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_New_York_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_New_York_0_document_0_desktop.png",
         "label": "New York",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/state/new-york?cb=1768539091218274",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/state/new-york?cb=1768539091218274",
+        "url": "https://dev-tpl-2022.pantheonsite.io/state/new-york?cb=1771334499471552",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/state/new-york?cb=1771334499471552",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -260,25 +260,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.3781372052654419,
-          "misMatchPercentage": "0.38",
-          "analysisTime": 1698
+          "rawMisMatchPercentage": 0.48988319108925216,
+          "misMatchPercentage": "0.49",
+          "analysisTime": 1345
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_New_York_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_New_York_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Long_Island_Greenway_0_document_0_desktop.png",
         "label": "Long Island Greenway",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/our-work/long-island-greenway?cb=1768539091476914",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work/long-island-greenway?cb=1768539091476914",
+        "url": "https://dev-tpl-2022.pantheonsite.io/our-work/long-island-greenway?cb=1771334498476883",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work/long-island-greenway?cb=1771334498476883",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -287,25 +287,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.11318475861745092,
-          "misMatchPercentage": "0.11",
-          "analysisTime": 1715
+          "rawMisMatchPercentage": 0.15040201848123483,
+          "misMatchPercentage": "0.15",
+          "analysisTime": 1500
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Long_Island_Greenway_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Long_Island_Greenway_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png",
         "label": "William H Pouch Scout Camp",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp?cb=1768539100467986",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp?cb=1768539100467986",
+        "url": "https://dev-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp?cb=1771334499950151",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp?cb=1771334499950151",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -314,24 +314,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.05368400315208826,
-          "misMatchPercentage": "0.05",
-          "analysisTime": 1794
-        }
+          "rawMisMatchPercentage": 0.16110797693244502,
+          "misMatchPercentage": "0.16",
+          "analysisTime": 827
+        },
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_William_H_Pouch_Scout_Camp_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png",
         "label": "Lands Conservation Health Equity Community",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community?cb=1768539104185198",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community?cb=1768539104185198",
+        "url": "https://dev-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community?cb=1771334499936658",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community?cb=1771334499936658",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -340,25 +341,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.9665953008344312,
-          "misMatchPercentage": "0.97",
-          "analysisTime": 2908
+          "rawMisMatchPercentage": 9.406853864734298,
+          "misMatchPercentage": "9.41",
+          "analysisTime": 891
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Lands_Conservation_Health_Equity_Community_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/careers?cb=1768539107447626",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/careers?cb=1768539107447626",
+        "url": "https://dev-tpl-2022.pantheonsite.io/careers?cb=1771334523301298",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/careers?cb=1771334523301298",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -367,52 +368,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.90567695599022,
-          "misMatchPercentage": "0.91",
-          "analysisTime": 2326
+          "rawMisMatchPercentage": 2.022232203009207,
+          "misMatchPercentage": "2.02",
+          "analysisTime": 695
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Research_Overview_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Research_Overview_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Research_Overview_0_document_0_desktop.png",
-        "label": "Research Overview",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/research-overview?cb=1768539107465272",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/research-overview?cb=1768539107465272",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 1.369084682440847,
-          "misMatchPercentage": "1.37",
-          "analysisTime": 1344
-        },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Research_Overview_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Public_Policy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Public_Policy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Public_Policy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Public_Policy_0_document_0_desktop.png",
         "label": "Public Policy",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/public-policy?cb=1768539113716807",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/public-policy?cb=1768539113716807",
+        "url": "https://dev-tpl-2022.pantheonsite.io/public-policy?cb=177133454630651",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/public-policy?cb=177133454630651",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -421,25 +395,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.9111861638954868,
-          "misMatchPercentage": "1.91",
-          "analysisTime": 2026
+          "rawMisMatchPercentage": 3.5721500775286263,
+          "misMatchPercentage": "3.57",
+          "analysisTime": 1231
         },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Public_Policy_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Public_Policy_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Petitions_Schoolyards_0_document_0_desktop.png",
         "label": "Petitions Schoolyards",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/petitions/schoolyards?cb=176853911717945",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/petitions/schoolyards?cb=176853911717945",
+        "url": "https://dev-tpl-2022.pantheonsite.io/petitions/schoolyards?cb=1771334547484792",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/petitions/schoolyards?cb=1771334547484792",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -448,25 +422,24 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.0951567303469478,
-          "misMatchPercentage": "1.10",
-          "analysisTime": 1879
-        },
-        "diffImage": "../bitmaps_test/20260116-125044/failed_diff_backstop_default_Petitions_Schoolyards_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.000995004391743522,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 475
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260116-125044/backstop_default_Contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260217-212030/backstop_default_Contact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_0_document_0_desktop.png",
         "label": "Contact",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://dev-tpl-2022.pantheonsite.io/contact?cb=1768539117819148",
-        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/contact?cb=1768539117819148",
+        "url": "https://dev-tpl-2022.pantheonsite.io/contact?cb=1771334548304840",
+        "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/contact?cb=1771334548304840",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -475,12 +448,13 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0028676064123825317,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 1857
-        }
+          "rawMisMatchPercentage": 0.19791666666666669,
+          "misMatchPercentage": "0.20",
+          "analysisTime": 602
+        },
+        "diffImage": "../bitmaps_test/20260217-212030/failed_diff_backstop_default_Contact_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     }
   ],
   "id": "backstop_default"
