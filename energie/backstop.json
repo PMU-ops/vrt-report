@@ -1,0 +1,57 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desktop",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+        "label": "Homepage",
+        "url": "https://energielalievre.com/",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/"
+      },
+      {
+        "label": "Gestion de l'eau",
+        "url": "https://energielalievre.com/gestion-de-leau/",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/gestion-de-leau/"
+      },
+      {
+        "label": "Sécurité",
+        "url": "https://energielalievre.com/securite/",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/securite/"
+      },
+      {
+        "label": "Communauté",
+        "url": "https://energielalievre.com/communaute/",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/communaute/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://energielalievre.com/contact/",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/contact/"
+      }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"]
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "requireSameDimensions": false,
+    "debug": false,
+    "debugWindow": false
+  }
