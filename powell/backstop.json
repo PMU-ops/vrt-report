@@ -1,0 +1,42 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desktop",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+        "label": "Homepage",
+        "url": "https://powellriverenergy.com/",
+        "referenceUrl": "https://autopilot-powell-river.pantheonsite.io/"
+      },
+      {
+        "label": "Contact Us",
+        "url": "https://powellriverenergy.com/contact-us/",
+        "referenceUrl": "https://autopilot-powell-river.pantheonsite.io/contact-us/"
+      }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"]
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "requireSameDimensions": false,
+    "debug": false,
+    "debugWindow": false
+  }
