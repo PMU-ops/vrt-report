@@ -5,7 +5,7 @@ module.exports = async (page, scenario, vp) => {
     // Inject CSS into the page
     await page.addStyleTag({
       content: `
-        div#onetrust-consent-sdk, div#pum-623 {
+        div#onetrust-consent-sdk, div.pum {
           display: none !important;
         }
       `
