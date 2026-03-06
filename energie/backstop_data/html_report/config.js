@@ -4,14 +4,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260226-122322/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260306-133244/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://energielalievre.com/?cb=1772079803459954",
-        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/?cb=1772079803459954",
+        "url": "https://energielalievre.com/?cb=1772775165309262",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/?cb=1772775165309262",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,25 +20,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.2137832090421813,
-          "misMatchPercentage": "0.21",
-          "analysisTime": 508
+          "rawMisMatchPercentage": 0.21627145964421657,
+          "misMatchPercentage": "0.22",
+          "analysisTime": 130
         },
-        "diffImage": "../bitmaps_test/20260226-122322/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260306-133244/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Gestion_de_leau_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260226-122322/backstop_default_Gestion_de_leau_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260306-133244/backstop_default_Gestion_de_leau_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Gestion_de_leau_0_document_0_desktop.png",
         "label": "Gestion de l'eau",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://energielalievre.com/gestion-de-leau/?cb=1772079803453709",
-        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/gestion-de-leau/?cb=1772079803453709",
+        "url": "https://energielalievre.com/gestion-de-leau/?cb=177277516555420",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/gestion-de-leau/?cb=177277516555420",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -47,94 +47,91 @@ report({
             "width": 0,
             "height": -16
           },
-          "rawMisMatchPercentage": 5.148175946142649,
-          "misMatchPercentage": "5.15",
-          "analysisTime": 280
+          "rawMisMatchPercentage": 6.360471918876755,
+          "misMatchPercentage": "6.36",
+          "analysisTime": 99
         },
-        "diffImage": "../bitmaps_test/20260226-122322/failed_diff_backstop_default_Gestion_de_leau_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260306-133244/failed_diff_backstop_default_Gestion_de_leau_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Scurit_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260226-122322/backstop_default_Scurit_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260306-133244/backstop_default_Scurit_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Scurit_0_document_0_desktop.png",
         "label": "Sécurité",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://energielalievre.com/securite/?cb=1772079803448772",
-        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/securite/?cb=1772079803448772",
+        "url": "https://energielalievre.com/securite/?cb=1772775165618601",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/securite/?cb=1772775165618601",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -16
+            "height": 0
           },
-          "rawMisMatchPercentage": 25.302888877523188,
-          "misMatchPercentage": "25.30",
-          "analysisTime": 204
-        },
-        "diffImage": "../bitmaps_test/20260226-122322/failed_diff_backstop_default_Scurit_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.006671300109829764,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 77
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Communaut_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260226-122322/backstop_default_Communaut_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260306-133244/backstop_default_Communaut_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Communaut_0_document_0_desktop.png",
         "label": "Communauté",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://energielalievre.com/communaute/?cb=1772079803457291",
-        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/communaute/?cb=1772079803457291",
+        "url": "https://energielalievre.com/communaute/?cb=1772775165565998",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/communaute/?cb=1772775165565998",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 0
           },
-          "rawMisMatchPercentage": 27.18206369248036,
-          "misMatchPercentage": "27.18",
-          "analysisTime": 284
-        },
-        "diffImage": "../bitmaps_test/20260226-122322/failed_diff_backstop_default_Communaut_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.008350174020433367,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 85
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260226-122322/backstop_default_Contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260306-133244/backstop_default_Contact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_0_document_0_desktop.png",
         "label": "Contact",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://energielalievre.com/contact/?cb=1772079803467385",
-        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/contact/?cb=1772079803467385",
+        "url": "https://energielalievre.com/contact/?cb=177277516530727",
+        "referenceUrl": "https://autopilot-energie-la-lievre.pantheonsite.io/contact/?cb=177277516530727",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 16
+            "height": 0
           },
-          "rawMisMatchPercentage": 22.419807213930348,
-          "misMatchPercentage": "22.42",
-          "analysisTime": 121
-        },
-        "diffImage": "../bitmaps_test/20260226-122322/failed_diff_backstop_default_Contact_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.09817033353425758,
+          "misMatchPercentage": "0.10",
+          "analysisTime": 56
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ],
   "id": "backstop_default"
