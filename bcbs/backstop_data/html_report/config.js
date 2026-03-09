@@ -4,14 +4,139 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/?cb=1773042118617347",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/?cb=1773042118617347",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 1
+          },
+          "rawMisMatchPercentage": 15.615643148696034,
+          "misMatchPercentage": "15.62",
+          "analysisTime": 222
+        },
+        "diffImage": "../bitmaps_test/20260309-154157/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png",
+        "label": "Find and Compare Plans",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans?cb=1773042118651924",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans?cb=1773042118651924",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.13388396911898276,
+          "misMatchPercentage": "0.13",
+          "analysisTime": 113
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Plan_Comparison_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Plan_Comparison_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Plan_Comparison_0_document_0_desktop.png",
+        "label": "Plan Comparison",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans/plan-comparison?cb=1773042118649905",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans/plan-comparison?cb=1773042118649905",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png",
+        "label": "Vermont Preferred Gold Plan Couple",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans/vermont-preferred-gold-plan-couple?cb=1773042118649665",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans/vermont-preferred-gold-plan-couple?cb=1773042118649665",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png",
+        "label": "Plans Small Business Groups",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-1-100-employees/plans-small-business-groups/?cb=1773042118654457",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-1-100-employees/plans-small-business-groups/?cb=1773042118654457",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Community_Events_Calendar_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Community_Events_Calendar_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Community_Events_Calendar_0_document_0_desktop.png",
+        "label": "Community Events Calendar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/health-community/community-programs-and-events/community-events-calendar?cb=1773042125008246",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/health-community/community-programs-and-events/community-events-calendar?cb=1773042125008246",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,79 +145,157 @@ report({
             "width": 0,
             "height": -59
           },
-          "rawMisMatchPercentage": 7.148807410037879,
-          "misMatchPercentage": "7.15",
-          "analysisTime": 271
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 92
         },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260309-154157/failed_diff_backstop_default_Community_Events_Calendar_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Members_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Members_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png",
-        "label": "Find and Compare Plans",
+        "fileName": "backstop_default_Members_0_document_0_desktop.png",
+        "label": "Members",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/members?cb=1773042125964368",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/members?cb=1773042125964368",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -55
+            "height": 60
           },
-          "rawMisMatchPercentage": 10.926015527673963,
-          "misMatchPercentage": "10.93",
-          "analysisTime": 74
+          "rawMisMatchPercentage": 4.999598702185793,
+          "misMatchPercentage": "5.00",
+          "analysisTime": 192
         },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Find_and_Compare_Plans_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260309-154157/failed_diff_backstop_default_Members_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Plan_Comparison_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Plan_Comparison_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Member_Forms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Member_Forms_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Plan_Comparison_0_document_0_desktop.png",
-        "label": "Plan Comparison",
+        "fileName": "backstop_default_Member_Forms_0_document_0_desktop.png",
+        "label": "Member Forms",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans/plan-comparison",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans/plan-comparison",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/members/member-forms?cb=1773042126131804",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/members/member-forms?cb=1773042126131804",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.45552644710578843,
+          "misMatchPercentage": "0.46",
+          "analysisTime": 156
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Providers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Providers_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Providers_0_document_0_desktop.png",
+        "label": "Providers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/providers?cb=177304212675888",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/providers?cb=177304212675888",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -89
+            "height": 1
           },
-          "rawMisMatchPercentage": 9.374258739076154,
-          "misMatchPercentage": "9.37",
-          "analysisTime": 88
+          "rawMisMatchPercentage": 3.7277712626884036,
+          "misMatchPercentage": "3.73",
+          "analysisTime": 156
         },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Plan_Comparison_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260309-154157/failed_diff_backstop_default_Providers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Provider_Forms_Resources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Provider_Forms_Resources_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png",
-        "label": "Vermont Preferred Gold Plan Couple",
+        "fileName": "backstop_default_Provider_Forms_Resources_0_document_0_desktop.png",
+        "label": "Provider Forms Resources",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/find-and-compare-plans/vermont-preferred-gold-plan-couple",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/find-and-compare-plans/vermont-preferred-gold-plan-couple",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/providers/provider-forms-resources?cb=1773042126818800",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/providers/provider-forms-resources?cb=1773042126818800",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.08709307517454132,
+          "misMatchPercentage": "0.09",
+          "analysisTime": 173
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Parts_of_Medicare_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Parts_of_Medicare_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Parts_of_Medicare_0_document_0_desktop.png",
+        "label": "Parts of Medicare",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/medicare/parts-of-medicare?cb=1773042132293697",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/medicare/parts-of-medicare?cb=1773042132293697",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.13531138873292156,
+          "misMatchPercentage": "0.14",
+          "analysisTime": 103
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Enrollment_Process_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Enrollment_Process_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Enrollment_Process_0_document_0_desktop.png",
+        "label": "Enrollment Process",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-1-100-employees/enrollment-process?cb=1773042133341305",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-1-100-employees/enrollment-process?cb=1773042133341305",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -103,333 +306,114 @@ report({
           },
           "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 267
+          "analysisTime": 155
         },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Vermont_Preferred_Gold_Plan_Couple_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png",
-        "label": "Plans Small Business Groups",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-1-100-employees/plans-small-business-groups/",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-1-100-employees/plans-small-business-groups/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -59
-          },
-          "rawMisMatchPercentage": 0.009453898342787231,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 692
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Plans_Small_Business_Groups_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Community_Events_Calendar_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Community_Events_Calendar_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Community_Events_Calendar_0_document_0_desktop.png",
-        "label": "Community Events Calendar",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/health-community/community-programs-and-events/community-events-calendar",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/health-community/community-programs-and-events/community-events-calendar",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 59
-          },
-          "rawMisMatchPercentage": 8.947401512201454,
-          "misMatchPercentage": "8.95",
-          "analysisTime": 369
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Community_Events_Calendar_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Members_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Members_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Members_0_document_0_desktop.png",
-        "label": "Members",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/members",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/members",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 57
-          },
-          "rawMisMatchPercentage": 3.721709704572608,
-          "misMatchPercentage": "3.72",
-          "analysisTime": 858
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Members_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Member_Forms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Member_Forms_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Member_Forms_0_document_0_desktop.png",
-        "label": "Member Forms",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/members/member-forms",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/members/member-forms",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -59
-          },
-          "rawMisMatchPercentage": 4.88513633144476,
-          "misMatchPercentage": "4.89",
-          "analysisTime": 551
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Member_Forms_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Providers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Providers_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Providers_0_document_0_desktop.png",
-        "label": "Providers",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/providers",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/providers",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 59
-          },
-          "rawMisMatchPercentage": 12.729693396226416,
-          "misMatchPercentage": "12.73",
-          "analysisTime": 634
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Providers_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Provider_Forms_Resources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Provider_Forms_Resources_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Provider_Forms_Resources_0_document_0_desktop.png",
-        "label": "Provider Forms Resources",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/providers/provider-forms-resources",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/providers/provider-forms-resources",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -58
-          },
-          "rawMisMatchPercentage": 5.901390226287916,
-          "misMatchPercentage": "5.90",
-          "analysisTime": 539
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Provider_Forms_Resources_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Parts_of_Medicare_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Parts_of_Medicare_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Parts_of_Medicare_0_document_0_desktop.png",
-        "label": "Parts of Medicare",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/medicare/parts-of-medicare",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/medicare/parts-of-medicare",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -59
-          },
-          "rawMisMatchPercentage": 11.27367941712204,
-          "misMatchPercentage": "11.27",
-          "analysisTime": 327
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Parts_of_Medicare_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Enrollment_Process_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Enrollment_Process_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Enrollment_Process_0_document_0_desktop.png",
-        "label": "Enrollment Process",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-1-100-employees/enrollment-process",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-1-100-employees/enrollment-process",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 59
-          },
-          "rawMisMatchPercentage": 3.480671215046215,
-          "misMatchPercentage": "3.48",
-          "analysisTime": 721
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Enrollment_Process_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260309-154157/failed_diff_backstop_default_Enrollment_Process_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Employers_101_Plus_Employees_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Employers_101_Plus_Employees_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Employers_101_Plus_Employees_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Employers_101_Plus_Employees_0_document_0_desktop.png",
         "label": "Employers 101 Plus Employees",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-101-plus-employees",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-101-plus-employees",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/employers-101-plus-employees?cb=1773042133468143",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/our-plans/employers-and-groups/employers-101-plus-employees?cb=1773042133468143",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -59
+            "height": 0
           },
-          "rawMisMatchPercentage": 3.4363101419176187,
-          "misMatchPercentage": "3.44",
-          "analysisTime": 718
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Employers_101_Plus_Employees_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.27478102774863006,
+          "misMatchPercentage": "0.27",
+          "analysisTime": 240
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_Listing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Blog_Listing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Blog_Listing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_Listing_0_document_0_desktop.png",
         "label": "Blog Listing",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/health-community/blog/listing",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/health-community/blog/listing",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/health-community/blog/listing?cb=1773042134284896",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/health-community/blog/listing?cb=1773042134284896",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 1
+            "height": 0
           },
-          "rawMisMatchPercentage": 10.594360650601036,
-          "misMatchPercentage": "10.59",
-          "analysisTime": 645
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Blog_Listing_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.00014894250819183795,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 214
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_0_desktop.png",
         "label": "News",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.bluecrossvt.org/health-community/news",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/health-community/news",
+        "misMatchThreshold": 1,
+        "url": "https://www.bluecrossvt.org/health-community/news?cb=1773042134271207",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/health-community/news?cb=1773042134271207",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -59
+            "height": 0
           },
-          "rawMisMatchPercentage": 3.4770801878879385,
-          "misMatchPercentage": "3.48",
-          "analysisTime": 676
-        },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_News_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.0013746868263124162,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 189
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Prior_Approval_Database_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20250122-093126/backstop_default_Prior_Approval_Database_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260309-154157/backstop_default_Prior_Approval_Database_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Prior_Approval_Database_0_document_0_desktop.png",
         "label": "Prior Approval Database",
         "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
+        "misMatchThreshold": 1,
         "url": "https://www.bluecrossvt.org/prior-approval-database",
-        "referenceUrl": "https://mu-debug-bcbs-vermont.pantheonsite.io/prior-approval-database",
+        "referenceUrl": "https://autopilot-bcbs-vermont.pantheonsite.io/prior-approval-database",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -2802
+            "height": 59
           },
-          "rawMisMatchPercentage": 17.63655217217484,
-          "misMatchPercentage": "17.64",
-          "analysisTime": 940
+          "rawMisMatchPercentage": 0.004176817224124309,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 239
         },
-        "diffImage": "../bitmaps_test/20250122-093126/failed_diff_backstop_default_Prior_Approval_Database_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260309-154157/failed_diff_backstop_default_Prior_Approval_Database_0_document_0_desktop.png"
       },
       "status": "fail"
     }

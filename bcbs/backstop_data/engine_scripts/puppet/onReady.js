@@ -1,6 +1,13 @@
 module.exports = async (page, scenario, vp) => {
   console.log('SCENARIO > ' + scenario.label);
-  await require('./clickAndHoverHelper')(page, scenario);
+  await page.reload({ waitUntil: ['networkidle0', 'domcontentloaded'] });
 
-  // add more ready handlers here...
+    // Inject CSS into the page
+    await page.addStyleTag({
+      content: `
+        .be-related-link-container {
+          display: none !important;
+        }
+      `
+    });
 };
