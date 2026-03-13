@@ -1,3 +1,12 @@
+/* eslint-disable */
 module.exports = async (page, scenario, vp) => {
-  await require('./loadCookies')(page, scenario);
+      // Inject CSS into the page
+    await page.addStyleTag({
+      content: `
+        .aos-animate, [data-aos] {
+          transform: none !important;
+          transition: unset !important;
+        }
+      `
+    });
 };
