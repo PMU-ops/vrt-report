@@ -1,0 +1,106 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+        {
+            "label": "Homepage",
+            "url": "https://www.nasdaqprivatemarket.com/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/"
+        },
+        {
+            "label": "Who We Serve - Private Companies",
+            "url": "https://www.nasdaqprivatemarket.com/who-we-serve/private-companies/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/who-we-serve/private-companies/"
+        },
+        {
+            "label": "Who We Serve - Investors",
+            "url": "https://www.nasdaqprivatemarket.com/who-we-serve/investors/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/who-we-serve/investors/"
+        },
+        {
+            "label": "Who We Serve - Banks & Brokers",
+            "url": "https://www.nasdaqprivatemarket.com/who-we-serve/banks-brokers/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/who-we-serve/banks-brokers/"
+        },
+        {
+            "label": "Who We Serve - Law Firms",
+            "url": "https://www.nasdaqprivatemarket.com/who-we-serve/law-firms/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/who-we-serve/law-firms/"
+        },
+        {
+            "label": "Product - Employee Liquidity",
+            "url": "https://www.nasdaqprivatemarket.com/product/employee-liquidity/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/product/employee-liquidity/"
+        },
+        {
+            "label": "Product - Pre-Direct Listing Solutions",
+            "url": "https://www.nasdaqprivatemarket.com/product/pre-direct-listing-solutions/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/product/pre-direct-listing-solutions/"
+        },
+        {
+            "label": "Product - Tender Offers",
+            "url": "https://www.nasdaqprivatemarket.com/product/tender-offers/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/product/tender-offers/"
+        },
+        {
+            "label": "About Us - Insights",
+            "url": "https://www.nasdaqprivatemarket.com/about-us/insights/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/about-us/insights/"
+        },
+        {
+            "label": "About Us - About Nasdaq Private Market",
+            "url": "https://www.nasdaqprivatemarket.com/about-us/about-nasdaq-private-market/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/about-us/about-nasdaq-private-market/"
+        },
+        {
+            "label": "Careers",
+            "url": "https://www.nasdaqprivatemarket.com/careers/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/careers/"
+        },
+        {
+            "label": "About Us - Contact Us",
+            "url": "https://www.nasdaqprivatemarket.com/about-us/contact-us-3/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/about-us/contact-us-3/"
+        },
+        {
+            "label": "Product - Option Extensions RSU Liquidity 701 Disclosures",
+            "url": "https://www.nasdaqprivatemarket.com/product/option-extensions-rsu-liquidity-701-disclosures/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/product/option-extensions-rsu-liquidity-701-disclosures/"
+        },
+        {
+            "label": "Product - Transfer & Settlement Solutions",
+            "url": "https://www.nasdaqprivatemarket.com/product/transfer-settlement-solutions/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/product/transfer-settlement-solutions/"
+        },
+        {
+            "label": "Product - Auctions & Capital Introduction",
+            "url": "https://www.nasdaqprivatemarket.com/product/auctions-capital-introduction/",
+            "referenceUrl": "https://mu-031726-npm-2-0.pantheonsite.io/product/auctions-capital-introduction/"
+        }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 0
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
