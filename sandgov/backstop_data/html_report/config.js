@@ -4,14 +4,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/?cb=177036421400514",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/?cb=177036421400514",
+        "url": "https://www.sandiego.gov/?cb=1773725446949100",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/?cb=1773725446949100",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,51 +20,52 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 10.869668582065394,
-          "misMatchPercentage": "10.87",
-          "analysisTime": 145
+          "rawMisMatchPercentage": 0.2545590094547054,
+          "misMatchPercentage": "0.25",
+          "analysisTime": 204
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__digitalarchives_preservation_mayoral-artifacts_gallery_black-large-leather-travel-wallet_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__digitalarchives_preservation_mayoral-artifacts_gallery_black-large-leather-travel-wallet_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__digitalarchives_preservation_mayoral-artifacts_gallery_black-large-leather-travel-wallet_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__digitalarchives_preservation_mayoral-artifacts_gallery_black-large-leather-travel-wallet_0_document_0_desktop.png",
         "label": "/digitalarchives/preservation/mayoral-artifacts/gallery/black-large-leather-travel-wallet",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/digitalarchives/preservation/mayoral-artifacts/gallery/black-large-leather-travel-wallet?cb=1770364213513320",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/digitalarchives/preservation/mayoral-artifacts/gallery/black-large-leather-travel-wallet?cb=1770364213513320",
+        "url": "https://www.sandiego.gov/digitalarchives/preservation/mayoral-artifacts/gallery/black-large-leather-travel-wallet?cb=177372544724515",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/digitalarchives/preservation/mayoral-artifacts/gallery/black-large-leather-travel-wallet?cb=177372544724515",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 57
           },
-          "rawMisMatchPercentage": 0.012761040170258047,
+          "rawMisMatchPercentage": 0.010607265977194379,
           "misMatchPercentage": "0.01",
-          "analysisTime": 64
-        }
+          "analysisTime": 83
+        },
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__digitalarchives_preservation_mayoral-artifacts_gallery_black-large-leather-travel-wallet_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__city-clerk_officialdocs_municipal-code_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__city-clerk_officialdocs_municipal-code_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__city-clerk_officialdocs_municipal-code_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__city-clerk_officialdocs_municipal-code_0_document_0_desktop.png",
         "label": "/city-clerk/officialdocs/municipal-code",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/city-clerk/officialdocs/municipal-code?cb=177036421426130",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/city-clerk/officialdocs/municipal-code?cb=177036421426130",
+        "url": "https://www.sandiego.gov/city-clerk/officialdocs/municipal-code?cb=17737254472470",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/city-clerk/officialdocs/municipal-code?cb=17737254472470",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -73,9 +74,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03044152587117212,
+          "rawMisMatchPercentage": 0.027618702826048797,
           "misMatchPercentage": "0.03",
-          "analysisTime": 84
+          "analysisTime": 135
         }
       },
       "status": "pass"
@@ -83,14 +84,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__date_independence-day_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__date_independence-day_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__date_independence-day_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__date_independence-day_0_document_0_desktop.png",
         "label": "/date/independence-day",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/date/independence-day?cb=1770364215272275",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/date/independence-day?cb=1770364215272275",
+        "url": "https://www.sandiego.gov/date/independence-day?cb=1773725447239838",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/date/independence-day?cb=1773725447239838",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -99,9 +100,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04456018518518519,
+          "rawMisMatchPercentage": 0.03824266975308642,
           "misMatchPercentage": "0.04",
-          "analysisTime": 53
+          "analysisTime": 69
         }
       },
       "status": "pass"
@@ -109,14 +110,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__empopp_city-jobs_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__empopp_city-jobs_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__empopp_city-jobs_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__empopp_city-jobs_0_document_0_desktop.png",
         "label": "/empopp/city-jobs",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/empopp/city-jobs?cb=1770364212526355",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/empopp/city-jobs?cb=1770364212526355",
+        "url": "https://www.sandiego.gov/empopp/city-jobs?cb=1773725447246670",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/empopp/city-jobs?cb=1773725447246670",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -125,25 +126,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.3075178202198281,
-          "misMatchPercentage": "0.31",
-          "analysisTime": 329
+          "rawMisMatchPercentage": 0.35234945007078294,
+          "misMatchPercentage": "0.35",
+          "analysisTime": 245
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__empopp_city-jobs_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__empopp_city-jobs_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__coronavirus_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__coronavirus_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__coronavirus_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__coronavirus_0_document_0_desktop.png",
         "label": "/coronavirus",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/coronavirus?cb=1770364223592622",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/coronavirus?cb=1770364223592622",
+        "url": "https://www.sandiego.gov/coronavirus?cb=1773725451800263",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/coronavirus?cb=1773725451800263",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -152,9 +153,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.09085648148148148,
+          "rawMisMatchPercentage": 0.08617862654320987,
           "misMatchPercentage": "0.09",
-          "analysisTime": 52
+          "analysisTime": 111
         }
       },
       "status": "pass"
@@ -162,14 +163,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__status_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__status_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__status_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__status_0_document_0_desktop.png",
         "label": "/status",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/status?cb=1770364224059513",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/status?cb=1770364224059513",
+        "url": "https://www.sandiego.gov/status?cb=1773725451781573",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/status?cb=1773725451781573",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -178,25 +179,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.132448026435615,
-          "misMatchPercentage": "3.13",
-          "analysisTime": 959
+          "rawMisMatchPercentage": 3.2648261559265617,
+          "misMatchPercentage": "3.26",
+          "analysisTime": 343
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__status_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__status_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__digital-archives-photos_llewelyn-building-circa-1970_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__digital-archives-photos_llewelyn-building-circa-1970_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__digital-archives-photos_llewelyn-building-circa-1970_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__digital-archives-photos_llewelyn-building-circa-1970_0_document_0_desktop.png",
         "label": "/digital-archives-photos/llewelyn-building-circa-1970",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/digital-archives-photos/llewelyn-building-circa-1970?cb=1770364224826701",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/digital-archives-photos/llewelyn-building-circa-1970?cb=1770364224826701",
+        "url": "https://www.sandiego.gov/digital-archives-photos/llewelyn-building-circa-1970?cb=177372545185341",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/digital-archives-photos/llewelyn-building-circa-1970?cb=177372545185341",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -205,9 +206,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03864247311827957,
+          "rawMisMatchPercentage": 0.04053302532511978,
           "misMatchPercentage": "0.04",
-          "analysisTime": 76
+          "analysisTime": 162
         }
       },
       "status": "pass"
@@ -215,14 +216,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__customercare_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__customercare_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__customercare_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__customercare_0_document_0_desktop.png",
         "label": "/customercare",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/public-utilities/customer-support?cb=1770364225342863",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/public-utilities/customer-support?cb=1770364225342863",
+        "url": "https://www.sandiego.gov/public-utilities/customer-support?cb=1773725453327104",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/public-utilities/customer-support?cb=1773725453327104",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -231,9 +232,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.00859337637494022,
+          "rawMisMatchPercentage": 0.00733392999204455,
           "misMatchPercentage": "0.01",
-          "analysisTime": 96
+          "analysisTime": 140
         }
       },
       "status": "pass"
@@ -241,14 +242,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__reservoirs-lakes_sutherland-reservoir_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__reservoirs-lakes_sutherland-reservoir_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__reservoirs-lakes_sutherland-reservoir_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__reservoirs-lakes_sutherland-reservoir_0_document_0_desktop.png",
         "label": "/reservoirs-lakes/sutherland-reservoir",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/reservoirs-lakes/sutherland-reservoir?cb=1770364226085226",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/reservoirs-lakes/sutherland-reservoir?cb=1770364226085226",
+        "url": "https://www.sandiego.gov/reservoirs-lakes/sutherland-reservoir?cb=1773725455551298",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/reservoirs-lakes/sutherland-reservoir?cb=1773725455551298",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -257,24 +258,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.009280865507000425,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 203
-        }
+          "rawMisMatchPercentage": 0.10524776149776151,
+          "misMatchPercentage": "0.11",
+          "analysisTime": 133
+        },
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__reservoirs-lakes_sutherland-reservoir_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__public-utilities_customer-support_pay-your-bill_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__public-utilities_customer-support_pay-your-bill_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__public-utilities_customer-support_pay-your-bill_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__public-utilities_customer-support_pay-your-bill_0_document_0_desktop.png",
         "label": "/public-utilities/customer-support/pay-your-bill",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/public-utilities/customer-support/pay-your-bill?cb=1770364229851545",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/public-utilities/customer-support/pay-your-bill?cb=1770364229851545",
+        "url": "https://www.sandiego.gov/public-utilities/customer-support/pay-your-bill?cb=1773725456473764",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/public-utilities/customer-support/pay-your-bill?cb=1773725456473764",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -283,9 +285,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0056753688989784334,
+          "rawMisMatchPercentage": 0.008972421609369096,
           "misMatchPercentage": "0.01",
-          "analysisTime": 116
+          "analysisTime": 154
         }
       },
       "status": "pass"
@@ -293,14 +295,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__development-services_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__development-services_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__development-services_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__development-services_0_document_0_desktop.png",
         "label": "/development-services",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/development-services?cb=1770364231073917",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/development-services?cb=1770364231073917",
+        "url": "https://www.sandiego.gov/development-services?cb=1773725456901132",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/development-services?cb=1773725456901132",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -309,25 +311,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.49689959246767845,
-          "misMatchPercentage": "0.50",
-          "analysisTime": 310
+          "rawMisMatchPercentage": 0.6325366441884425,
+          "misMatchPercentage": "0.63",
+          "analysisTime": 219
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__development-services_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__development-services_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__planning_community_contacts_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__planning_community_contacts_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__planning_community_contacts_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__planning_community_contacts_0_document_0_desktop.png",
         "label": "/planning/community/contacts",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/planning/community-plans/cpg/contacts?cb=1770364232041109",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/planning/community-plans/cpg/contacts?cb=1770364232041109",
+        "url": "https://www.sandiego.gov/planning/community-plans/cpg/contacts?cb=177372545745228",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/planning/community-plans/cpg/contacts?cb=177372545745228",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -336,9 +338,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.021548914331768834,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 570
+          "rawMisMatchPercentage": 0.10462548214507901,
+          "misMatchPercentage": "0.10",
+          "analysisTime": 351
         }
       },
       "status": "pass"
@@ -346,14 +348,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__public-library_elibrary_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__public-library_elibrary_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__public-library_elibrary_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__public-library_elibrary_0_document_0_desktop.png",
         "label": "/public-library/elibrary",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/public-library/elibrary?cb=1770364234147462",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/public-library/elibrary?cb=1770364234147462",
+        "url": "https://www.sandiego.gov/public-library/elibrary?cb=1773725458788598",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/public-library/elibrary?cb=1773725458788598",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -362,9 +364,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.030406930804831245,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 312
+          "rawMisMatchPercentage": 0.018225637985546522,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 124
         }
       },
       "status": "pass"
@@ -372,41 +374,41 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__police_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__police_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__police_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__police_0_document_0_desktop.png",
         "label": "/police",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/police?cb=177036423314364",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/police?cb=177036423314364",
+        "url": "https://www.sandiego.gov/police?cb=1773725460104380",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/police?cb=1773725460104380",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -370
+            "height": 0
           },
-          "rawMisMatchPercentage": 23.311191626409016,
-          "misMatchPercentage": "23.31",
-          "analysisTime": 201
+          "rawMisMatchPercentage": 0.4404582074521652,
+          "misMatchPercentage": "0.44",
+          "analysisTime": 198
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__police_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__police_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__department-document_over-45-historical-review-101420_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__department-document_over-45-historical-review-101420_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__department-document_over-45-historical-review-101420_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__department-document_over-45-historical-review-101420_0_document_0_desktop.png",
         "label": "/department-document/over-45-historical-review-101420",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/department-document/over-45-historical-review-101420?cb=1770364237392226",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/department-document/over-45-historical-review-101420?cb=1770364237392226",
+        "url": "https://www.sandiego.gov/department-document/over-45-historical-review-101420?cb=1773725460933609",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/department-document/over-45-historical-review-101420?cb=1773725460933609",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -415,52 +417,52 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.5628325973731885,
+          "rawMisMatchPercentage": 0.5633892276422765,
           "misMatchPercentage": "0.56",
-          "analysisTime": 186
+          "analysisTime": 131
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__department-document_over-45-historical-review-101420_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__department-document_over-45-historical-review-101420_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__public-library_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__public-library_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__public-library_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__public-library_0_document_0_desktop.png",
         "label": "/public-library",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/public-library?cb=1770364240435928",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/public-library?cb=1770364240435928",
+        "url": "https://www.sandiego.gov/public-library?cb=1773725461245919",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/public-library?cb=1773725461245919",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 15
+            "height": -323
           },
-          "rawMisMatchPercentage": 7.498383992185705,
-          "misMatchPercentage": "7.50",
-          "analysisTime": 409
+          "rawMisMatchPercentage": 16.22231012658228,
+          "misMatchPercentage": "16.22",
+          "analysisTime": 228
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__public-library_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__public-library_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__doing-business_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__doing-business_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__doing-business_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__doing-business_0_document_0_desktop.png",
         "label": "/doing-business",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/doing-business?cb=1770364241483703",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/doing-business?cb=1770364241483703",
+        "url": "https://www.sandiego.gov/doing-business?cb=1773725462337680",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/doing-business?cb=1773725462337680",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -469,25 +471,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.15579859678085017,
-          "misMatchPercentage": "0.16",
-          "analysisTime": 189
+          "rawMisMatchPercentage": 8.435700329082682,
+          "misMatchPercentage": "8.44",
+          "analysisTime": 321
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__doing-business_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__doing-business_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__get-it-done_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__get-it-done_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__get-it-done_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__get-it-done_0_document_0_desktop.png",
         "label": "/get-it-done",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/get-it-done?cb=1770364243449178",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/get-it-done?cb=1770364243449178",
+        "url": "https://www.sandiego.gov/get-it-done?cb=1773725463634724",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/get-it-done?cb=1773725463634724",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -496,9 +498,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.05703235681036227,
-          "misMatchPercentage": "0.06",
-          "analysisTime": 301
+          "rawMisMatchPercentage": 0.07164418510659795,
+          "misMatchPercentage": "0.07",
+          "analysisTime": 158
         }
       },
       "status": "pass"
@@ -506,14 +508,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default__torrey-pines_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260206-155009/backstop_default__torrey-pines_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260317-133046/backstop_default__torrey-pines_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default__torrey-pines_0_document_0_desktop.png",
         "label": "/torrey-pines",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.sandiego.gov/torrey-pines?cb=1770364244444925",
-        "referenceUrl": "https://mu-020526-sandgov.pantheonsite.io/torrey-pines?cb=1770364244444925",
+        "url": "https://www.sandiego.gov/torrey-pines?cb=1773725464500149",
+        "referenceUrl": "https://mu-031626-sandgov.pantheonsite.io/torrey-pines?cb=1773725464500149",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -522,11 +524,11 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.16681438905600915,
+          "rawMisMatchPercentage": 0.16811454311454313,
           "misMatchPercentage": "0.17",
-          "analysisTime": 120
+          "analysisTime": 133
         },
-        "diffImage": "../bitmaps_test/20260206-155009/failed_diff_backstop_default__torrey-pines_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260317-133046/failed_diff_backstop_default__torrey-pines_0_document_0_desktop.png"
       },
       "status": "fail"
     }
