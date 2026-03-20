@@ -1,0 +1,93 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Homepage",
+      "url": "https://www.brookfieldrenewablena.com/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/"
+    },
+    {
+      "label": "Brookfield Renewable NA - Who We Are",
+      "url": "https://www.brookfieldrenewablena.com/who-we-are/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/who-we-are/"
+    },
+    {
+      "label": "Brookfield Renewable NA - Leadership",
+      "url": "https://www.brookfieldrenewablena.com/leadership/",
+      
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/leadership/"
+    },
+    {
+      "label": "Brookfield Renewable NA - News & Press Releases",
+      "url": "https://www.brookfieldrenewablena.com/news-press-releases/",
+      
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/news-press-releases/"
+    },
+    {
+      "label": "Brookfield Renewable NA - Public Safety",
+      
+      "url": "https://www.brookfieldrenewablena.com/public-safety/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/public-safety/"
+    },
+    {
+      "label": "Brookfield Renewable NA - Careers",
+      
+      "url": "https://www.brookfieldrenewablena.com/careers/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/careers/"
+    },
+    {
+      "label": "Brookfield Renewable NA - Contact",
+      
+      "url": "https://www.brookfieldrenewablena.com/contact/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/contact/"
+    },
+    {
+      
+      "label": "Énergie Brookfield AN - Contact",
+      "url": "https://www.energiebrookfieldan.com/communiquez-avec-nous/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/communiquez-avec-nous/"
+    },
+    {
+      
+      "label": "Énergie Brookfield AN - Careers",
+      "url": "https://www.energiebrookfieldan.com/carrieres/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/carrieres/"
+    },
+    {
+      "label": "Énergie Brookfield AN - Public Safety",
+      
+      "url": "https://www.energiebrookfieldan.com/securite-publique/",
+      "referenceUrl": "https://autopilot-brookfield-renewable-na.pantheonsite.io/securite-publique/"
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report",
+    "cookiePath": "backstop_data/engine_scripts/cookies.json"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "navigationTimeout": 0,
+    "waitUntil": "networkidle2"
+  },
+  "misMatchThreshold": 1.0,
+  "asyncCaptureLimit": 3,
+  "asyncCompareLimit": 50,
+  "requireSameDimensions": false,
+  "debug": false,
+  "debugWindow": false
+}
