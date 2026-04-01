@@ -1,0 +1,71 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+        {
+            "label": "desktop",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+        {
+            "label": "Home",
+            "url": "http://www.eci.com/",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/"
+        },
+        {
+            "label": "Managed Solutions",
+            "url": "http://www.eci.com/managed-solutions",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/managed-solutions"
+        },
+        {
+            "label": "Cyber Solutions",
+            "url": "http://www.eci.com/cyber-solutions",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/cyber-solutions"
+        },
+        {
+            "label": "Digital Solutions",
+            "url": "http://www.eci.com/digital-solutions",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/digital-solutions"
+        },
+        {
+            "label": "Resources",
+            "url": "http://www.eci.com/resources",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/resources"
+        },
+        {
+            "label": "Who ECI",
+            "url": "http://www.eci.com/who-eci",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/who-eci"
+        },
+        {
+            "label": "Careers",
+            "url": "http://www.eci.com/careers",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/careers"
+        },
+        {
+            "label": "Contact",
+            "url": "http://www.eci.com/contact",
+            "referenceUrl": "https://mu-040126-eci-com.pantheonsite.io/contact"
+        }
+    ],
+    "paths": {
+        "bitmaps_reference": "backstop_data/bitmaps_reference",
+        "bitmaps_test": "backstop_data/bitmaps_test",
+        "engine_scripts": "backstop_data/engine_scripts",
+        "html_report": "backstop_data/html_report",
+        "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+        "args": ["--no-sandbox"],
+        "timeout": 0
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "debug": false,
+    "debugWindow": false
+}
