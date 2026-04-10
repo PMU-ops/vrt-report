@@ -4,14 +4,14 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,25 +20,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 10.367693891456334,
-          "misMatchPercentage": "10.37",
-          "analysisTime": 139
+          "rawMisMatchPercentage": 10.275960199668207,
+          "misMatchPercentage": "10.28",
+          "analysisTime": 169
         },
-        "diffImage": "../bitmaps_test/20260326-142853/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_0_desktop.png",
         "label": "News",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/news",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/news",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/news",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -47,9 +47,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.014405794036794248,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 177
+          "rawMisMatchPercentage": 0.036793902354809754,
+          "misMatchPercentage": "0.04",
+          "analysisTime": 265
         }
       },
       "status": "pass"
@@ -57,14 +57,14 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Russian_Evolution_Article_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Russian_Evolution_Article_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Russian_Evolution_Article_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Russian_Evolution_Article_0_document_0_desktop.png",
         "label": "Russian Evolution Article",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/news/russian-evolution",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/news/russian-evolution",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/news/russian-evolution",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -73,25 +73,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.7387598500254193,
-          "misMatchPercentage": "3.74",
-          "analysisTime": 149
+          "rawMisMatchPercentage": 3.3449874454597843,
+          "misMatchPercentage": "3.34",
+          "analysisTime": 220
         },
-        "diffImage": "../bitmaps_test/20260326-142853/failed_diff_backstop_default_Russian_Evolution_Article_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_Russian_Evolution_Article_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Why_Oberlin_Conservatory_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Why_Oberlin_Conservatory_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Why_Oberlin_Conservatory_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Why_Oberlin_Conservatory_0_document_0_desktop.png",
         "label": "Why Oberlin Conservatory",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/why-oberlin-conservatory",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/why-oberlin-conservatory",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/why-oberlin-conservatory",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -100,24 +100,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.061145500875115825,
-          "misMatchPercentage": "0.06",
-          "analysisTime": 261
-        }
+          "rawMisMatchPercentage": 0.16916224818971137,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 279
+        },
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_Why_Oberlin_Conservatory_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_First_Year_Applicants_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_First_Year_Applicants_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_First_Year_Applicants_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_First_Year_Applicants_0_document_0_desktop.png",
         "label": "First Year Applicants",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/admissions-and-aid/arts-and-sciences/first-year-applicants",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/admissions-and-aid/arts-and-sciences/first-year-applicants",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/admissions-and-aid/arts-and-sciences/first-year-applicants",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -126,7 +127,9 @@
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.014905149051490514,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 219
         }
       },
       "status": "pass"
@@ -134,40 +137,41 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_English_Department_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_English_Department_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_English_Department_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_English_Department_0_document_0_desktop.png",
         "label": "English Department",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/arts-and-sciences/departments/english",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/arts-and-sciences/departments/english",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/arts-and-sciences/departments/english",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
-            "width": 0,
+            "width": 99,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04301531664749803,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 245
-        }
+          "rawMisMatchPercentage": 18.29173299613759,
+          "misMatchPercentage": "18.29",
+          "analysisTime": 278
+        },
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_English_Department_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Search_Results_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Search_Results_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Search_Results_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Search_Results_0_document_0_desktop.png",
         "label": "Search Results",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/search/google/t%20s%20mcmillin",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/search/google/t%20s%20mcmillin",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/search/google/t%20s%20mcmillin",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -178,7 +182,7 @@
           },
           "rawMisMatchPercentage": 0.0033983451536643027,
           "misMatchPercentage": "0.00",
-          "analysisTime": 83
+          "analysisTime": 47
         }
       },
       "status": "pass"
@@ -186,14 +190,14 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_-_Tour_Kahn_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Blog_-_Tour_Kahn_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Blog_-_Tour_Kahn_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_-_Tour_Kahn_0_document_0_desktop.png",
         "label": "Blog - Tour Kahn",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/blogs/tour-kahn",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/blogs/tour-kahn",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/blogs/tour-kahn",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -202,25 +206,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.318628124141719,
-          "misMatchPercentage": "3.32",
-          "analysisTime": 127
+          "rawMisMatchPercentage": 1.4821935365742012,
+          "misMatchPercentage": "1.48",
+          "analysisTime": 247
         },
-        "diffImage": "../bitmaps_test/20260326-142853/failed_diff_backstop_default_Blog_-_Tour_Kahn_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_Blog_-_Tour_Kahn_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_-_Kate_Magnacca_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Blog_-_Kate_Magnacca_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Blog_-_Kate_Magnacca_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_-_Kate_Magnacca_0_document_0_desktop.png",
         "label": "Blog - Kate Magnacca",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/blogs/kate-magnacca",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/blogs/kate-magnacca",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/blogs/kate-magnacca",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -229,9 +233,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.001098297638660077,
+          "rawMisMatchPercentage": 0.0019691582841947046,
           "misMatchPercentage": "0.00",
-          "analysisTime": 109
+          "analysisTime": 228
         }
       },
       "status": "pass"
@@ -239,41 +243,41 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Conservatory_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Conservatory_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Conservatory_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Conservatory_0_document_0_desktop.png",
         "label": "Conservatory",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/conservatory",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/conservatory",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/conservatory",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 915
+            "height": -47
           },
-          "rawMisMatchPercentage": 26.11612197883722,
-          "misMatchPercentage": "26.12",
-          "analysisTime": 185
+          "rawMisMatchPercentage": 15.885150503290745,
+          "misMatchPercentage": "15.89",
+          "analysisTime": 272
         },
-        "diffImage": "../bitmaps_test/20260326-142853/failed_diff_backstop_default_Conservatory_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_Conservatory_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_College_at_a_Glance_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_College_at_a_Glance_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_College_at_a_Glance_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_College_at_a_Glance_0_document_0_desktop.png",
         "label": "College at a Glance",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/arts-and-sciences/college-at-a-glance",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/arts-and-sciences/college-at-a-glance",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/arts-and-sciences/college-at-a-glance",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -282,51 +286,51 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.6568399817295982,
-          "misMatchPercentage": "3.66",
-          "analysisTime": 188
-        },
-        "diffImage": "../bitmaps_test/20260326-142853/failed_diff_backstop_default_College_at_a_Glance_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_President_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_President_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_President_0_document_0_desktop.png",
-        "label": "President",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.oberlin.edu/president",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/president",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.005901950401553261,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 153
+          "rawMisMatchPercentage": 0.0009304371362836649,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 263
         }
       },
       "status": "pass"
     },
     {
       "pair": {
+        "reference": "../bitmaps_reference/backstop_default_President_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_President_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_President_0_document_0_desktop.png",
+        "label": "President",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.oberlin.edu/president",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/president",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1
+          },
+          "rawMisMatchPercentage": 3.138055298217752,
+          "misMatchPercentage": "3.14",
+          "analysisTime": 249
+        },
+        "diffImage": "../bitmaps_test/20260410-104141/failed_diff_backstop_default_President_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
         "reference": "../bitmaps_reference/backstop_default_Events_Calendar_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Events_Calendar_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Events_Calendar_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Events_Calendar_0_document_0_desktop.png",
         "label": "Events Calendar",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/communications/web-communications/events-calendar",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/communications/web-communications/events-calendar",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/communications/web-communications/events-calendar",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -343,14 +347,14 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Conservatory_Alumni_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Conservatory_Alumni_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Conservatory_Alumni_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Conservatory_Alumni_News_0_document_0_desktop.png",
         "label": "Conservatory Alumni News",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/news/collection/conservatory-alumni",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/news/collection/conservatory-alumni",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/news/collection/conservatory-alumni",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -359,9 +363,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0370184722587431,
+          "rawMisMatchPercentage": 0.03697738627399422,
           "misMatchPercentage": "0.04",
-          "analysisTime": 126
+          "analysisTime": 210
         }
       },
       "status": "pass"
@@ -369,14 +373,14 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Baroque_Performance_Event_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260326-142853/backstop_default_Baroque_Performance_Event_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260410-104141/backstop_default_Baroque_Performance_Event_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Baroque_Performance_Event_0_document_0_desktop.png",
         "label": "Baroque Performance Event",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/events/oberlin_baroque_performance_institute_chamber_music_concert",
-        "referenceUrl": "https://ob-mu-03262-oberlin-ng.pantheonsite.io/events/oberlin_baroque_performance_institute_chamber_music_concert",
+        "referenceUrl": "https://ob-mu-04082-oberlin-ng.pantheonsite.io/events/oberlin_baroque_performance_institute_chamber_music_concert",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -385,9 +389,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.004515322324547475,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 129
+          "rawMisMatchPercentage": 0.07617912029676735,
+          "misMatchPercentage": "0.08",
+          "analysisTime": 188
         }
       },
       "status": "pass"
