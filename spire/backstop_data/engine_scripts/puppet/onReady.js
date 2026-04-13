@@ -12,7 +12,7 @@ module.exports = async (page, scenario, vp) => {
     // Inject CSS into the page
     await page.addStyleTag({
       content: `
-        .osano-cm-window {
+        .osano-cm-window, .widget_spire_alerts_widget {
           display: none !important;
         }
       `
