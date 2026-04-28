@@ -5,7 +5,7 @@ module.exports = async (page, scenario, vp) => {
     // Inject CSS into the page
     await page.addStyleTag({
       content: `
-        .be-related-link-container {
+        .be-related-link-container, .oho-alert__wrapper, #klaro-cookie-notice {
           display: none !important;
         }
       `
