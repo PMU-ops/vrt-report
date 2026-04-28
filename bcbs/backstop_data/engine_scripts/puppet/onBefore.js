@@ -1,3 +1,5 @@
+const { execSync } = require('child_process');
+
 module.exports = async (page, scenario, vp) => {
   await require('./loadCookies')(page, scenario);
 
@@ -8,4 +10,5 @@ module.exports = async (page, scenario, vp) => {
     if (scenario.referenceUrl) {
       scenario.referenceUrl += (scenario.referenceUrl.includes('?') ? '&' : '?') + cacheBuster;
     }
+
 };
