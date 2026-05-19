@@ -14,7 +14,7 @@
     {
       "label": "Home",
       "url": "https://dev-tpl-2022.pantheonsite.io/",
-      "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/",
+      "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/",
       "readySelector": "body",
       "selectors": ["document"],
       "selectorExpansion": true,
@@ -24,7 +24,7 @@
     {
           "label": "Admin Dashboard",
           "url": "https://dev-tpl-2022.pantheonsite.io/wp-admin/index.php",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/wp-admin/index.php",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/wp-admin/index.php",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -34,7 +34,7 @@
       {
           "label": "Our Mission",
           "url": "https://dev-tpl-2022.pantheonsite.io/our-mission",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-mission",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/our-mission",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -44,7 +44,7 @@
       {
           "label": "Our Work",
           "url": "https://dev-tpl-2022.pantheonsite.io/our-work",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/our-work",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -54,7 +54,7 @@
       {
           "label": "ParkScore",
           "url": "https://dev-tpl-2022.pantheonsite.io/parkscore",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/parkscore",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/parkscore",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -64,7 +64,7 @@
       {
           "label": "Washington DC",
           "url": "https://dev-tpl-2022.pantheonsite.io/city/washington-district-columbia",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/city/washington-district-columbia",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/city/washington-district-columbia",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -74,7 +74,7 @@
       {
           "label": "Stories",
           "url": "https://dev-tpl-2022.pantheonsite.io/stories",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/stories",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/stories",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -84,7 +84,7 @@
       {
           "label": "Resource Hub",
           "url": "https://dev-tpl-2022.pantheonsite.io/resource-hub",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/resource-hub",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/resource-hub",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -94,7 +94,7 @@
       {
           "label": "Media Room",
           "url": "https://dev-tpl-2022.pantheonsite.io/media-room",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/media-room",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/media-room",
           "onBeforeScript": "noNe.js",
           "readySelector": "body",
           "selectors": ["document"],
@@ -105,7 +105,7 @@
       {
           "label": "New York",
           "url": "https://dev-tpl-2022.pantheonsite.io/state/new-york",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/state/new-york",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/state/new-york",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -115,7 +115,7 @@
       {
           "label": "Long Island Greenway",
           "url": "https://dev-tpl-2022.pantheonsite.io/our-work/long-island-greenway",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work/long-island-greenway",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/our-work/long-island-greenway",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -125,7 +125,7 @@
       {
           "label": "William H Pouch Scout Camp",
           "url": "https://dev-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/our-work/william-h-pouch-scout-camp",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -135,7 +135,7 @@
       {
           "label": "Lands Conservation Health Equity Community",
           "url": "https://dev-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/blog/lands-conservation-health-equity-community",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -145,7 +145,7 @@
       {
           "label": "Careers",
           "url": "https://dev-tpl-2022.pantheonsite.io/careers",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/careers",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/careers",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -155,7 +155,7 @@
       {
           "label": "Public Policy",
           "url": "https://dev-tpl-2022.pantheonsite.io/public-policy",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/public-policy",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/public-policy",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -165,7 +165,7 @@
       {
           "label": "Petitions Schoolyards",
           "url": "https://dev-tpl-2022.pantheonsite.io/petitions/schoolyards",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/petitions/schoolyards",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/petitions/schoolyards",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
@@ -175,7 +175,7 @@
       {
           "label": "Contact",
           "url": "https://dev-tpl-2022.pantheonsite.io/contact",
-          "referenceUrl": "https://autopilot-tpl-2022.pantheonsite.io/contact",
+          "referenceUrl": "https://mu-051926-tpl-2022.pantheonsite.io/contact",
           "readySelector": "body",
           "selectors": ["document"],
           "selectorExpansion": true,
