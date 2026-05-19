@@ -13,37 +13,37 @@
         {
             "label": "Home",
             "url": "https://www.midcapfinancial.com/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/"
         },
         {
             "label": "About",
             "url": "https://www.midcapfinancial.com/about/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/about/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/about/"
         },
         {
             "label": "Solutions",
             "url": "https://www.midcapfinancial.com/solutions/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/solutions/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/solutions/"
         },
         {
             "label": "Meet the Team",
             "url": "https://www.midcapfinancial.com/meet-the-team/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/meet-the-team/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/meet-the-team/"
         },
         {
             "label": "Transactions",
             "url": "https://www.midcapfinancial.com/transactions/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/transactions/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/transactions/"
         },
         {
             "label": "Careers",
             "url": "https://www.midcapfinancial.com/careers/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/careers/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/careers/"
         },
         {
             "label": "Contact",
             "url": "https://www.midcapfinancial.com/contact/",
-            "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/contact/"
+            "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/contact/"
         }
     ],
     "paths": {

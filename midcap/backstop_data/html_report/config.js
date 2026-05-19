@@ -4,14 +4,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/?cb=1775537119704805",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/?cb=1775537119704805",
+        "url": "https://www.midcapfinancial.com/?cb=1779176376282526",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/?cb=1779176376282526",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,131 +20,133 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 4.96071942742962,
-          "misMatchPercentage": "4.96",
-          "analysisTime": 176
+          "rawMisMatchPercentage": 5.870666827606912,
+          "misMatchPercentage": "5.87",
+          "analysisTime": 209
         },
-        "diffImage": "../bitmaps_test/20260407-124518/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_About_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_About_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_About_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_About_0_document_0_desktop.png",
         "label": "About",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/about/?cb=1775537119701832",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/about/?cb=1775537119701832",
+        "url": "https://www.midcapfinancial.com/about/?cb=1779176376276167",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/about/?cb=1779176376276167",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -38
           },
-          "rawMisMatchPercentage": 3.470260390214999,
-          "misMatchPercentage": "3.47",
-          "analysisTime": 119
+          "rawMisMatchPercentage": 17.263269605352303,
+          "misMatchPercentage": "17.26",
+          "analysisTime": 157
         },
-        "diffImage": "../bitmaps_test/20260407-124518/failed_diff_backstop_default_About_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_About_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Solutions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_Solutions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Solutions_0_document_0_desktop.png",
         "label": "Solutions",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/solutions/?cb=1775537119669826",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/solutions/?cb=1775537119669826",
+        "url": "https://www.midcapfinancial.com/solutions/?cb=1779176376275892",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/solutions/?cb=1779176376275892",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 354
           },
-          "rawMisMatchPercentage": 10.856001363490536,
-          "misMatchPercentage": "10.86",
-          "analysisTime": 153
+          "rawMisMatchPercentage": 44.09372574699263,
+          "misMatchPercentage": "44.09",
+          "analysisTime": 163
         },
-        "diffImage": "../bitmaps_test/20260407-124518/failed_diff_backstop_default_Solutions_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_Solutions_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Meet_the_Team_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_Meet_the_Team_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_Meet_the_Team_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Meet_the_Team_0_document_0_desktop.png",
         "label": "Meet the Team",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/meet-the-team/?cb=1775537119690975",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/meet-the-team/?cb=1775537119690975",
+        "url": "https://www.midcapfinancial.com/meet-the-team/?cb=1779176376286465",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/meet-the-team/?cb=1779176376286465",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -38
           },
-          "rawMisMatchPercentage": 0.0004024987120041216,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 78
-        }
+          "rawMisMatchPercentage": 16.359062701482916,
+          "misMatchPercentage": "16.36",
+          "analysisTime": 76
+        },
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_Meet_the_Team_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Transactions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_Transactions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_Transactions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Transactions_0_document_0_desktop.png",
         "label": "Transactions",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/transactions/?cb=1775537119670916",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/transactions/?cb=1775537119670916",
+        "url": "https://www.midcapfinancial.com/transactions/?cb=1779176376241633",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/transactions/?cb=1779176376241633",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -38
           },
-          "rawMisMatchPercentage": 0.018085901937833267,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 83
-        }
+          "rawMisMatchPercentage": 18.192376838474555,
+          "misMatchPercentage": "18.19",
+          "analysisTime": 95
+        },
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_Transactions_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/careers/?cb=177553712736514",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/careers/?cb=177553712736514",
+        "url": "https://www.midcapfinancial.com/careers/?cb=1779176383129131",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/careers/?cb=1779176383129131",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -153,25 +155,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 5.2968267746913575,
-          "misMatchPercentage": "5.30",
-          "analysisTime": 160
+          "rawMisMatchPercentage": 6.638536359061459,
+          "misMatchPercentage": "6.64",
+          "analysisTime": 156
         },
-        "diffImage": "../bitmaps_test/20260407-124518/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260407-124518/backstop_default_Contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260519-153935/backstop_default_Contact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_0_document_0_desktop.png",
         "label": "Contact",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.midcapfinancial.com/contact/?cb=1775537128003395",
-        "referenceUrl": "https:/autopilot-midcap.pantheonsite.io/contact/?cb=1775537128003395",
+        "url": "https://www.midcapfinancial.com/contact/?cb=1779176384884279",
+        "referenceUrl": "https:/mu-051926-midcap.pantheonsite.io/contact/?cb=1779176384884279",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -180,11 +182,11 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.7804686624060995,
-          "misMatchPercentage": "1.78",
-          "analysisTime": 86
+          "rawMisMatchPercentage": 3.219524235708603,
+          "misMatchPercentage": "3.22",
+          "analysisTime": 84
         },
-        "diffImage": "../bitmaps_test/20260407-124518/failed_diff_backstop_default_Contact_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260519-153935/failed_diff_backstop_default_Contact_0_document_0_desktop.png"
       },
       "status": "fail"
     }
