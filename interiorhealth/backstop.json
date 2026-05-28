@@ -13,7 +13,7 @@
       {
         "label": "Locations",
         "url": "http://www.interiorhealth.ca/locations",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/locations",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/locations",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -32,7 +32,7 @@
       {
         "label": "Accessing Care through Technology",
         "url": "http://www.interiorhealth.ca/health-and-wellness/accessing-care-through-technology/myhealthportal",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/health-and-wellness/accessing-care-through-technology/myhealthportal",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/health-and-wellness/accessing-care-through-technology/myhealthportal",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -51,7 +51,7 @@
       {
         "label": "Services",
         "url": "http://www.interiorhealth.ca/services",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/services",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/services",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -70,7 +70,7 @@
       {
         "label": "Careers",
         "url": "http://www.interiorhealth.ca/careers",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/careers",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/careers",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -89,7 +89,7 @@
       {
         "label": "Contact Information",
         "url": "http://www.interiorhealth.ca/contact-information",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/contact-information",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/contact-information",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -108,7 +108,7 @@
       {
         "label": "Lab Tests and Services",
         "url": "http://www.interiorhealth.ca/information-for/patients-and-visitors/lab-tests-and-services",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/information-for/patients-and-visitors/lab-tests-and-services",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/information-for/patients-and-visitors/lab-tests-and-services",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -127,7 +127,7 @@
       {
         "label": "Booking a Laboratory Test",
         "url": "http://www.interiorhealth.ca/services/booking-a-laboratory-test",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/services/booking-a-laboratory-test",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/services/booking-a-laboratory-test",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
@@ -146,7 +146,7 @@
       {
         "label": "Stories",
         "url": "http://www.interiorhealth.ca/stories",
-        "referenceUrl": "https://mu-033026-ih-ca.pantheonsite.io/stories",
+        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/stories",
         "cookiePath": "backstop_data/engine_scripts/cookies.json",
         "readyEvent": "",
         "readySelector": "",
