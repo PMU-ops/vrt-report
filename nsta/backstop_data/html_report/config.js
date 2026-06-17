@@ -3,96 +3,87 @@ report({
   "tests": [
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Home_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Home_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Home_0__0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Home_0__0_desktop.png",
+        "selector": "",
+        "fileName": "backstop_default_Home_0__0_desktop.png",
         "label": "Home",
-        "requireSameDimensions": true,
+        "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/?cb=1774594741908234",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/?cb=1774594741908234",
+        "url": "https://www.nsta.org/?cb=1781655870617854",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/?cb=1781655870617854",
         "expect": 0,
         "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -1
-          },
-          "rawMisMatchPercentage": 8.72350395907785,
-          "misMatchPercentage": "8.72",
-          "analysisTime": 178
-        },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "engineErrorMsg": "Navigation timeout of 60000 ms exceeded",
+        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/nsta/backstop_data/bitmaps_reference/backstop_default_Home_0__0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bookstore_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Bookstore_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Bookstore_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bookstore_0_document_0_desktop.png",
         "label": "Bookstore",
-        "requireSameDimensions": true,
+        "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/bookstore?cb=1774594741914969",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/bookstore?cb=1774594741914969",
+        "url": "https://www.nsta.org/bookstore?cb=178165587059555",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/bookstore?cb=178165587059555",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -23
+            "height": -2075
           },
-          "rawMisMatchPercentage": 9.495362793235133,
-          "misMatchPercentage": "9.50",
-          "analysisTime": 161
+          "rawMisMatchPercentage": 24.480199021894027,
+          "misMatchPercentage": "24.48",
+          "analysisTime": 158
         },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_Bookstore_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Bookstore_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Conferences_and_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Conferences_and_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Conferences_and_Events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Conferences_and_Events_0_document_0_desktop.png",
         "label": "Conferences and Events",
-        "requireSameDimensions": true,
+        "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/conferences-events?cb=1774594741907620",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/conferences-events?cb=1774594741907620",
+        "url": "https://www.nsta.org/conferences-events?cb=1781655870619954",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/conferences-events?cb=1781655870619954",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -174
+            "height": -1356
           },
-          "rawMisMatchPercentage": 20.276919030323995,
-          "misMatchPercentage": "20.28",
-          "analysisTime": 168
+          "rawMisMatchPercentage": 17.637308896111715,
+          "misMatchPercentage": "17.64",
+          "analysisTime": 178
         },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_Conferences_and_Events_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Conferences_and_Events_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Professional_Learning_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Professional_Learning_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Professional_Learning_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Professional_Learning_0_document_0_desktop.png",
         "label": "Professional Learning",
-        "requireSameDimensions": true,
+        "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/professional-learning?cb=177459474191565",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/professional-learning?cb=177459474191565",
+        "url": "https://www.nsta.org/professional-learning?cb=1781655870613623",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/professional-learning?cb=1781655870613623",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -101,7 +92,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.00004066892243623113,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 180
         }
       },
       "status": "pass"
@@ -109,174 +102,95 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Science_Standards_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Science_Standards_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Science_Standards_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Science_Standards_0_document_0_desktop.png",
         "label": "Science Standards",
-        "requireSameDimensions": true,
+        "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/science-standards?cb=1774594741909599",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/science-standards?cb=1774594741909599",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.17746913580246915,
-          "misMatchPercentage": "0.18",
-          "analysisTime": 201
-        },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_Science_Standards_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Biology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Biology_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Biology_0_document_0_desktop.png",
-        "label": "Biology",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/topics/biology?cb=1774594750366877",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/topics/biology?cb=1774594750366877",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.9878698036215251,
-          "misMatchPercentage": "0.99",
-          "analysisTime": 172
-        },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_Biology_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
-        "label": "Science Scope March 2020",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/science-scope-march-2020?cb=1774594753174670",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/science-scope-march-2020?cb=1774594753174670",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.08792008389894419,
-          "misMatchPercentage": "0.09",
-          "analysisTime": 154
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
-        "label": "After School STEAM Club",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/after-school-steam-club-connects-botany-art-and-gaming?cb=1774594754292721",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/after-school-steam-club-connects-botany-art-and-gaming?cb=1774594754292721",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.23165828365623448,
-          "misMatchPercentage": "0.23",
-          "analysisTime": 68
-        },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_After_School_STEAM_Club_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Daily_Do_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Daily_Do_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Daily_Do_0_document_0_desktop.png",
-        "label": "Daily Do",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/daily-do?cb=1774594755447724",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/daily-do?cb=1774594755447724",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.09055794251869113,
-          "misMatchPercentage": "0.09",
-          "analysisTime": 192
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Overview_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Overview_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Overview_0_document_0_desktop.png",
-        "label": "Overview",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/overview?cb=1774594758069406",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/overview?cb=1774594758069406",
+        "url": "https://www.nsta.org/science-standards?cb=1781655870588384",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/science-standards?cb=1781655870588384",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 27
+            "height": -142
           },
-          "rawMisMatchPercentage": 2.550543234767025,
-          "misMatchPercentage": "2.55",
-          "analysisTime": 209
+          "rawMisMatchPercentage": 2.3722475927499294,
+          "misMatchPercentage": "2.37",
+          "analysisTime": 179
         },
-        "diffImage": "../bitmaps_test/20260327-145900/failed_diff_backstop_default_Overview_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Science_Standards_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Lesson_Plan_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260327-145900/backstop_default_Lesson_Plan_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Biology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Biology_0_document_0_desktop.png",
         "selector": "document",
-        "fileName": "backstop_default_Lesson_Plan_0_document_0_desktop.png",
-        "label": "Lesson Plan",
-        "requireSameDimensions": true,
+        "fileName": "backstop_default_Biology_0_document_0_desktop.png",
+        "label": "Biology",
+        "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://www.nsta.org/lesson-plan/why-are-there-fish-desert?cb=1774594762161401",
-        "referenceUrl": "https://composerify-nsta.pantheonsite.io/lesson-plan/why-are-there-fish-desert?cb=1774594762161401",
+        "url": "https://www.nsta.org/topics/biology?cb=1781655908238313",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/topics/biology?cb=1781655908238313",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -2111
+          },
+          "rawMisMatchPercentage": 24.118162393162393,
+          "misMatchPercentage": "24.12",
+          "analysisTime": 166
+        },
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Biology_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Science_Scope_March_2020_0_document_0_desktop.png",
+        "label": "Science Scope March 2020",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nsta.org/science-scope-march-2020?cb=1781655913719875",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/science-scope-march-2020?cb=1781655913719875",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1973
+          },
+          "rawMisMatchPercentage": 20.309332111665626,
+          "misMatchPercentage": "20.31",
+          "analysisTime": 132
+        },
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Science_Scope_March_2020_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_After_School_STEAM_Club_0_document_0_desktop.png",
+        "label": "After School STEAM Club",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nsta.org/after-school-steam-club-connects-botany-art-and-gaming?cb=1781655914066930",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/after-school-steam-club-connects-botany-art-and-gaming?cb=1781655914066930",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -285,12 +199,94 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03044088357776571,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 297
-        }
+          "rawMisMatchPercentage": 28.573206018518523,
+          "misMatchPercentage": "28.57",
+          "analysisTime": 52
+        },
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_After_School_STEAM_Club_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Daily_Do_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Daily_Do_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Daily_Do_0_document_0_desktop.png",
+        "label": "Daily Do",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nsta.org/daily-do?cb=1781655916881528",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/daily-do?cb=1781655916881528",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1075
+          },
+          "rawMisMatchPercentage": 16.87006525942636,
+          "misMatchPercentage": "16.87",
+          "analysisTime": 116
+        },
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Daily_Do_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Overview_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Overview_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Overview_0_document_0_desktop.png",
+        "label": "Overview",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nsta.org/overview?cb=1781655931192639",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/overview?cb=1781655931192639",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -141
+          },
+          "rawMisMatchPercentage": 1.3052406853789513,
+          "misMatchPercentage": "1.31",
+          "analysisTime": 199
+        },
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Overview_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Lesson_Plan_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260617-082429/backstop_default_Lesson_Plan_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Lesson_Plan_0_document_0_desktop.png",
+        "label": "Lesson Plan",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nsta.org/lesson-plan/why-are-there-fish-desert?cb=1781655948371834",
+        "referenceUrl": "https://dev-nsta.pantheonsite.io/lesson-plan/why-are-there-fish-desert?cb=1781655948371834",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -705
+          },
+          "rawMisMatchPercentage": 14.76811328213237,
+          "misMatchPercentage": "14.77",
+          "analysisTime": 289
+        },
+        "diffImage": "../bitmaps_test/20260617-082429/failed_diff_backstop_default_Lesson_Plan_0_document_0_desktop.png"
+      },
+      "status": "fail"
     }
   ],
   "id": "backstop_default"
