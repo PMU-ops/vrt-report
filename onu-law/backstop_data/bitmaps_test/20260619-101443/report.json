@@ -4,81 +4,83 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260112-173530/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260619-101443/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/",
-        "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/",
+        "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 52
           },
-          "rawMisMatchPercentage": 28.724582916944257,
-          "misMatchPercentage": "28.72",
-          "analysisTime": 212
+          "rawMisMatchPercentage": 68.79404673590504,
+          "misMatchPercentage": "68.79",
+          "analysisTime": 159
         },
-        "diffImage": "../bitmaps_test/20260112-173530/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260619-101443/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Visit_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260112-173530/backstop_default_Visit_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260619-101443/backstop_default_Visit_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Visit_0_document_0_desktop.png",
         "label": "Visit",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/visit",
-        "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/visit",
+        "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/visit",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -886
           },
-          "rawMisMatchPercentage": 0.0024857954545454545,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 110
-        }
+          "rawMisMatchPercentage": 57.894478341426016,
+          "misMatchPercentage": "57.89",
+          "analysisTime": 109
+        },
+        "diffImage": "../bitmaps_test/20260619-101443/failed_diff_backstop_default_Visit_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Apply_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260112-173530/backstop_default_Apply_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260619-101443/backstop_default_Apply_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Apply_0_document_0_desktop.png",
         "label": "Apply",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.oberlin.edu/admissions-aid/apply",
-        "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/admissions-aid/apply",
+        "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/admissions-aid/apply",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -4616
           },
-          "rawMisMatchPercentage": 0.009025904697684873,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 121
-        }
+          "rawMisMatchPercentage": 20.385012425663064,
+          "misMatchPercentage": "20.39",
+          "analysisTime": 174
+        },
+        "diffImage": "../bitmaps_test/20260619-101443/failed_diff_backstop_default_Apply_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     }
   ],
   "id": "backstop_default"

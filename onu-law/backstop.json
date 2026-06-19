@@ -13,17 +13,17 @@
   {
     "label": "Home",
     "url": "https://www.oberlin.edu/",
-    "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/"
+    "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/"
   },
   {
     "label": "Visit",
     "url": "https://www.oberlin.edu/visit",
-    "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/visit"
+    "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/visit"
   },
   {
     "label": "Apply",
     "url": "https://www.oberlin.edu/admissions-aid/apply",
-    "referenceUrl": "https://ob-mu-01122-oberlin-ng.pantheonsite.io/admissions-aid/apply"
+    "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/admissions-aid/apply"
   }
     ],
     "paths": {
