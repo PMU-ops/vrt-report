@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Locations_0_document_0_desktop.png",
         "label": "Locations",
@@ -20,18 +20,18 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 15.99453919808498,
-          "misMatchPercentage": "15.99",
-          "analysisTime": 121
+          "rawMisMatchPercentage": 5.186187786754439,
+          "misMatchPercentage": "5.19",
+          "analysisTime": 203
         },
-        "diffImage": "../bitmaps_test/20260528-221745/failed_diff_backstop_default_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
         "label": "Accessing Care through Technology",
@@ -42,23 +42,23 @@
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 1
           },
-          "rawMisMatchPercentage": 2.289580690467561,
-          "misMatchPercentage": "2.29",
-          "analysisTime": 167
+          "rawMisMatchPercentage": 0.5985338676935936,
+          "misMatchPercentage": "0.60",
+          "analysisTime": 196
         },
-        "diffImage": "../bitmaps_test/20260528-221745/failed_diff_backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Services_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Services_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Services_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Services_0_document_0_desktop.png",
         "label": "Services",
@@ -74,18 +74,18 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 19.720896530683405,
-          "misMatchPercentage": "19.72",
-          "analysisTime": 99
+          "rawMisMatchPercentage": 13.054175383542537,
+          "misMatchPercentage": "13.05",
+          "analysisTime": 140
         },
-        "diffImage": "../bitmaps_test/20260528-221745/failed_diff_backstop_default_Services_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Services_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
@@ -96,23 +96,23 @@
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 1
           },
-          "rawMisMatchPercentage": 0.15693591889880953,
-          "misMatchPercentage": "0.16",
-          "analysisTime": 261
+          "rawMisMatchPercentage": 2.415556408110119,
+          "misMatchPercentage": "2.42",
+          "analysisTime": 401
         },
-        "diffImage": "../bitmaps_test/20260528-221745/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_Information_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Contact_Information_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Contact_Information_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_Information_0_document_0_desktop.png",
         "label": "Contact Information",
@@ -128,17 +128,18 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.041813905290153275,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 178
-        }
+          "rawMisMatchPercentage": 0.965904007872607,
+          "misMatchPercentage": "0.97",
+          "analysisTime": 193
+        },
+        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Contact_Information_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
         "label": "Lab Tests and Services",
@@ -154,9 +155,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04505876599694981,
-          "misMatchPercentage": "0.05",
-          "analysisTime": 154
+          "rawMisMatchPercentage": 0.026544161527750146,
+          "misMatchPercentage": "0.03",
+          "analysisTime": 219
         }
       },
       "status": "pass"
@@ -164,7 +165,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
         "label": "Booking a Laboratory Test",
@@ -180,18 +181,17 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 2.9705463690606124,
-          "misMatchPercentage": "2.97",
-          "analysisTime": 146
-        },
-        "diffImage": "../bitmaps_test/20260528-221745/failed_diff_backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.05271891116437859,
+          "misMatchPercentage": "0.05",
+          "analysisTime": 189
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stories_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260528-221745/backstop_default_Stories_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260702-170755/backstop_default_Stories_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stories_0_document_0_desktop.png",
         "label": "Stories",
@@ -202,16 +202,16 @@
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 218
+            "height": 0
           },
-          "rawMisMatchPercentage": 13.649396358410712,
-          "misMatchPercentage": "13.65",
-          "analysisTime": 175
+          "rawMisMatchPercentage": 1.608138304592256,
+          "misMatchPercentage": "1.61",
+          "analysisTime": 193
         },
-        "diffImage": "../bitmaps_test/20260528-221745/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
       },
       "status": "fail"
     }
