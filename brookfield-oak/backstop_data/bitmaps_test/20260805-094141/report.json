@@ -1,0 +1,270 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Root_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Root_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Root_0_document_0_desktop.png",
+        "label": "Root",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-oak/backstop_data/bitmaps_reference/backstop_default_Root_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Insights_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Insights_0_document_0_desktop.png",
+        "label": "Insights",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/insights",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/insights",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0004212498652000432,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 100
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Real_Estate_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Real_Estate_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Real_Estate_0_document_0_desktop.png",
+        "label": "Real Estate",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/real-estate",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/real-estate",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
+        "label": "Brookfield Global Listed Real Estate Fund",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/fund/brookfield-global-listed-real-estate-fund",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/fund/brookfield-global-listed-real-estate-fund",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
+        "label": "Oaktree Diversified Income Fund",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/fund/oaktree-diversified-income-fund-inc",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/fund/oaktree-diversified-income-fund-inc",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.5154791083099908,
+          "misMatchPercentage": "3.52",
+          "analysisTime": 126
+        },
+        "diffImage": "../bitmaps_test/20260805-094141/failed_diff_backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
+        "label": "Center Coast Brookfield MLP Energy Infrastructure Fund",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/fund/center-coast-brookfield-mlp-energy-infrastructure-fund",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/fund/center-coast-brookfield-mlp-energy-infrastructure-fund",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -699
+          },
+          "rawMisMatchPercentage": 34.32069702881152,
+          "misMatchPercentage": "34.32",
+          "analysisTime": 127
+        },
+        "diffImage": "../bitmaps_test/20260805-094141/failed_diff_backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_About_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_About_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_About_0_document_0_desktop.png",
+        "label": "About",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/about",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/about",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.9887040625897217,
+          "misMatchPercentage": "3.99",
+          "analysisTime": 128
+        },
+        "diffImage": "../bitmaps_test/20260805-094141/failed_diff_backstop_default_About_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Insight_QA_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Insight_QA_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Insight_QA_0_document_0_desktop.png",
+        "label": "Insight QA",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/insight/qa-implications-banking-sector-risks-mark-carney",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/insight/qa-implications-banking-sector-risks-mark-carney",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_News_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_News_0_document_0_desktop.png",
+        "label": "News",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/news",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/news",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Japanese_0__0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Japanese_0__0_desktop.png",
+        "selector": "",
+        "fileName": "backstop_default_Japanese_0__0_desktop.png",
+        "label": "Japanese",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/ja",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/ja",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "engineErrorMsg": "Navigation timeout of 60000 ms exceeded",
+        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-oak/backstop_data/bitmaps_reference/backstop_default_Japanese_0__0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Japanese_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260805-094141/backstop_default_Japanese_Insights_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Japanese_Insights_0_document_0_desktop.png",
+        "label": "Japanese Insights",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "https://privatewealth.brookfield.com/ja/insights",
+        "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/ja/insights",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.0007413997627520759,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 109
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "backstop_default"
+}
