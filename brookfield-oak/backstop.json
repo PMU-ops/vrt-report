@@ -1,0 +1,90 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Root",
+      "url": "https://privatewealth.brookfield.com/",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/"
+    },
+    {
+      "label": "Insights",
+      "url": "https://privatewealth.brookfield.com/insights",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/insights"
+    },
+    {
+      "label": "Real Estate",
+      "url": "https://privatewealth.brookfield.com/real-estate",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/real-estate"
+    },
+    {
+      "label": "Brookfield Global Listed Real Estate Fund",
+      "url": "https://privatewealth.brookfield.com/fund/brookfield-global-listed-real-estate-fund",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/fund/brookfield-global-listed-real-estate-fund"
+    },
+    {
+      "label": "Oaktree Diversified Income Fund",
+      "url": "https://privatewealth.brookfield.com/fund/oaktree-diversified-income-fund-inc",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/fund/oaktree-diversified-income-fund-inc"
+    },
+    {
+      "label": "Center Coast Brookfield MLP Energy Infrastructure Fund",
+      "url": "https://privatewealth.brookfield.com/fund/center-coast-brookfield-mlp-energy-infrastructure-fund",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/fund/center-coast-brookfield-mlp-energy-infrastructure-fund"
+    },
+    {
+      "label": "About",
+      "url": "https://privatewealth.brookfield.com/about",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/about"
+    },
+    {
+      "label": "Insight QA",
+      "url": "https://privatewealth.brookfield.com/insight/qa-implications-banking-sector-risks-mark-carney",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/insight/qa-implications-banking-sector-risks-mark-carney"
+    },
+    {
+      "label": "News",
+      "url": "https://privatewealth.brookfield.com/news",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/news"
+    },
+    {
+      "label": "Japanese",
+      "url": "https://privatewealth.brookfield.com/ja",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/ja"
+    },
+    {
+      "label": "Japanese Insights",
+      "url": "https://privatewealth.brookfield.com/ja/insights",
+      "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/ja/insights"
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report",
+    "cookiePath": "backstop_data/engine_scripts/cookies.json"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "navigationTimeout": 0,
+    "waitUntil": "networkidle2"
+  },
+  "misMatchThreshold": 1.0,
+  "asyncCaptureLimit": 3,
+  "asyncCompareLimit": 50,
+  "requireSameDimensions": false,
+  "debug": false,
+  "debugWindow": false
+}
