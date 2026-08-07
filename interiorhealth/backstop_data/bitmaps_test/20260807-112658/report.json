@@ -4,14 +4,14 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Locations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Locations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Locations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Locations_0_document_0_desktop.png",
         "label": "Locations",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/locations",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/locations",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/locations",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,52 +20,52 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 5.186187786754439,
-          "misMatchPercentage": "5.19",
-          "analysisTime": 203
+          "rawMisMatchPercentage": 13.777833881907043,
+          "misMatchPercentage": "13.78",
+          "analysisTime": 134
         },
-        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Locations_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Locations_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png",
         "label": "Accessing Care through Technology",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/health-and-wellness/accessing-care-through-technology/myhealthportal",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/health-and-wellness/accessing-care-through-technology/myhealthportal",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/health-and-wellness/accessing-care-through-technology/myhealthportal",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 1
+            "height": 0
           },
-          "rawMisMatchPercentage": 0.5985338676935936,
-          "misMatchPercentage": "0.60",
-          "analysisTime": 196
+          "rawMisMatchPercentage": 2.0552482682431625,
+          "misMatchPercentage": "2.06",
+          "analysisTime": 200
         },
-        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Accessing_Care_through_Technology_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Services_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Services_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Services_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Services_0_document_0_desktop.png",
         "label": "Services",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/services",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/services",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/services",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -74,52 +74,52 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 13.054175383542537,
-          "misMatchPercentage": "13.05",
-          "analysisTime": 140
+          "rawMisMatchPercentage": 11.026811657368665,
+          "misMatchPercentage": "11.03",
+          "analysisTime": 136
         },
-        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Services_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Services_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/careers",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/careers",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/careers",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 1
+            "height": 0
           },
-          "rawMisMatchPercentage": 2.415556408110119,
-          "misMatchPercentage": "2.42",
-          "analysisTime": 401
+          "rawMisMatchPercentage": 5.626325482754772,
+          "misMatchPercentage": "5.63",
+          "analysisTime": 304
         },
-        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_Information_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Contact_Information_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Contact_Information_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_Information_0_document_0_desktop.png",
         "label": "Contact Information",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/contact-information",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/contact-information",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/contact-information",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -128,25 +128,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.965904007872607,
-          "misMatchPercentage": "0.97",
-          "analysisTime": 193
+          "rawMisMatchPercentage": 2.057007440209936,
+          "misMatchPercentage": "2.06",
+          "analysisTime": 203
         },
-        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Contact_Information_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Contact_Information_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png",
         "label": "Lab Tests and Services",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/information-for/patients-and-visitors/lab-tests-and-services",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/information-for/patients-and-visitors/lab-tests-and-services",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/information-for/patients-and-visitors/lab-tests-and-services",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -155,24 +155,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.026544161527750146,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 219
-        }
+          "rawMisMatchPercentage": 2.283036187918573,
+          "misMatchPercentage": "2.28",
+          "analysisTime": 165
+        },
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Lab_Tests_and_Services_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png",
         "label": "Booking a Laboratory Test",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/services/booking-a-laboratory-test",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/services/booking-a-laboratory-test",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/services/booking-a-laboratory-test",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -181,24 +182,25 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.05271891116437859,
-          "misMatchPercentage": "0.05",
-          "analysisTime": 189
-        }
+          "rawMisMatchPercentage": 2.494783728862762,
+          "misMatchPercentage": "2.49",
+          "analysisTime": 175
+        },
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Booking_a_Laboratory_Test_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Stories_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260702-170755/backstop_default_Stories_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260807-112658/backstop_default_Stories_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Stories_0_document_0_desktop.png",
         "label": "Stories",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.interiorhealth.ca/stories",
-        "referenceUrl": "https://autopilot-ih-ca.pantheonsite.io/stories",
+        "referenceUrl": "https://mu-080626-ih-ca.pantheonsite.io/stories",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -207,11 +209,11 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.608138304592256,
-          "misMatchPercentage": "1.61",
-          "analysisTime": 193
+          "rawMisMatchPercentage": 11.400505732423726,
+          "misMatchPercentage": "11.40",
+          "analysisTime": 207
         },
-        "diffImage": "../bitmaps_test/20260702-170755/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260807-112658/failed_diff_backstop_default_Stories_0_document_0_desktop.png"
       },
       "status": "fail"
     }
