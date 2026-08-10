@@ -1,0 +1,82 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Homepage",
+      "url": "https://mu-080726-bgre.pantheonsite.io/",
+      "referenceUrl": "https://www.bgre.com/",
+      "delay": 1000
+    },
+    {
+      "label": "About Us",
+      "url": "https://mu-080726-bgre.pantheonsite.io/about-us",
+      "referenceUrl": "https://www.bgre.com/about-us",
+      "delay": 1000
+    },
+    {
+      "label": "Careers",
+      "url": "https://mu-080726-bgre.pantheonsite.io/careers",
+      "referenceUrl": "https://www.bgre.com/careers",
+      "delay": 1000
+    },
+    {
+      "label": "Leadership",
+      "url": "https://mu-080726-bgre.pantheonsite.io/leadership",
+      "referenceUrl": "https://www.bgre.com/leadership",
+      "delay": 1000
+    },
+    {
+      "label": "Leadership - Alireza Esmaeilzadeh",
+      "url": "https://mu-080726-bgre.pantheonsite.io/leadership/alireza-esmaeilzadeh",
+      "referenceUrl": "https://www.bgre.com/leadership/alireza-esmaeilzadeh",
+      "delay": 1000
+    },
+    {
+      "label": "Contact",
+      "url": "https://mu-080726-bgre.pantheonsite.io/contact",
+      "referenceUrl": "https://www.bgre.com/contact",
+      "delay": 1000
+    },
+    {
+      "label": "Terms",
+      "url": "https://mu-080726-bgre.pantheonsite.io/terms",
+      "referenceUrl": "https://www.bgre.com/terms",
+      "delay": 1000
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report",
+    "cookiePath": "backstop_data/engine_scripts/cookies.json"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ],
+    "timeout": 0
+  },
+  "selectors": [
+    "document"
+  ],
+  "asyncCaptureLimit": 2,
+  "asyncCompareLimit": 50,
+  "requireSameDimensions": false,
+  "debug": false,
+  "debugWindow": false
+}
