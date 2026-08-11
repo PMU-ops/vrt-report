@@ -4,14 +4,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.eci.com/",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -20,95 +20,106 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.1317974549976761,
-          "misMatchPercentage": "0.13",
-          "analysisTime": 214
+          "rawMisMatchPercentage": 0.35990374141541753,
+          "misMatchPercentage": "0.36",
+          "analysisTime": 196
         },
-        "diffImage": "../bitmaps_test/20260623-073713/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Managed_Solutions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Managed_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Managed_Solutions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Managed_Solutions_0_document_0_desktop.png",
         "label": "Managed Solutions",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.eci.com/managed-solutions",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/managed-solutions",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/managed-solutions",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 373
           },
-          "rawMisMatchPercentage": 0.07968964334705075,
-          "misMatchPercentage": "0.08",
-          "analysisTime": 155
-        }
+          "rawMisMatchPercentage": 34.64359459784326,
+          "misMatchPercentage": "34.64",
+          "analysisTime": 124
+        },
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Managed_Solutions_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Cyber_Solutions_0__0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Cyber_Solutions_0__0_desktop.png",
-        "selector": "",
-        "fileName": "backstop_default_Cyber_Solutions_0__0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Cyber_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Cyber_Solutions_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Cyber_Solutions_0_document_0_desktop.png",
         "label": "Cyber Solutions",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.eci.com/cyber-solutions",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/cyber-solutions",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/cyber-solutions",
         "expect": 0,
         "viewportLabel": "desktop",
-        "engineErrorMsg": "Navigation timeout of 60000 ms exceeded",
-        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/eci/backstop_data/bitmaps_reference/backstop_default_Cyber_Solutions_0__0_desktop.png"
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 415
+          },
+          "rawMisMatchPercentage": 34.37710985725309,
+          "misMatchPercentage": "34.38",
+          "analysisTime": 165
+        },
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Cyber_Solutions_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Digital_Solutions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Digital_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Digital_Solutions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Digital_Solutions_0_document_0_desktop.png",
         "label": "Digital Solutions",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.eci.com/digital-solutions",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/digital-solutions",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/digital-solutions",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 366
           },
-          "rawMisMatchPercentage": 0.07406565172986085,
-          "misMatchPercentage": "0.07",
+          "rawMisMatchPercentage": 22.633523453476485,
+          "misMatchPercentage": "22.63",
           "analysisTime": 156
-        }
+        },
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Digital_Solutions_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Resources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Resources_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Resources_0_document_0_desktop.png",
         "label": "Resources",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.eci.com/resources",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/resources",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/resources",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -117,24 +128,79 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.09830035514967021,
-          "misMatchPercentage": "0.10",
-          "analysisTime": 120
-        }
+          "rawMisMatchPercentage": 10.42608472821033,
+          "misMatchPercentage": "10.43",
+          "analysisTime": 110
+        },
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Resources_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Who_ECI_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Who_ECI_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Who_ECI_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Who_ECI_0_document_0_desktop.png",
         "label": "Who ECI",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "http://www.eci.com/who-eci",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/who-eci",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/who-eci",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.16640347055833876,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 118
+        },
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Who_ECI_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Careers_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Careers_0_document_0_desktop.png",
+        "label": "Careers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://www.eci.com/careers",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/careers",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 12
+          },
+          "rawMisMatchPercentage": 15.400791952054796,
+          "misMatchPercentage": "15.40",
+          "analysisTime": 77
+        },
+        "diffImage": "../bitmaps_test/20260811-122433/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260811-122433/backstop_default_Contact_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Contact_0_document_0_desktop.png",
+        "label": "Contact",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://www.eci.com/contact",
+        "referenceUrl": "https://mu-080326-eci-com.pantheonsite.io/contact",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -147,59 +213,6 @@ report({
         }
       },
       "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Careers_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Careers_0_document_0_desktop.png",
-        "label": "Careers",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "http://www.eci.com/careers",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/careers",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.00010192433137638618,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 67
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260623-073713/backstop_default_Contact_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Contact_0_document_0_desktop.png",
-        "label": "Contact",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "http://www.eci.com/contact",
-        "referenceUrl": "https://mu-260621-eci-com.pantheonsite.io/contact",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.24221224920802534,
-          "misMatchPercentage": "0.24",
-          "analysisTime": 71
-        },
-        "diffImage": "../bitmaps_test/20260623-073713/failed_diff_backstop_default_Contact_0_document_0_desktop.png"
-      },
-      "status": "fail"
     }
   ],
   "id": "backstop_default"
