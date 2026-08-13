@@ -4,41 +4,31 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/?cb=1785388982783262",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/?cb=1785388982783262",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/?cb=1786605773842190",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/?cb=1786605773842190",
         "expect": 0,
         "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.7927463957245836,
-          "misMatchPercentage": "0.79",
-          "analysisTime": 187
-        },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-us-proj/backstop_data/bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Terms_of_Use_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Terms_of_Use_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Terms_of_Use_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Terms_of_Use_0_document_0_desktop.png",
         "label": "Terms of Use",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/terms-of-use/?cb=1785389008212235",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/terms-of-use/?cb=1785389008212235",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/terms-of-use/?cb=1786605795801271",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/terms-of-use/?cb=1786605795801271",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -47,7 +37,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.000010208415000653338,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 279
         }
       },
       "status": "pass"
@@ -55,14 +47,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Data_Protection_Policy_Privacy_Notice_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Data_Protection_Policy_Privacy_Notice_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Data_Protection_Policy_Privacy_Notice_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Data_Protection_Policy_Privacy_Notice_0_document_0_desktop.png",
         "label": "Data Protection Policy Privacy Notice",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/data-protection-policy-privacy-notice/?cb=1785389017186386",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/data-protection-policy-privacy-notice/?cb=1785389017186386",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/data-protection-policy-privacy-notice/?cb=1786605812066250",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/data-protection-policy-privacy-notice/?cb=1786605812066250",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -79,14 +71,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Middledam_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Middledam_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Middledam_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Middledam_0_document_0_desktop.png",
         "label": "Middledam",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/middledam/?cb=1785389022062580",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/?cb=1785389022062580",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/middledam/?cb=1786605820162819",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/?cb=1786605820162819",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -97,50 +89,50 @@ report({
           },
           "rawMisMatchPercentage": 7.1961769847799255,
           "misMatchPercentage": "7.20",
-          "analysisTime": 262
+          "analysisTime": 323
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Middledam_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Middledam_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Middledam_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Middledam_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Middledam_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Middledam_Process_Schedules_0_document_0_desktop.png",
         "label": "Middledam Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/middledam/process-schedules/?cb=1785389030124727",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/process-schedules/?cb=1785389030124727",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/middledam/process-schedules/?cb=1786605834275531",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/process-schedules/?cb=1786605834275531",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 107
+            "height": -107
           },
           "rawMisMatchPercentage": 6.742466300451924,
           "misMatchPercentage": "6.74",
-          "analysisTime": 244
+          "analysisTime": 256
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Middledam_Process_Schedules_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Middledam_Process_Schedules_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Middledam_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Middledam_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Middledam_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Middledam_Documents_0_document_0_desktop.png",
         "label": "Middledam Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/middledam/documents/?cb=1785389037355963",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/documents/?cb=1785389037355963",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/middledam/documents/?cb=1786605840150271",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/documents/?cb=1786605840150271",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -149,9 +141,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 161
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -159,14 +149,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Middledam_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Middledam_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Middledam_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Middledam_FAQ_0_document_0_desktop.png",
         "label": "Middledam FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/middledam/faq/?cb=1785389043395401",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/faq/?cb=1785389043395401",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/middledam/faq/?cb=1786605849075364",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/middledam/faq/?cb=1786605849075364",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -183,14 +173,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Canada_Creek_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Canada_Creek_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Canada_Creek_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Canada_Creek_0_document_0_desktop.png",
         "label": "West Canada Creek",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westcanadacreek/?cb=1785389050928607",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/?cb=1785389050928607",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westcanadacreek/?cb=178660589739479",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/?cb=178660589739479",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -207,14 +197,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Canada_Creek_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Canada_Creek_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Canada_Creek_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Canada_Creek_Process_Schedules_0_document_0_desktop.png",
         "label": "West Canada Creek Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westcanadacreek/process-schedules/?cb=178538905651562",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/process-schedules/?cb=178538905651562",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westcanadacreek/process-schedules/?cb=1786605907631478",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/process-schedules/?cb=1786605907631478",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -231,14 +221,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Canada_Creek_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Canada_Creek_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Canada_Creek_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Canada_Creek_Documents_0_document_0_desktop.png",
         "label": "West Canada Creek Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westcanadacreek/documents/?cb=1785389061926124",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/documents/?cb=1785389061926124",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westcanadacreek/documents/?cb=1786605915569634",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/documents/?cb=1786605915569634",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -255,14 +245,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Canada_Creek_Community_Involvement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Canada_Creek_Community_Involvement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Canada_Creek_Community_Involvement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Canada_Creek_Community_Involvement_0_document_0_desktop.png",
         "label": "West Canada Creek Community Involvement",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westcanadacreek/community-involvement/?cb=178538907358471",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/community-involvement/?cb=178538907358471",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westcanadacreek/community-involvement/?cb=1786605927621426",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/community-involvement/?cb=1786605927621426",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -273,7 +263,7 @@ report({
           },
           "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 195
+          "analysisTime": 205
         }
       },
       "status": "pass"
@@ -281,14 +271,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Canada_Creek_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Canada_Creek_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Canada_Creek_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Canada_Creek_FAQ_0_document_0_desktop.png",
         "label": "West Canada Creek FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westcanadacreek/faq/?cb=1785389079571169",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/faq/?cb=1785389079571169",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westcanadacreek/faq/?cb=178660593402651",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westcanadacreek/faq/?cb=178660593402651",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -305,14 +295,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bear_Swamp_Relicensing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Bear_Swamp_Relicensing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Bear_Swamp_Relicensing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bear_Swamp_Relicensing_0_document_0_desktop.png",
         "label": "Bear Swamp Relicensing",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/bearswamprelicensing/?cb=1785389084422646",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/?cb=1785389084422646",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/bearswamprelicensing/?cb=1786605944941117",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/?cb=1786605944941117",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -329,14 +319,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bear_Swamp_Relicensing_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Bear_Swamp_Relicensing_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Bear_Swamp_Relicensing_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bear_Swamp_Relicensing_Process_Schedules_0_document_0_desktop.png",
         "label": "Bear Swamp Relicensing Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/bearswamprelicensing/process-schedules/?cb=1785389094487904",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/process-schedules/?cb=1785389094487904",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/bearswamprelicensing/process-schedules/?cb=1786605966842111",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/process-schedules/?cb=1786605966842111",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -353,14 +343,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bear_Swamp_Relicensing_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Bear_Swamp_Relicensing_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Bear_Swamp_Relicensing_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bear_Swamp_Relicensing_Documents_0_document_0_desktop.png",
         "label": "Bear Swamp Relicensing Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/bearswamprelicensing/documents/?cb=1785389101391130",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/documents/?cb=1785389101391130",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/bearswamprelicensing/documents/?cb=1786605974559102",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/documents/?cb=1786605974559102",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -377,14 +367,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bear_Swamp_Relicensing_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Bear_Swamp_Relicensing_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Bear_Swamp_Relicensing_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bear_Swamp_Relicensing_FAQ_0_document_0_desktop.png",
         "label": "Bear Swamp Relicensing FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/bearswamprelicensing/faq/?cb=1785389112120361",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/faq/?cb=1785389112120361",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/bearswamprelicensing/faq/?cb=178660599257624",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/bearswamprelicensing/faq/?cb=178660599257624",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -401,14 +391,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Altamesa_Repower_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Altamesa_Repower_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Altamesa_Repower_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Altamesa_Repower_0_document_0_desktop.png",
         "label": "Altamesa Repower",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/altamesarepower/?cb=1785389128901235",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/altamesarepower/?cb=1785389128901235",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/altamesarepower/?cb=1786605998270741",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/altamesarepower/?cb=1786605998270741",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -417,9 +407,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 236
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -427,14 +415,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Mesa_Repower_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Mesa_Repower_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Mesa_Repower_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Mesa_Repower_0_document_0_desktop.png",
         "label": "Mesa Repower",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/mesarepower/?cb=1785389140857462",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/mesarepower/?cb=1785389140857462",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/mesarepower/?cb=1786606023865721",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/mesarepower/?cb=1786606023865721",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -451,14 +439,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Mesa_Repower_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Mesa_Repower_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Mesa_Repower_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Mesa_Repower_FAQ_0_document_0_desktop.png",
         "label": "Mesa Repower FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/mesarepower/faq/?cb=178538915434854",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/mesarepower/faq/?cb=178538915434854",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/mesarepower/faq/?cb=178660603811425",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/mesarepower/faq/?cb=178660603811425",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -475,14 +463,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Aziscohos_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Aziscohos_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Aziscohos_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Aziscohos_0_document_0_desktop.png",
         "label": "Aziscohos",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/aziscohos/?cb=1785389161784848",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/?cb=1785389161784848",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/aziscohos/?cb=1786606042639270",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/?cb=1786606042639270",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -499,14 +487,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Aziscohos_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Aziscohos_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Aziscohos_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Aziscohos_Process_Schedules_0_document_0_desktop.png",
         "label": "Aziscohos Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/aziscohos/process-schedules/?cb=1785389171875111",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/process-schedules/?cb=1785389171875111",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/aziscohos/process-schedules/?cb=17866060609755",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/process-schedules/?cb=17866060609755",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -523,40 +511,31 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Aziscohos_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Aziscohos_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Aziscohos_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Aziscohos_Documents_0_document_0_desktop.png",
         "label": "Aziscohos Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/aziscohos/documents/?cb=178538917998685",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/documents/?cb=178538917998685",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/aziscohos/documents/?cb=178660606685974",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/documents/?cb=178660606685974",
         "expect": 0,
         "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 257
-        }
+        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-us-proj/backstop_data/bitmaps_reference/backstop_default_Aziscohos_Documents_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Aziscohos_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Aziscohos_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Aziscohos_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Aziscohos_FAQ_0_document_0_desktop.png",
         "label": "Aziscohos FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/aziscohos/faq/?cb=1785389189495335",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/faq/?cb=1785389189495335",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/aziscohos/faq/?cb=1786606075657697",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/aziscohos/faq/?cb=1786606075657697",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -573,14 +552,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Rumford_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Rumford_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Rumford_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Rumford_0_document_0_desktop.png",
         "label": "Rumford",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/rumford/?cb=1785389197210872",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/?cb=1785389197210872",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/rumford/?cb=1786606083685662",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/?cb=1786606083685662",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -597,14 +576,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Rumford_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Rumford_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Rumford_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Rumford_Process_Schedules_0_document_0_desktop.png",
         "label": "Rumford Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/rumford/process-schedules/?cb=1785389210682420",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/process-schedules/?cb=1785389210682420",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/rumford/process-schedules/?cb=1786606093891315",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/process-schedules/?cb=1786606093891315",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -621,14 +600,67 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Rumford_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Rumford_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Rumford_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Rumford_Documents_0_document_0_desktop.png",
         "label": "Rumford Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/rumford/documents/?cb=1785389217688152",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/documents/?cb=1785389217688152",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/rumford/documents/?cb=1786606126644783",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/documents/?cb=1786606126644783",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 145
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png",
+        "label": "Rumford Community Involvement",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/rumford/community-involvement/?cb=1786606139525981",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/community-involvement/?cb=1786606139525981",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.494887401529855,
+          "misMatchPercentage": "3.49",
+          "analysisTime": 231
+        },
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Rumford_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Rumford_FAQ_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Rumford_FAQ_0_document_0_desktop.png",
+        "label": "Rumford FAQ",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 0.1,
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/rumford/faq/?cb=1786606153999784",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/faq/?cb=1786606153999784",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -644,68 +676,15 @@ report({
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png",
-        "label": "Rumford Community Involvement",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/rumford/community-involvement/?cb=1785389225924919",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/community-involvement/?cb=1785389225924919",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 5.332580536210374,
-          "misMatchPercentage": "5.33",
-          "analysisTime": 224
-        },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Rumford_Community_Involvement_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Rumford_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Rumford_FAQ_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Rumford_FAQ_0_document_0_desktop.png",
-        "label": "Rumford FAQ",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/rumford/faq/?cb=1785389234239465",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/rumford/faq/?cb=1785389234239465",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 196
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
         "reference": "../bitmaps_reference/backstop_default_Barmills_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Barmills_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Barmills_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Barmills_0_document_0_desktop.png",
         "label": "Barmills",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/barmills/?cb=1785389241264103",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/?cb=1785389241264103",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/barmills/?cb=1786606167113184",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/?cb=1786606167113184",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -716,23 +695,23 @@ report({
           },
           "rawMisMatchPercentage": 40.420688782176924,
           "misMatchPercentage": "40.42",
-          "analysisTime": 240
+          "analysisTime": 213
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Barmills_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Barmills_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Barmills_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Barmills_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Barmills_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Barmills_Process_Schedules_0_document_0_desktop.png",
         "label": "Barmills Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/barmills/process-schedules/?cb=1785389252704401",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/process-schedules/?cb=1785389252704401",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/barmills/process-schedules/?cb=1786606195128342",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/process-schedules/?cb=1786606195128342",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -743,23 +722,23 @@ report({
           },
           "rawMisMatchPercentage": 46.61709187728501,
           "misMatchPercentage": "46.62",
-          "analysisTime": 129
+          "analysisTime": 181
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Barmills_Process_Schedules_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Barmills_Process_Schedules_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Barmills_Studies_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Barmills_Studies_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Barmills_Studies_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Barmills_Studies_0_document_0_desktop.png",
         "label": "Barmills Studies",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/barmills/studies/?cb=1785389259710791",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/studies/?cb=1785389259710791",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/barmills/studies/?cb=1786606203264335",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/studies/?cb=1786606203264335",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -768,25 +747,25 @@ report({
             "width": 0,
             "height": 296
           },
-          "rawMisMatchPercentage": 46.054182070240294,
+          "rawMisMatchPercentage": 46.05412430683919,
           "misMatchPercentage": "46.05",
-          "analysisTime": 187
+          "analysisTime": 233
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Barmills_Studies_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Barmills_Studies_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Barmills_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Barmills_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Barmills_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Barmills_Documents_0_document_0_desktop.png",
         "label": "Barmills Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/barmills/documents/?cb=1785389268625577",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/documents/?cb=1785389268625577",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/barmills/documents/?cb=1786606218362657",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/documents/?cb=1786606218362657",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -797,23 +776,23 @@ report({
           },
           "rawMisMatchPercentage": 39.38213612681521,
           "misMatchPercentage": "39.38",
-          "analysisTime": 249
+          "analysisTime": 169
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Barmills_Documents_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Barmills_Documents_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Barmills_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Barmills_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Barmills_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Barmills_FAQ_0_document_0_desktop.png",
         "label": "Barmills FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/barmills/faq/?cb=178538927695797",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/faq/?cb=178538927695797",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/barmills/faq/?cb=1786606228224188",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/barmills/faq/?cb=1786606228224188",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -822,25 +801,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 12.60318396226415,
+          "rawMisMatchPercentage": 12.603451257861636,
           "misMatchPercentage": "12.60",
-          "analysisTime": 176
+          "analysisTime": 181
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Barmills_FAQ_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Barmills_FAQ_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Branch_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Branch_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Branch_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Branch_0_document_0_desktop.png",
         "label": "West Branch",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westbranch/?cb=178538928387530",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/?cb=178538928387530",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westbranch/?cb=1786606238340633",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/?cb=1786606238340633",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -857,14 +836,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Branch_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Branch_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Branch_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Branch_Process_Schedules_0_document_0_desktop.png",
         "label": "West Branch Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westbranch/process-schedules/?cb=1785389289678616",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/process-schedules/?cb=1785389289678616",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westbranch/process-schedules/?cb=1786606246478439",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/process-schedules/?cb=1786606246478439",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -881,14 +860,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Branch_Community_Updates_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Branch_Community_Updates_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Branch_Community_Updates_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Branch_Community_Updates_0_document_0_desktop.png",
         "label": "West Branch Community Updates",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westbranch/community-updates/?cb=1785389296711872",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/community-updates/?cb=1785389296711872",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westbranch/community-updates/?cb=1786606253308927",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/community-updates/?cb=1786606253308927",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -897,42 +876,46 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 254
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_West_Branch_Documents_0__0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Branch_Documents_0__0_desktop.png",
-        "selector": "",
-        "fileName": "backstop_default_West_Branch_Documents_0__0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_West_Branch_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Branch_Documents_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_West_Branch_Documents_0_document_0_desktop.png",
         "label": "West Branch Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westbranch/documents/?cb=1785389304835799",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/documents/?cb=1785389304835799",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westbranch/documents/?cb=1786606261639702",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/documents/?cb=1786606261639702",
         "expect": 0,
         "viewportLabel": "desktop",
-        "engineErrorMsg": "Navigation timeout of 60000 ms exceeded",
-        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-us-proj/backstop_data/bitmaps_reference/backstop_default_West_Branch_Documents_0__0_desktop.png"
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_West_Branch_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_West_Branch_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_West_Branch_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_West_Branch_FAQ_0_document_0_desktop.png",
         "label": "West Branch FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/westbranch/faq/?cb=1785389367480448",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/faq/?cb=1785389367480448",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/westbranch/faq/?cb=1786606268964143",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/westbranch/faq/?cb=1786606268964143",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -949,14 +932,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lewiston_Falls_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Lewiston_Falls_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Lewiston_Falls_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lewiston_Falls_0_document_0_desktop.png",
         "label": "Lewiston Falls",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/lewistonfalls/?cb=1785389372800983",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/?cb=1785389372800983",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/lewistonfalls/?cb=178660628056247",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/?cb=178660628056247",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -965,9 +948,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 231
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -975,14 +956,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lewiston_Falls_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Lewiston_Falls_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Lewiston_Falls_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lewiston_Falls_Process_Schedules_0_document_0_desktop.png",
         "label": "Lewiston Falls Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/lewistonfalls/process-schedules/?cb=17853893809572",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/process-schedules/?cb=17853893809572",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/lewistonfalls/process-schedules/?cb=1786606294266753",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/process-schedules/?cb=1786606294266753",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -991,9 +972,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 146
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -1001,14 +980,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lewiston_Falls_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Lewiston_Falls_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Lewiston_Falls_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lewiston_Falls_Documents_0_document_0_desktop.png",
         "label": "Lewiston Falls Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/lewistonfalls/documents/?cb=1785389393989926",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/documents/?cb=1785389393989926",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/lewistonfalls/documents/?cb=1786606299594323",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/documents/?cb=1786606299594323",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1025,14 +1004,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Lewiston_Falls_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Lewiston_Falls_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Lewiston_Falls_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Lewiston_Falls_FAQ_0_document_0_desktop.png",
         "label": "Lewiston Falls FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/lewistonfalls/faq/?cb=1785389399904760",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/faq/?cb=1785389399904760",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/lewistonfalls/faq/?cb=1786606307137409",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/lewistonfalls/faq/?cb=1786606307137409",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1049,14 +1028,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Goose_Prairie_Solar_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Goose_Prairie_Solar_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Goose_Prairie_Solar_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Goose_Prairie_Solar_0_document_0_desktop.png",
         "label": "Goose Prairie Solar",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/gooseprairiesolar/?cb=1785389413346117",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/gooseprairiesolar/?cb=1785389413346117",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/gooseprairiesolar/?cb=1786606314857901",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/gooseprairiesolar/?cb=1786606314857901",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1065,9 +1044,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 232
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -1075,14 +1052,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Holtwood_Relicensing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Holtwood_Relicensing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Holtwood_Relicensing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Holtwood_Relicensing_0_document_0_desktop.png",
         "label": "Holtwood Relicensing",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/holtwoodrelicensing/?cb=178538941802931",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/?cb=178538941802931",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/holtwoodrelicensing/?cb=1786606327562972",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/?cb=1786606327562972",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1093,23 +1070,23 @@ report({
           },
           "rawMisMatchPercentage": 19.92911036036036,
           "misMatchPercentage": "19.93",
-          "analysisTime": 293
+          "analysisTime": 199
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Holtwood_Relicensing_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Holtwood_Relicensing_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Holtwood_Relicensing_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Holtwood_Relicensing_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Holtwood_Relicensing_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Holtwood_Relicensing_Process_Schedules_0_document_0_desktop.png",
         "label": "Holtwood Relicensing Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/holtwoodrelicensing/process-schedules/?cb=1785389426148785",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/process-schedules/?cb=1785389426148785",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/holtwoodrelicensing/process-schedules/?cb=1786606341891110",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/process-schedules/?cb=1786606341891110",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1118,9 +1095,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 203
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -1128,14 +1103,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Holtwood_Relicensing_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Holtwood_Relicensing_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Holtwood_Relicensing_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Holtwood_Relicensing_Documents_0_document_0_desktop.png",
         "label": "Holtwood Relicensing Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/holtwoodrelicensing/documents/?cb=1785389434351664",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/documents/?cb=1785389434351664",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/holtwoodrelicensing/documents/?cb=1786606347684216",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/documents/?cb=1786606347684216",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1152,14 +1127,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Holtwood_Relicensing_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Holtwood_Relicensing_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Holtwood_Relicensing_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Holtwood_Relicensing_FAQ_0_document_0_desktop.png",
         "label": "Holtwood Relicensing FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/holtwoodrelicensing/faq/?cb=1785389441919255",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/faq/?cb=1785389441919255",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/holtwoodrelicensing/faq/?cb=1786606354361818",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/holtwoodrelicensing/faq/?cb=1786606354361818",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1170,7 +1145,7 @@ report({
           },
           "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 372
+          "analysisTime": 163
         }
       },
       "status": "pass"
@@ -1178,14 +1153,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Safe_Harbor_Relicensing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Safe_Harbor_Relicensing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Safe_Harbor_Relicensing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Safe_Harbor_Relicensing_0_document_0_desktop.png",
         "label": "Safe Harbor Relicensing",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/safeharborrelicensing/?cb=1785389452489193",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/?cb=1785389452489193",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/safeharborrelicensing/?cb=1786606360130308",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/?cb=1786606360130308",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1196,23 +1171,23 @@ report({
           },
           "rawMisMatchPercentage": 19.42930445127093,
           "misMatchPercentage": "19.43",
-          "analysisTime": 247
+          "analysisTime": 253
         },
-        "diffImage": "../bitmaps_test/20260730-132302/failed_diff_backstop_default_Safe_Harbor_Relicensing_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260813-152252/failed_diff_backstop_default_Safe_Harbor_Relicensing_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Safe_Harbor_Relicensing_Process_Schedules_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Safe_Harbor_Relicensing_Process_Schedules_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Safe_Harbor_Relicensing_Process_Schedules_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Safe_Harbor_Relicensing_Process_Schedules_0_document_0_desktop.png",
         "label": "Safe Harbor Relicensing Process Schedules",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/safeharborrelicensing/process-schedules/?cb=1785389462554562",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/process-schedules/?cb=1785389462554562",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/safeharborrelicensing/process-schedules/?cb=1786606367160248",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/process-schedules/?cb=1786606367160248",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1221,7 +1196,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 223
         }
       },
       "status": "pass"
@@ -1229,14 +1206,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Safe_Harbor_Relicensing_Documents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Safe_Harbor_Relicensing_Documents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Safe_Harbor_Relicensing_Documents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Safe_Harbor_Relicensing_Documents_0_document_0_desktop.png",
         "label": "Safe Harbor Relicensing Documents",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/safeharborrelicensing/documents/?cb=1785389468747736",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/documents/?cb=1785389468747736",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/safeharborrelicensing/documents/?cb=1786606376311774",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/documents/?cb=1786606376311774",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1253,14 +1230,14 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Safe_Harbor_Relicensing_FAQ_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260730-132302/backstop_default_Safe_Harbor_Relicensing_FAQ_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260813-152252/backstop_default_Safe_Harbor_Relicensing_FAQ_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Safe_Harbor_Relicensing_FAQ_0_document_0_desktop.png",
         "label": "Safe Harbor Relicensing FAQ",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-073026-brookfield-projects.pantheonsite.io/safeharborrelicensing/faq/?cb=1785389473966867",
-        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/faq/?cb=1785389473966867",
+        "url": "https://mu-081326-brookfield-projects.pantheonsite.io/safeharborrelicensing/faq/?cb=178660638236483",
+        "referenceUrl": "https://dev-brookfield-projects.pantheonsite.io/safeharborrelicensing/faq/?cb=178660638236483",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -1269,7 +1246,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 218
         }
       },
       "status": "pass"
