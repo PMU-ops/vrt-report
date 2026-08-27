@@ -12,17 +12,17 @@
     "scenarios": [
   {
     "label": "Home",
-    "url": "https://www.oberlin.edu/",
+    "url": "https://law.onu.edu/",
     "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/"
   },
   {
     "label": "Visit",
-    "url": "https://www.oberlin.edu/visit",
+    "url": "https://law.onu.edu/visit",
     "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/visit"
   },
   {
     "label": "Apply",
-    "url": "https://www.oberlin.edu/admissions-aid/apply",
+    "url": "https://law.onu.edu/admissions-aid/apply",
     "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/admissions-aid/apply"
   }
     ],

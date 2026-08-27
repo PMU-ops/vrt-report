@@ -4,83 +4,76 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260619-101443/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260828-063656/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.oberlin.edu/",
+        "url": "https://law.onu.edu/",
         "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 52
+            "height": 0
           },
-          "rawMisMatchPercentage": 68.79404673590504,
-          "misMatchPercentage": "68.79",
-          "analysisTime": 159
-        },
-        "diffImage": "../bitmaps_test/20260619-101443/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Visit_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260619-101443/backstop_default_Visit_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260828-063656/backstop_default_Visit_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Visit_0_document_0_desktop.png",
         "label": "Visit",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.oberlin.edu/visit",
+        "url": "https://law.onu.edu/visit",
         "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/visit",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -886
+            "height": 0
           },
-          "rawMisMatchPercentage": 57.894478341426016,
-          "misMatchPercentage": "57.89",
-          "analysisTime": 109
-        },
-        "diffImage": "../bitmaps_test/20260619-101443/failed_diff_backstop_default_Visit_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 105
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Apply_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260619-101443/backstop_default_Apply_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260828-063656/backstop_default_Apply_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Apply_0_document_0_desktop.png",
         "label": "Apply",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
-        "url": "https://www.oberlin.edu/admissions-aid/apply",
+        "url": "https://law.onu.edu/admissions-aid/apply",
         "referenceUrl": "https://autopilot-onu-law-drupal-9.pantheonsite.io/admissions-aid/apply",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -4616
+            "height": 0
           },
-          "rawMisMatchPercentage": 20.385012425663064,
-          "misMatchPercentage": "20.39",
-          "analysisTime": 174
-        },
-        "diffImage": "../bitmaps_test/20260619-101443/failed_diff_backstop_default_Apply_0_document_0_desktop.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ],
   "id": "backstop_default"
