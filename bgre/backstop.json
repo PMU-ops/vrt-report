@@ -12,43 +12,43 @@
   "scenarios": [
     {
       "label": "Homepage",
-      "url": "https://mu-080726-bgre.pantheonsite.io/",
+      "url": "https://autopilot-bgre.pantheonsite.io/",
       "referenceUrl": "https://www.bgre.com/",
       "delay": 1000
     },
     {
       "label": "About Us",
-      "url": "https://mu-080726-bgre.pantheonsite.io/about-us",
+      "url": "https://autopilot-bgre.pantheonsite.io/about-us",
       "referenceUrl": "https://www.bgre.com/about-us",
       "delay": 1000
     },
     {
       "label": "Careers",
-      "url": "https://mu-080726-bgre.pantheonsite.io/careers",
+      "url": "https://autopilot-bgre.pantheonsite.io/careers",
       "referenceUrl": "https://www.bgre.com/careers",
       "delay": 1000
     },
     {
       "label": "Leadership",
-      "url": "https://mu-080726-bgre.pantheonsite.io/leadership",
+      "url": "https://autopilot-bgre.pantheonsite.io/leadership",
       "referenceUrl": "https://www.bgre.com/leadership",
       "delay": 1000
     },
     {
       "label": "Leadership - Alireza Esmaeilzadeh",
-      "url": "https://mu-080726-bgre.pantheonsite.io/leadership/alireza-esmaeilzadeh",
+      "url": "https://autopilot-bgre.pantheonsite.io/leadership/alireza-esmaeilzadeh",
       "referenceUrl": "https://www.bgre.com/leadership/alireza-esmaeilzadeh",
       "delay": 1000
     },
     {
       "label": "Contact",
-      "url": "https://mu-080726-bgre.pantheonsite.io/contact",
+      "url": "https://autopilot-bgre.pantheonsite.io/contact",
       "referenceUrl": "https://www.bgre.com/contact",
       "delay": 1000
     },
     {
       "label": "Terms",
-      "url": "https://mu-080726-bgre.pantheonsite.io/terms",
+      "url": "https://autopilot-bgre.pantheonsite.io/terms",
       "referenceUrl": "https://www.bgre.com/terms",
       "delay": 1000
     }
