@@ -4,13 +4,13 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/",
+        "url": "https://autopilot-bgre.pantheonsite.io/",
         "referenceUrl": "https://www.bgre.com/",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -20,24 +20,24 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.43523953994925557,
-          "misMatchPercentage": "0.44",
-          "analysisTime": 184
+          "rawMisMatchPercentage": 0.6978852506103691,
+          "misMatchPercentage": "0.70",
+          "analysisTime": 174
         },
-        "diffImage": "../bitmaps_test/20260810-161241/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260904-170523/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_About_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_About_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_About_Us_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_About_Us_0_document_0_desktop.png",
         "label": "About Us",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/about-us",
+        "url": "https://autopilot-bgre.pantheonsite.io/about-us",
         "referenceUrl": "https://www.bgre.com/about-us",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -47,24 +47,24 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.009795769026078,
-          "misMatchPercentage": "3.01",
-          "analysisTime": 289
+          "rawMisMatchPercentage": 3.7496452013482346,
+          "misMatchPercentage": "3.75",
+          "analysisTime": 240
         },
-        "diffImage": "../bitmaps_test/20260810-161241/failed_diff_backstop_default_About_Us_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260904-170523/failed_diff_backstop_default_About_Us_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_Careers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Careers_0_document_0_desktop.png",
         "label": "Careers",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/careers",
+        "url": "https://autopilot-bgre.pantheonsite.io/careers",
         "referenceUrl": "https://www.bgre.com/careers",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -74,7 +74,9 @@
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.00005428174396387007,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 148
         }
       },
       "status": "pass"
@@ -82,13 +84,13 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_Leadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
         "label": "Leadership",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/leadership",
+        "url": "https://autopilot-bgre.pantheonsite.io/leadership",
         "referenceUrl": "https://www.bgre.com/leadership",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -106,13 +108,13 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Leadership_-_Alireza_Esmaeilzadeh_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_Leadership_-_Alireza_Esmaeilzadeh_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_Leadership_-_Alireza_Esmaeilzadeh_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Leadership_-_Alireza_Esmaeilzadeh_0_document_0_desktop.png",
         "label": "Leadership - Alireza Esmaeilzadeh",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/leadership/alireza-esmaeilzadeh",
+        "url": "https://autopilot-bgre.pantheonsite.io/leadership/alireza-esmaeilzadeh",
         "referenceUrl": "https://www.bgre.com/leadership/alireza-esmaeilzadeh",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -130,13 +132,13 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Contact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_Contact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_Contact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Contact_0_document_0_desktop.png",
         "label": "Contact",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/contact",
+        "url": "https://autopilot-bgre.pantheonsite.io/contact",
         "referenceUrl": "https://www.bgre.com/contact",
         "expect": 0,
         "viewportLabel": "desktop",
@@ -146,9 +148,7 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.01905460450760838,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 137
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -156,13 +156,13 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Terms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260810-161241/backstop_default_Terms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260904-170523/backstop_default_Terms_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Terms_0_document_0_desktop.png",
         "label": "Terms",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
-        "url": "https://mu-080726-bgre.pantheonsite.io/terms",
+        "url": "https://autopilot-bgre.pantheonsite.io/terms",
         "referenceUrl": "https://www.bgre.com/terms",
         "expect": 0,
         "viewportLabel": "desktop",
