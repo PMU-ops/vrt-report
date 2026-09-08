@@ -1,0 +1,77 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desktop",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+        "label": "Homepage",
+        "url": "https://www.beaconhealthsystem.org/",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/"
+      },
+      {
+        "label": "About Us",
+        "url": "https://www.beaconhealthsystem.org/about-us",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/about-us"
+      },
+      {
+        "label": "Services",
+        "url": "https://www.beaconhealthsystem.org/services",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/services"
+      },
+      {
+        "label": "Family Medicine",
+        "url": "https://www.beaconhealthsystem.org/services/family-medicine/",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/services/family-medicine/"
+      },
+      {
+        "label": "Pediatrics",
+        "url": "https://www.beaconhealthsystem.org/pediatrics",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/pediatrics"
+      },
+      {
+        "label": "Cancer Care",
+        "url": "https://www.beaconhealthsystem.org/cancer-care",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/cancer-care"
+      },
+      {
+        "label": "Bone and Joint Care",
+        "url": "https://www.beaconhealthsystem.org/bone-and-joint-care",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/bone-and-joint-care"
+      },
+      {
+        "label": "Beacon Connected Care",
+        "url": "https://www.beaconhealthsystem.org/beacon-connected-care",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/beacon-connected-care"
+      },
+      {
+        "label": "Heart Vascular Stroke Care",
+        "url": "https://www.beaconhealthsystem.org/heart-vascular-stroke-care",
+        "referenceUrl": "https://mu-090726-bhs-prime.pantheonsite.io/heart-vascular-stroke-care"
+      }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"]
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "requireSameDimensions": false,
+    "debug": false,
+    "debugWindow": false
+  }
