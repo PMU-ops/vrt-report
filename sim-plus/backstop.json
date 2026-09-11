@@ -1,0 +1,126 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desktop",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+        "label": "Homepage",
+        "url": "https://www.simulations-plus.com/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/"
+      },
+      {
+        "label": "Home",
+        "url": "https://www.simulations-plus.com/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/"
+      },
+      {
+        "label": "Software GastroPlus",
+        "url": "https://www.simulations-plus.com/software/gastroplus/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/software/gastroplus/"
+      },
+      {
+        "label": "Resource Center",
+        "url": "https://www.simulations-plus.com/resource-center/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/resource-center/"
+      },
+      {
+        "label": "Resource Predicting PK of Multisource Acyclovir Oral Products Through PBBM Modeling",
+        "url": "https://www.simulations-plus.com/resource/predicting-pk-of-multisource-acyclovir-oral-products-through-pbbm-modeling/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/resource/predicting-pk-of-multisource-acyclovir-oral-products-through-pbbm-modeling/"
+      },
+      {
+        "label": "Calendar Events",
+        "url": "https://www.simulations-plus.com/calendar-events/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/calendar-events/"
+      },
+      {
+        "label": "Webinars",
+        "url": "https://www.simulations-plus.com/webinars/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/webinars/"
+      },
+      {
+        "label": "Investors Corporate Profile",
+        "url": "https://www.simulations-plus.com/investorscorporate-profile/corporate-profile/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/investorscorporate-profile/corporate-profile/"
+      },
+      {
+        "label": "About",
+        "url": "https://www.simulations-plus.com/about/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/about/"
+      },
+      {
+        "label": "About Simulations Plus Team",
+        "url": "https://www.simulations-plus.com/about/simulations-plus-team/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/about/simulations-plus-team/"
+      },
+      {
+        "label": "Software SLP University Program",
+        "url": "https://www.simulations-plus.com/software/slp-university-program/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/software/slp-university-program/"
+      },
+      {
+        "label": "About Partners and Collaborators",
+        "url": "https://www.simulations-plus.com/about/partners-and-collaborators/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/about/partners-and-collaborators/"
+      },
+      {
+        "label": "COVID-19",
+        "url": "https://www.simulations-plus.com/covid-19/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/covid-19/"
+      },
+      {
+        "label": "Software MedChem Designer",
+        "url": "https://www.simulations-plus.com/software/medchem-designer/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/software/medchem-designer/"
+      },
+      {
+        "label": "Software Monolix",
+        "url": "https://www.simulations-plus.com/software/monolix/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/software/monolix/"
+      },
+      {
+        "label": "Software Concierge Program",
+        "url": "https://www.simulations-plus.com/software/concierge-program/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/software/concierge-program/"
+      },
+      {
+        "label": "Workshops",
+        "url": "https://www.simulations-plus.com/workshops/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/workshops/"
+      },
+      {
+        "label": "Software Evaluation Request Form",
+        "url": "https://www.simulations-plus.com/software-evaluation-request-form/",
+        "referenceUrl": "https://mu-091026-simulations-plus-2022.pantheonsite.io/software-evaluation-request-form/"
+      }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"],
+      "gotoParameters": {
+        "waitUntil": "domcontentloaded",
+        "timeout": 60000
+      }
+    },
+    "asyncCaptureLimit": 5,
+    "asyncCompareLimit": 50,
+    "requireSameDimensions": false,
+    "debug": false,
+    "debugWindow": false
+  }
