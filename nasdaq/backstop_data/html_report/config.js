@@ -4,41 +4,41 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 97
           },
-          "rawMisMatchPercentage": 11.860321099616597,
-          "misMatchPercentage": "11.86",
-          "analysisTime": 640
+          "rawMisMatchPercentage": 11.105260402517432,
+          "misMatchPercentage": "11.11",
+          "analysisTime": 583
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Who_We_Serve_-_Private_Companies_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Who_We_Serve_-_Private_Companies_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Who_We_Serve_-_Private_Companies_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Who_We_Serve_-_Private_Companies_0_document_0_desktop.png",
         "label": "Who We Serve - Private Companies",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/who-we-serve/private-companies/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/who-we-serve/private-companies/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/who-we-serve/private-companies/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -47,25 +47,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 8.99772689004883,
-          "misMatchPercentage": "9.00",
-          "analysisTime": 421
+          "rawMisMatchPercentage": 2.831560907750067,
+          "misMatchPercentage": "2.83",
+          "analysisTime": 544
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Who_We_Serve_-_Private_Companies_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Who_We_Serve_-_Private_Companies_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Who_We_Serve_-_Investors_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Who_We_Serve_-_Investors_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Who_We_Serve_-_Investors_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Who_We_Serve_-_Investors_0_document_0_desktop.png",
         "label": "Who We Serve - Investors",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/who-we-serve/investors/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/who-we-serve/investors/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/who-we-serve/investors/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -74,25 +74,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 7.904033277372545,
-          "misMatchPercentage": "7.90",
-          "analysisTime": 582
+          "rawMisMatchPercentage": 5.504382791092586,
+          "misMatchPercentage": "5.50",
+          "analysisTime": 616
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Who_We_Serve_-_Investors_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Who_We_Serve_-_Investors_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Who_We_Serve_-_Banks__Brokers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Who_We_Serve_-_Banks__Brokers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Who_We_Serve_-_Banks__Brokers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Who_We_Serve_-_Banks__Brokers_0_document_0_desktop.png",
         "label": "Who We Serve - Banks & Brokers",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/who-we-serve/banks-brokers/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/who-we-serve/banks-brokers/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/who-we-serve/banks-brokers/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -101,25 +101,25 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.3525891513256918,
-          "misMatchPercentage": "0.35",
-          "analysisTime": 531
+          "rawMisMatchPercentage": 6.135132641542202,
+          "misMatchPercentage": "6.14",
+          "analysisTime": 655
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Who_We_Serve_-_Banks__Brokers_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Who_We_Serve_-_Banks__Brokers_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Who_We_Serve_-_Law_Firms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Who_We_Serve_-_Law_Firms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Who_We_Serve_-_Law_Firms_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Who_We_Serve_-_Law_Firms_0_document_0_desktop.png",
         "label": "Who We Serve - Law Firms",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/who-we-serve/law-firms/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/who-we-serve/law-firms/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/who-we-serve/law-firms/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -128,241 +128,241 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 8.545923271811727,
-          "misMatchPercentage": "8.55",
-          "analysisTime": 594
+          "rawMisMatchPercentage": 6.473963929797947,
+          "misMatchPercentage": "6.47",
+          "analysisTime": 512
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Who_We_Serve_-_Law_Firms_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Who_We_Serve_-_Law_Firms_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Product_-_Employee_Liquidity_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Product_-_Employee_Liquidity_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Product_-_Employee_Liquidity_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Product_-_Employee_Liquidity_0_document_0_desktop.png",
         "label": "Product - Employee Liquidity",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/product/employee-liquidity/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/product/employee-liquidity/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 8.127639358108107,
-          "misMatchPercentage": "8.13",
-          "analysisTime": 128
-        },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Product_-_Employee_Liquidity_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png",
-        "label": "Product - Pre-Direct Listing Solutions",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nasdaqprivatemarket.com/product/pre-direct-listing-solutions/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/product/pre-direct-listing-solutions/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 5.33763988597973,
-          "misMatchPercentage": "5.34",
-          "analysisTime": 151
-        },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png",
-        "label": "Product - Tender Offers",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nasdaqprivatemarket.com/product/tender-offers/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/product/tender-offers/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 3.206028293918919,
-          "misMatchPercentage": "3.21",
-          "analysisTime": 167
-        },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_About_Us_-_Insights_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_About_Us_-_Insights_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_About_Us_-_Insights_0_document_0_desktop.png",
-        "label": "About Us - Insights",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nasdaqprivatemarket.com/about-us/insights/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/about-us/insights/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 7.622917855331559,
-          "misMatchPercentage": "7.62",
-          "analysisTime": 196
-        },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_About_Us_-_Insights_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png",
-        "label": "About Us - About Nasdaq Private Market",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nasdaqprivatemarket.com/about-us/about-nasdaq-private-market/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/about-us/about-nasdaq-private-market/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.3192746508405353,
-          "misMatchPercentage": "0.32",
-          "analysisTime": 360
-        },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Careers_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Careers_0_document_0_desktop.png",
-        "label": "Careers",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nasdaqprivatemarket.com/careers/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/careers/",
-        "expect": 0,
-        "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 12.125247696127586,
-          "misMatchPercentage": "12.13",
-          "analysisTime": 364
-        },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png",
-        "label": "About Us - Contact Us",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.1,
-        "url": "https://www.nasdaqprivatemarket.com/about-us/contact-us-3/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/about-us/contact-us-3/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/product/employee-liquidity/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 24
+            "height": -65
           },
-          "rawMisMatchPercentage": 17.81766693651261,
-          "misMatchPercentage": "17.82",
-          "analysisTime": 298
+          "rawMisMatchPercentage": 13.239420639813673,
+          "misMatchPercentage": "13.24",
+          "analysisTime": 295
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Product_-_Employee_Liquidity_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png",
+        "label": "Product - Pre-Direct Listing Solutions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nasdaqprivatemarket.com/product/pre-direct-listing-solutions/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/product/pre-direct-listing-solutions/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -65
+          },
+          "rawMisMatchPercentage": 10.012951260446638,
+          "misMatchPercentage": "10.01",
+          "analysisTime": 145
+        },
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Product_-_Pre-Direct_Listing_Solutions_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png",
+        "label": "Product - Tender Offers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nasdaqprivatemarket.com/product/tender-offers/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/product/tender-offers/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -65
+          },
+          "rawMisMatchPercentage": 9.219905980271271,
+          "misMatchPercentage": "9.22",
+          "analysisTime": 252
+        },
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Product_-_Tender_Offers_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_About_Us_-_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_About_Us_-_Insights_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_About_Us_-_Insights_0_document_0_desktop.png",
+        "label": "About Us - Insights",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nasdaqprivatemarket.com/about-us/insights/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/about-us/insights/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1289
+          },
+          "rawMisMatchPercentage": 5.90190226203989,
+          "misMatchPercentage": "5.90",
+          "analysisTime": 411
+        },
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_About_Us_-_Insights_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png",
+        "label": "About Us - About Nasdaq Private Market",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nasdaqprivatemarket.com/about-us/about-nasdaq-private-market/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/about-us/about-nasdaq-private-market/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.43519582102614596,
+          "misMatchPercentage": "0.44",
+          "analysisTime": 402
+        },
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_About_Us_-_About_Nasdaq_Private_Market_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Careers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Careers_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Careers_0_document_0_desktop.png",
+        "label": "Careers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nasdaqprivatemarket.com/careers/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/careers/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 12.658122642410351,
+          "misMatchPercentage": "12.66",
+          "analysisTime": 478
+        },
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Careers_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png",
+        "label": "About Us - Contact Us",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "https://www.nasdaqprivatemarket.com/about-us/contact-us-3/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/about-us/contact-us-3/",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -576
+          },
+          "rawMisMatchPercentage": 33.49499006494136,
+          "misMatchPercentage": "33.49",
+          "analysisTime": 299
+        },
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_About_Us_-_Contact_Us_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Product_-_Option_Extensions_RSU_Liquidity_701_Disclosures_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Product_-_Option_Extensions_RSU_Liquidity_701_Disclosures_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Product_-_Option_Extensions_RSU_Liquidity_701_Disclosures_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Product_-_Option_Extensions_RSU_Liquidity_701_Disclosures_0_document_0_desktop.png",
         "label": "Product - Option Extensions RSU Liquidity 701 Disclosures",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/product/option-extensions-rsu-liquidity-701-disclosures/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/product/option-extensions-rsu-liquidity-701-disclosures/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/product/option-extensions-rsu-liquidity-701-disclosures/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -65
           },
-          "rawMisMatchPercentage": 2.4530414203265765,
-          "misMatchPercentage": "2.45",
-          "analysisTime": 147
+          "rawMisMatchPercentage": 6.428277846280313,
+          "misMatchPercentage": "6.43",
+          "analysisTime": 156
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Product_-_Option_Extensions_RSU_Liquidity_701_Disclosures_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Product_-_Option_Extensions_RSU_Liquidity_701_Disclosures_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Product_-_Transfer__Settlement_Solutions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Product_-_Transfer__Settlement_Solutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Product_-_Transfer__Settlement_Solutions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Product_-_Transfer__Settlement_Solutions_0_document_0_desktop.png",
         "label": "Product - Transfer & Settlement Solutions",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/product/transfer-settlement-solutions/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/product/transfer-settlement-solutions/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/product/transfer-settlement-solutions/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
@@ -371,38 +371,38 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.1525590887940001,
-          "misMatchPercentage": "0.15",
-          "analysisTime": 385
+          "rawMisMatchPercentage": 5.209073226309739,
+          "misMatchPercentage": "5.21",
+          "analysisTime": 521
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Product_-_Transfer__Settlement_Solutions_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Product_-_Transfer__Settlement_Solutions_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Product_-_Auctions__Capital_Introduction_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260824-174916/backstop_default_Product_-_Auctions__Capital_Introduction_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260918-104905/backstop_default_Product_-_Auctions__Capital_Introduction_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Product_-_Auctions__Capital_Introduction_0_document_0_desktop.png",
         "label": "Product - Auctions & Capital Introduction",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "url": "https://www.nasdaqprivatemarket.com/product/auctions-capital-introduction/",
-        "referenceUrl": "https://mu-082426-npm-2-0.pantheonsite.io/product/auctions-capital-introduction/",
+        "referenceUrl": "https://mu-091726-npm-2-0.pantheonsite.io/product/auctions-capital-introduction/",
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -65
           },
-          "rawMisMatchPercentage": 0.7119668496621622,
-          "misMatchPercentage": "0.71",
-          "analysisTime": 188
+          "rawMisMatchPercentage": 13.103914063570352,
+          "misMatchPercentage": "13.10",
+          "analysisTime": 265
         },
-        "diffImage": "../bitmaps_test/20260824-174916/failed_diff_backstop_default_Product_-_Auctions__Capital_Introduction_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260918-104905/failed_diff_backstop_default_Product_-_Auctions__Capital_Introduction_0_document_0_desktop.png"
       },
       "status": "fail"
     }
