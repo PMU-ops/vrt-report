@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
@@ -20,18 +20,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.7793619598536536,
-          "misMatchPercentage": "1.78",
-          "analysisTime": 325
+          "rawMisMatchPercentage": 8.974978575430963,
+          "misMatchPercentage": "8.97",
+          "analysisTime": 388
         },
-        "diffImage": "../bitmaps_test/20260805-120158/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Homepage_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Who_We_Are_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Who_We_Are_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Who_We_Are_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Who_We_Are_0_document_0_desktop.png",
         "label": "Who We Are",
@@ -47,17 +47,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.023963753975137322,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 430
-        }
+          "rawMisMatchPercentage": 5.63563800954033,
+          "misMatchPercentage": "5.64",
+          "analysisTime": 442
+        },
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Who_We_Are_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Global_Presence_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Global_Presence_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Global_Presence_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Global_Presence_0_document_0_desktop.png",
         "label": "Global Presence",
@@ -75,7 +76,7 @@ report({
           },
           "rawMisMatchPercentage": 0.051964110529758016,
           "misMatchPercentage": "0.05",
-          "analysisTime": 252
+          "analysisTime": 228
         }
       },
       "status": "pass"
@@ -83,7 +84,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Ecosystem_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Ecosystem_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Ecosystem_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Ecosystem_0_document_0_desktop.png",
         "label": "Ecosystem",
@@ -101,7 +102,7 @@ report({
           },
           "rawMisMatchPercentage": 0.001709853534991518,
           "misMatchPercentage": "0.00",
-          "analysisTime": 460
+          "analysisTime": 546
         }
       },
       "status": "pass"
@@ -109,7 +110,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Leadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
         "label": "Leadership",
@@ -125,18 +126,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.5331507603041217,
-          "misMatchPercentage": "0.53",
-          "analysisTime": 718
-        },
-        "diffImage": "../bitmaps_test/20260805-120158/failed_diff_backstop_default_Leadership_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.03232543017206883,
+          "misMatchPercentage": "0.03",
+          "analysisTime": 471
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Asset_Management_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Asset_Management_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Asset_Management_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Asset_Management_0_document_0_desktop.png",
         "label": "Asset Management",
@@ -152,17 +152,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.025084088706459156,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 509
-        }
+          "rawMisMatchPercentage": 6.266844464397697,
+          "misMatchPercentage": "6.27",
+          "analysisTime": 403
+        },
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Asset_Management_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Infrastructure_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Infrastructure_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Infrastructure_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Infrastructure_0_document_0_desktop.png",
         "label": "Infrastructure",
@@ -178,18 +179,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 17.970481652926072,
-          "misMatchPercentage": "17.97",
-          "analysisTime": 317
-        },
-        "diffImage": "../bitmaps_test/20260805-120158/failed_diff_backstop_default_Infrastructure_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.020573309559731173,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 510
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Institutions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Institutions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Institutions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Institutions_0_document_0_desktop.png",
         "label": "Institutions",
@@ -205,17 +205,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04322645155491642,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 879
-        }
+          "rawMisMatchPercentage": 4.778994459418988,
+          "misMatchPercentage": "4.78",
+          "analysisTime": 385
+        },
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Institutions_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Newsroom_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Newsroom_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Newsroom_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Newsroom_0_document_0_desktop.png",
         "label": "Newsroom",
@@ -231,9 +232,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03962022413655579,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 688
+          "rawMisMatchPercentage": 0.04783341309723219,
+          "misMatchPercentage": "0.05",
+          "analysisTime": 378
         }
       },
       "status": "pass"
@@ -241,7 +242,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Perspectives_Podcast_0_document_0_desktop.png",
         "label": "Perspectives Podcast",
@@ -257,19 +258,19 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.028620211429767634,
+          "rawMisMatchPercentage": 0.028554793803642457,
           "misMatchPercentage": "0.03",
-          "analysisTime": 856
+          "analysisTime": 501
         }
       },
       "status": "pass"
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Life_at_Brookfield_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Life_at_Brookfield_0_document_0_desktop.png",
-        "selector": "document",
-        "fileName": "backstop_default_Life_at_Brookfield_0_document_0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Life_at_Brookfield_0__0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Life_at_Brookfield_0__0_desktop.png",
+        "selector": "",
+        "fileName": "backstop_default_Life_at_Brookfield_0__0_desktop.png",
         "label": "Life at Brookfield",
         "requireSameDimensions": false,
         "misMatchThreshold": 0.1,
@@ -277,23 +278,15 @@ report({
         "referenceUrl": "https://www.brookfield.com/careers/life-at-brookfield",
         "expect": 0,
         "viewportLabel": "desktop",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "rawMisMatchPercentage": 0.003168824163969795,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 497
-        }
+        "engineErrorMsg": "Navigation timeout of 60000 ms exceeded",
+        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield3/backstop_data/bitmaps_reference/backstop_default_Life_at_Brookfield_0__0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Career_Opportunities_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Career_Opportunities_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Career_Opportunities_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Career_Opportunities_0_document_0_desktop.png",
         "label": "Career Opportunities",
@@ -309,17 +302,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0003954266088214028,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 403
-        }
+          "rawMisMatchPercentage": 2.398142675528593,
+          "misMatchPercentage": "2.40",
+          "analysisTime": 548
+        },
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Career_Opportunities_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Insights_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_0_desktop.png",
         "label": "Insights",
@@ -335,17 +329,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.023799794163942366,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 836
-        }
+          "rawMisMatchPercentage": 4.490996051198257,
+          "misMatchPercentage": "4.49",
+          "analysisTime": 407
+        },
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Insights_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_-_Industrials_0_document_0_desktop.png",
         "label": "Insights - Industrials",
@@ -361,9 +356,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.018076695701628353,
+          "rawMisMatchPercentage": 0.017758658105842914,
           "misMatchPercentage": "0.02",
-          "analysisTime": 404
+          "analysisTime": 472
         }
       },
       "status": "pass"
@@ -371,7 +366,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_-_PE_Returns_PT_0_document_0_desktop.png",
         "label": "Insights - PE Returns (PT)",
@@ -387,9 +382,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.003990028061735819,
+          "rawMisMatchPercentage": 0.00375826819001804,
           "misMatchPercentage": "0.00",
-          "analysisTime": 491
+          "analysisTime": 535
         }
       },
       "status": "pass"
@@ -397,7 +392,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-120158/backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20260924-082956/backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Infraestrutura_PT_0_document_0_desktop.png",
         "label": "Infraestrutura (PT)",
@@ -408,17 +403,18 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -304
           },
-          "rawMisMatchPercentage": 0.03574270227261425,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 492
-        }
+          "rawMisMatchPercentage": 4.837721802007517,
+          "misMatchPercentage": "4.84",
+          "analysisTime": 499
+        },
+        "diffImage": "../bitmaps_test/20260924-082956/failed_diff_backstop_default_Infraestrutura_PT_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     }
   ],
   "id": "backstop_default"
