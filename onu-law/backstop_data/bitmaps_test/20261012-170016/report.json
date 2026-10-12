@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260828-063656/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-170016/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
@@ -20,15 +20,18 @@
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 7.368868785110516,
+          "misMatchPercentage": "7.37",
+          "analysisTime": 263
+        },
+        "diffImage": "../bitmaps_test/20261012-170016/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Visit_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260828-063656/backstop_default_Visit_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-170016/backstop_default_Visit_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Visit_0_document_0_desktop.png",
         "label": "Visit",
@@ -46,7 +49,7 @@
           },
           "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 105
+          "analysisTime": 168
         }
       },
       "status": "pass"
@@ -54,7 +57,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Apply_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260828-063656/backstop_default_Apply_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-170016/backstop_default_Apply_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Apply_0_document_0_desktop.png",
         "label": "Apply",
