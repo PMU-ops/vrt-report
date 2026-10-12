@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Root_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Root_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Root_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Root_0_document_0_desktop.png",
         "label": "Root",
@@ -14,14 +14,24 @@
         "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/",
         "expect": 0,
         "viewportLabel": "desktop",
-        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-oak/backstop_data/bitmaps_reference/backstop_default_Root_0_document_0_desktop.png"
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 6.181201647325596,
+          "misMatchPercentage": "6.18",
+          "analysisTime": 166
+        },
+        "diffImage": "../bitmaps_test/20261012-165754/failed_diff_backstop_default_Root_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Insights_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_0_desktop.png",
         "label": "Insights",
@@ -37,9 +47,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0004212498652000432,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 100
+          "rawMisMatchPercentage": 0.016277094791329667,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 102
         }
       },
       "status": "pass"
@@ -47,7 +57,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Real_Estate_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Real_Estate_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Real_Estate_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Real_Estate_0_document_0_desktop.png",
         "label": "Real Estate",
@@ -71,7 +81,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Brookfield_Global_Listed_Real_Estate_Fund_0_document_0_desktop.png",
         "label": "Brookfield Global Listed Real Estate Fund",
@@ -95,7 +105,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png",
         "label": "Oaktree Diversified Income Fund",
@@ -111,18 +121,18 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.5154791083099908,
-          "misMatchPercentage": "3.52",
-          "analysisTime": 126
+          "rawMisMatchPercentage": 6.631725606909431,
+          "misMatchPercentage": "6.63",
+          "analysisTime": 135
         },
-        "diffImage": "../bitmaps_test/20260805-094141/failed_diff_backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261012-165754/failed_diff_backstop_default_Oaktree_Diversified_Income_Fund_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png",
         "label": "Center Coast Brookfield MLP Energy Infrastructure Fund",
@@ -133,23 +143,23 @@
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -699
+            "height": 0
           },
-          "rawMisMatchPercentage": 34.32069702881152,
-          "misMatchPercentage": "34.32",
-          "analysisTime": 127
+          "rawMisMatchPercentage": 6.69781454248366,
+          "misMatchPercentage": "6.70",
+          "analysisTime": 130
         },
-        "diffImage": "../bitmaps_test/20260805-094141/failed_diff_backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261012-165754/failed_diff_backstop_default_Center_Coast_Brookfield_MLP_Energy_Infrastructure_Fund_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_About_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_About_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_About_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_About_0_document_0_desktop.png",
         "label": "About",
@@ -165,18 +175,18 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.9887040625897217,
+          "rawMisMatchPercentage": 3.988603125897215,
           "misMatchPercentage": "3.99",
-          "analysisTime": 128
+          "analysisTime": 120
         },
-        "diffImage": "../bitmaps_test/20260805-094141/failed_diff_backstop_default_About_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261012-165754/failed_diff_backstop_default_About_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insight_QA_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Insight_QA_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Insight_QA_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insight_QA_0_document_0_desktop.png",
         "label": "Insight QA",
@@ -200,7 +210,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_0_desktop.png",
         "label": "News",
@@ -223,10 +233,10 @@
     },
     {
       "pair": {
-        "reference": "../bitmaps_reference/backstop_default_Japanese_0__0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Japanese_0__0_desktop.png",
-        "selector": "",
-        "fileName": "backstop_default_Japanese_0__0_desktop.png",
+        "reference": "../bitmaps_reference/backstop_default_Japanese_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Japanese_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "backstop_default_Japanese_0_document_0_desktop.png",
         "label": "Japanese",
         "requireSameDimensions": false,
         "misMatchThreshold": 1,
@@ -234,15 +244,24 @@
         "referenceUrl": "https://autopilot-brookfield-oaktree-2.pantheonsite.io/ja",
         "expect": 0,
         "viewportLabel": "desktop",
-        "engineErrorMsg": "Navigation timeout of 60000 ms exceeded",
-        "error": "Reference file not found /Users/steve.malisa/pantheon-tools/vrt-report/brookfield-oak/backstop_data/bitmaps_reference/backstop_default_Japanese_0__0_desktop.png"
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.976065826015162,
+          "misMatchPercentage": "3.98",
+          "analysisTime": 114
+        },
+        "diffImage": "../bitmaps_test/20261012-165754/failed_diff_backstop_default_Japanese_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Japanese_Insights_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260805-094141/backstop_default_Japanese_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261012-165754/backstop_default_Japanese_Insights_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Japanese_Insights_0_document_0_desktop.png",
         "label": "Japanese Insights",
@@ -258,9 +277,7 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0007413997627520759,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 109
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
