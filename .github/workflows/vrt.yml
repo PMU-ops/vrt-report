@@ -1,0 +1,46 @@
+name: VRT
+
+on:
+  workflow_dispatch:
+    inputs:
+      site:
+        description: 'Site folder containing backstop.json (e.g. tpl, onu-main)'
+        required: true
+        default: 'tpl'
+      command:
+        description: 'Backstop command'
+        required: true
+        default: 'test'
+        type: choice
+        options:
+          - test
+          - reference
+          - approve
+
+jobs:
+  backstop:
+    runs-on: ubuntu-latest
+    env:
+      TPL_USER: ${{ secrets.TPL_USER }}
+      TPL_PASS: ${{ secrets.TPL_PASS }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install -g backstopjs
+
+      - name: Run backstop ${{ inputs.command }}
+        working-directory: ${{ inputs.site }}
+        run: backstop ${{ inputs.command }} --config=backstop.json
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: backstop-${{ inputs.site }}
+          path: |
+            ${{ inputs.site }}/backstop_data/bitmaps_test
+            ${{ inputs.site }}/backstop_data/html_report
