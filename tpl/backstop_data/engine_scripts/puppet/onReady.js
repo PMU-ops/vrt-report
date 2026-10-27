@@ -6,10 +6,22 @@ module.exports = async (page, scenario, vp, isReference) => {
     '/wp-admin/index.php'
   ]
   
-  var pmuUserName = 'REMOVED_USER'
-  var pmuUserPass = 'REMOVED_PASS'
+  // Credentials come from the environment (never commit them).
+  // Locally, put TPL_USER / TPL_PASS in the repo-root .env (gitignored, shared
+  // by all sites). Run from the site folder; ./.env is also honoured. Existing
+  // variables are never overridden.
+  // In GitHub Actions, map them from the TPL_USER / TPL_PASS repo secrets.
+  for (const envFile of ['.env', '../.env']) {
+    try { process.loadEnvFile(envFile) } catch (e) {}
+  }
+  var pmuUserName = process.env.TPL_USER
+  var pmuUserPass = process.env.TPL_PASS
   var siteLoginUrl = '/wp-login.php'
   // END of Configuration
+
+  if (!pmuUserName || !pmuUserPass) {
+    throw new Error('Missing TPL_USER / TPL_PASS environment variables.')
+  }
   
     const testUrl = new URL(scenario.url)
   const referenceUrl = new URL(scenario.referenceUrl)
