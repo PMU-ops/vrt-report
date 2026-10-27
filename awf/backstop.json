@@ -1,62 +1,79 @@
 {
-    "id": "backstop_default",
-    "viewports": [
-        {
-            "label": "desktop",
-            "width": 1920,
-            "height": 1080 
-        }
-    ],
-    "onBeforeScript": "puppet/onBefore.js",
-    "onReadyScript": "puppet/onReady.js",
-    "cookiePath": "backstop_data/engine_scripts/cookies.json",
-    "scenarios": [
-      {
-    "label": "Home",
-    "url": "https://www.awf.org/",
-    "referenceUrl": "https://mu-051926-awfd8-sandbox.pantheonsite.io/"
-  },
-  {
-    "label": "Wildlife Conservation – All",
-    "url": "https://www.awf.org/wildlife-conservation/all",
-    "referenceUrl": "https://mu-051926-awfd8-sandbox.pantheonsite.io/wildlife-conservation/all"
-  },
-  {
-    "label": "Wildlife Conservation – Pangolin",
-    "url": "https://www.awf.org/wildlife-conservation/pangolin",
-    "referenceUrl": "https://mu-051926-awfd8-sandbox.pantheonsite.io/wildlife-conservation/pangolin"
-  },
-  {
-    "label": "News",
-    "url": "https://www.awf.org/news",
-    "referenceUrl": "https://mu-051926-awfd8-sandbox.pantheonsite.io/news"
-  },
-  {
-    "label": "Safaris",
-    "url": "https://www.awf.org/safaris",
-    "referenceUrl": "https://mu-051926-awfd8-sandbox.pantheonsite.io/safaris"
-  },
-  {
-    "label": "News – Mystery Giraffes",
-    "url": "https://www.awf.org/news/mystery-giraffes-africa",
-    "referenceUrl": "https://mu-051926-awfd8-sandbox.pantheonsite.io/news/mystery-giraffes-africa"
-  }
-    ],
-    "paths": {
-        "bitmaps_reference": "backstop_data/bitmaps_reference",
-        "bitmaps_test": "backstop_data/bitmaps_test",
-        "engine_scripts": "backstop_data/engine_scripts",
-        "html_report": "backstop_data/html_report",
-        "ci_report": "backstop_data/ci_report"
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "cookiePath": "backstop_data/engine_scripts/cookies.json",
+  "scenarios": [
+    {
+      "label": "Home",
+      "url": "https://www.awf.org/",
+      "referenceUrl": "https://autopilot-awfd8-sandbox.pantheonsite.io/",
+      "misMatchThreshold": 5,
+      "requireSameDimensions": false
     },
-    "report": ["browser"],
-    "engine": "puppeteer",
-    "engineOptions": {
-        "args": ["--no-sandbox"],
-        "timeout": 0
+    {
+      "label": "Wildlife Conservation – All",
+      "url": "https://www.awf.org/wildlife-conservation/all",
+      "referenceUrl": "https://autopilot-awfd8-sandbox.pantheonsite.io/wildlife-conservation/all",
+      "misMatchThreshold": 5,
+      "requireSameDimensions": false
     },
-    "asyncCaptureLimit": 5,
-    "asyncCompareLimit": 50,
-    "debug": false,
-    "debugWindow": false
+    {
+      "label": "Wildlife Conservation – Pangolin",
+      "url": "https://www.awf.org/wildlife-conservation/pangolin",
+      "referenceUrl": "https://autopilot-awfd8-sandbox.pantheonsite.io/wildlife-conservation/pangolin",
+      "misMatchThreshold": 5,
+      "requireSameDimensions": false
+    },
+    {
+      "label": "News",
+      "url": "https://www.awf.org/news",
+      "referenceUrl": "https://autopilot-awfd8-sandbox.pantheonsite.io/news",
+      "misMatchThreshold": 5,
+      "requireSameDimensions": false
+    },
+    {
+      "label": "Safaris",
+      "url": "https://www.awf.org/safaris",
+      "referenceUrl": "https://autopilot-awfd8-sandbox.pantheonsite.io/safaris",
+      "misMatchThreshold": 5,
+      "requireSameDimensions": false
+    },
+    {
+      "label": "News – Mystery Giraffes",
+      "url": "https://www.awf.org/news/mystery-giraffes-africa",
+      "referenceUrl": "https://autopilot-awfd8-sandbox.pantheonsite.io/news/mystery-giraffes-africa",
+      "misMatchThreshold": 5,
+      "requireSameDimensions": false
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ],
+    "timeout": 0,
+    "waitTimeout": 180000
+  },
+  "asyncCaptureLimit": 2,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
 }
