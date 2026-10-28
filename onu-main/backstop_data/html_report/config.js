@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
@@ -20,18 +20,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 7.880845081272629,
-          "misMatchPercentage": "7.88",
-          "analysisTime": 187
+          "rawMisMatchPercentage": 16.89377744395655,
+          "misMatchPercentage": "16.89",
+          "analysisTime": 317
         },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261028-130757/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Apply_to_ONU_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Apply_to_ONU_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Apply_to_ONU_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Apply_to_ONU_0_document_0_desktop.png",
         "label": "Apply to ONU",
@@ -55,7 +55,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Visit_ONU_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Visit_ONU_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Visit_ONU_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Visit_ONU_0_document_0_desktop.png",
         "label": "Visit ONU",
@@ -71,15 +71,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 3.507462468431391,
+          "misMatchPercentage": "3.51",
+          "analysisTime": 326
+        },
+        "diffImage": "../bitmaps_test/20261028-130757/failed_diff_backstop_default_Visit_ONU_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Academics_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Academics_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Academics_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Academics_0_document_0_desktop.png",
         "label": "Academics",
@@ -95,15 +98,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 0.1970371646001443,
+          "misMatchPercentage": "0.20",
+          "analysisTime": 402
+        },
+        "diffImage": "../bitmaps_test/20261028-130757/failed_diff_backstop_default_Academics_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News__Newman_Civic_Fellow_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_News__Newman_Civic_Fellow_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_News__Newman_Civic_Fellow_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News__Newman_Civic_Fellow_0_document_0_desktop.png",
         "label": "News – Newman Civic Fellow",
@@ -119,9 +125,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03294831354115124,
-          "misMatchPercentage": "0.03",
-          "analysisTime": 145
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 136
         }
       },
       "status": "pass"
@@ -129,7 +135,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News__Commencement_Spotlights_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_News__Commencement_Spotlights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_News__Commencement_Spotlights_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News__Commencement_Spotlights_0_document_0_desktop.png",
         "label": "News – Commencement Spotlights",
@@ -145,9 +151,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.03963603670634921,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 143
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -155,7 +159,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Bioengineering_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Bioengineering_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Bioengineering_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Bioengineering_0_document_0_desktop.png",
         "label": "Bioengineering",
@@ -171,18 +175,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 2.043078265154258,
-          "misMatchPercentage": "2.04",
-          "analysisTime": 187
-        },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_Bioengineering_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 239
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Financial_Aid_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Financial_Aid_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Financial_Aid_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Financial_Aid_0_document_0_desktop.png",
         "label": "Financial Aid",
@@ -198,18 +201,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 8.778054067839838,
-          "misMatchPercentage": "8.78",
-          "analysisTime": 265
-        },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_Financial_Aid_0_document_0_desktop.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Undergraduate_Scholarships_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Undergraduate_Scholarships_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Undergraduate_Scholarships_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Undergraduate_Scholarships_0_document_0_desktop.png",
         "label": "Undergraduate Scholarships",
@@ -225,17 +225,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 176
-        }
+          "rawMisMatchPercentage": 11.908780203476049,
+          "misMatchPercentage": "11.91",
+          "analysisTime": 139
+        },
+        "diffImage": "../bitmaps_test/20261028-130757/failed_diff_backstop_default_Undergraduate_Scholarships_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Town__Gown_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Town__Gown_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Town__Gown_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Town__Gown_0_document_0_desktop.png",
         "label": "Town & Gown",
@@ -251,9 +252,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04222482033396745,
-          "misMatchPercentage": "0.04",
-          "analysisTime": 109
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -261,7 +260,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admissions__Aid_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Admissions__Aid_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Admissions__Aid_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admissions__Aid_0_document_0_desktop.png",
         "label": "Admissions & Aid",
@@ -275,20 +274,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -796
+            "height": -721
           },
-          "rawMisMatchPercentage": 0.000013202365863962822,
+          "rawMisMatchPercentage": 0,
           "misMatchPercentage": "0.00",
-          "analysisTime": 411
+          "analysisTime": 429
         },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_Admissions__Aid_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261028-130757/failed_diff_backstop_default_Admissions__Aid_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homecoming_Event_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_Homecoming_Event_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_Homecoming_Event_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homecoming_Event_0_document_0_desktop.png",
         "label": "Homecoming Event",
@@ -299,23 +298,22 @@ report({
         "expect": 0,
         "viewportLabel": "desktop",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": -96
+            "height": 0
           },
-          "rawMisMatchPercentage": 11.039047090729783,
-          "misMatchPercentage": "11.04",
-          "analysisTime": 109
-        },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_Homecoming_Event_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.03655538302277433,
+          "misMatchPercentage": "0.04",
+          "analysisTime": 70
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ONU_at_a_Glance_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_ONU_at_a_Glance_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_ONU_at_a_Glance_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ONU_at_a_Glance_0_document_0_desktop.png",
         "label": "ONU at a Glance",
@@ -333,16 +331,16 @@ report({
           },
           "rawMisMatchPercentage": 2.5418655825749665,
           "misMatchPercentage": "2.54",
-          "analysisTime": 186
+          "analysisTime": 202
         },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_ONU_at_a_Glance_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261028-130757/failed_diff_backstop_default_ONU_at_a_Glance_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FREED_Center_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20261027-092358/backstop_default_FREED_Center_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261028-130757/backstop_default_FREED_Center_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FREED_Center_0_document_0_desktop.png",
         "label": "FREED Center",
@@ -358,13 +356,10 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 10.70189598828037,
-          "misMatchPercentage": "10.70",
-          "analysisTime": 203
-        },
-        "diffImage": "../bitmaps_test/20261027-092358/failed_diff_backstop_default_FREED_Center_0_document_0_desktop.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ],
   "id": "backstop_default"
