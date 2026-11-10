@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Home_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Home_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Home_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Home_0_document_0_desktop.png",
         "label": "Home",
@@ -20,18 +20,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 4.5909503019549245,
-          "misMatchPercentage": "4.59",
-          "analysisTime": 219
+          "rawMisMatchPercentage": 0.6952872168284789,
+          "misMatchPercentage": "0.70",
+          "analysisTime": 263
         },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_Home_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_Home_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Academics_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Academics_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Academics_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Academics_0_document_0_desktop.png",
         "label": "Academics",
@@ -47,18 +47,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 2.7141240788208907,
+          "rawMisMatchPercentage": 2.7136818460963363,
           "misMatchPercentage": "2.71",
-          "analysisTime": 307
+          "analysisTime": 398
         },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_Academics_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_Academics_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admissions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Admissions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Admissions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admissions_0_document_0_desktop.png",
         "label": "Admissions",
@@ -74,15 +74,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 0.34422044498560994,
+          "misMatchPercentage": "0.34",
+          "analysisTime": 384
+        },
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_Admissions_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Campus_Life_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Campus_Life_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Campus_Life_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Campus_Life_0_document_0_desktop.png",
         "label": "Campus Life",
@@ -98,18 +101,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 3.0781843910097506,
-          "misMatchPercentage": "3.08",
-          "analysisTime": 234
+          "rawMisMatchPercentage": 3.051974880185093,
+          "misMatchPercentage": "3.05",
+          "analysisTime": 283
         },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_Campus_Life_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_Campus_Life_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_About_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_About_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_About_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_About_0_document_0_desktop.png",
         "label": "About",
@@ -125,18 +128,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 8.57176468291159,
+          "rawMisMatchPercentage": 8.568074429865668,
           "misMatchPercentage": "8.57",
-          "analysisTime": 238
+          "analysisTime": 299
         },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_About_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_About_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Directory_People_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Directory_People_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Directory_People_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Directory_People_0_document_0_desktop.png",
         "label": "Directory People",
@@ -152,7 +155,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 445
         }
       },
       "status": "pass"
@@ -160,7 +165,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_News_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_News_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_0_desktop.png",
         "label": "News",
@@ -176,9 +181,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.004277375201288245,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 239
+          "rawMisMatchPercentage": 0.009274706069272323,
+          "misMatchPercentage": "0.01",
+          "analysisTime": 392
         }
       },
       "status": "pass"
@@ -186,7 +191,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Alumni_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Alumni_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Alumni_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Alumni_0_document_0_desktop.png",
         "label": "Alumni",
@@ -202,18 +207,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 6.987887706233388,
+          "rawMisMatchPercentage": 6.985652633819038,
           "misMatchPercentage": "6.99",
-          "analysisTime": 233
+          "analysisTime": 236
         },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_Alumni_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_Alumni_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admitted_Students_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Admitted_Students_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Admitted_Students_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admitted_Students_0_document_0_desktop.png",
         "label": "Admitted Students",
@@ -229,7 +234,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.00020850891979210562,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 357
         }
       },
       "status": "pass"
@@ -237,7 +244,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Current_Students_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Current_Students_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Current_Students_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Current_Students_0_document_0_desktop.png",
         "label": "Current Students",
@@ -261,7 +268,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Parents_and_Family_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Parents_and_Family_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Parents_and_Family_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Parents_and_Family_0_document_0_desktop.png",
         "label": "Parents and Family",
@@ -277,9 +284,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.021993335824613852,
+          "rawMisMatchPercentage": 0.022564254276698222,
           "misMatchPercentage": "0.02",
-          "analysisTime": 198
+          "analysisTime": 546
         }
       },
       "status": "pass"
@@ -287,7 +294,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Events_0_document_0_desktop.png",
         "label": "Events",
@@ -303,7 +310,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.002395747387238724,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 403
         }
       },
       "status": "pass"
@@ -311,7 +320,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_Listing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_News_Listing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_News_Listing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_Listing_0_document_0_desktop.png",
         "label": "News Listing",
@@ -327,18 +336,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 1.8585245301440079,
-          "misMatchPercentage": "1.86",
-          "analysisTime": 208
-        },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_News_Listing_0_document_0_desktop.png"
+          "rawMisMatchPercentage": 0.00012700154433877914,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 507
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_Article_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_News_Article_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_News_Article_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_Article_0_document_0_desktop.png",
         "label": "News Article",
@@ -354,18 +362,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.38684052757793763,
-          "misMatchPercentage": "0.39",
-          "analysisTime": 237
+          "rawMisMatchPercentage": 0.3696917466027178,
+          "misMatchPercentage": "0.37",
+          "analysisTime": 508
         },
-        "diffImage": "../bitmaps_test/20260928-150531/failed_diff_backstop_default_News_Article_0_document_0_desktop.png"
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_News_Article_0_document_0_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Directory_Person_Mark_Jaime_0_document_0_desktop.png",
         "label": "Directory Person Mark Jaime",
@@ -381,7 +389,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.000036194116284456795,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 329
         }
       },
       "status": "pass"
@@ -389,7 +399,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Graduate_Program_MS_Counseling_Psychology_0_document_0_desktop.png",
         "label": "Graduate Program MS Counseling Psychology",
@@ -405,9 +415,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.004620717553844437,
+          "rawMisMatchPercentage": 0.0030078255775025107,
           "misMatchPercentage": "0.00",
-          "analysisTime": 260
+          "analysisTime": 421
         }
       },
       "status": "pass"
@@ -415,7 +425,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_You_Got_This_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_You_Got_This_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_You_Got_This_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_You_Got_This_0_document_0_desktop.png",
         "label": "You Got This",
@@ -431,9 +441,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.010125977946159059,
+          "rawMisMatchPercentage": 0.01097301792644613,
           "misMatchPercentage": "0.01",
-          "analysisTime": 220
+          "analysisTime": 408
         }
       },
       "status": "pass"
@@ -441,7 +451,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20260928-150531/backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20261110-175807/backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png",
         "label": "Archbishop Alemany Library",
@@ -457,10 +467,13 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 38.44813129854291,
+          "misMatchPercentage": "38.45",
+          "analysisTime": 538
+        },
+        "diffImage": "../bitmaps_test/20261110-175807/failed_diff_backstop_default_Archbishop_Alemany_Library_0_document_0_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     }
   ],
   "id": "backstop_default"
